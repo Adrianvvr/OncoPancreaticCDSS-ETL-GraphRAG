@@ -1,0 +1,1603 @@
+aemps cimaFICHA TECNICA GEMCITABINA HOSPIRA 1000 mg CONCENTRADO PARA SOLUCION PARA PERFUSION
+1. NOMBRE DEL MEDICAMENTO
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+3. FORMA FARMACÉUTICA
+4. DATOS CLÍNICOS
+4.1. Indicaciones terapéuticas
+4.2. Posología y forma de administración
+4.3. Contraindicaciones
+4.4. Advertencias y precauciones especiales de empleo
+4.5. Interacción con otros medicamentos y otras formas de interacción
+4.6. Fertilidad, embarazo y lactancia
+4.7. Efectos sobre la capacidad para conducir y utilizar máquinas
+4.8. Reacciones adversas
+4.9. Sobredosis
+5. PROPIEDADES FARMACOLÓGICAS
+5.1. Propiedades farmacodinámicas
+5.2. Propiedades farmacocinéticas
+5.3. Datos preclínicos sobre seguridad
+6. DATOS FARMACÉUTICOS
+6.1. Lista de excipientes
+6.2. Incompatibilidades
+6.3. Periodo de validez
+6.4. Precauciones especiales de conservación
+6.5. Naturaleza y contenido del envase
+6.6. Precauciones especiales de eliminación y otras manipulaciones
+7. TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+8. NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+9. FECHA DE LA PRIMERA AUTORIZACIÓN/ RENOVACIÓN DE LA AUTORIZACIÓN
+10. FECHA DE LA REVISIÓN DEL TEXTO
+Pulse aquí para ver el documento en formato PDF.  icono pdf
+
+1. NOMBRE DEL MEDICAMENTO
+Gemcitabina Hospira 200 mg concentrado para solución para perfusión
+
+Gemcitabina Hospira 1 000 mg concentrado para solución para perfusión
+
+Gemcitabina Hospira 2 000 mg concentrado para solución para perfusión
+
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+Un  mL de concentrado para solución para perfusión contiene hidrocloruro de gemcitabina, equivalente a 38 mg de gemcitabina.
+
+ 
+
+La composición cuantitativa de cada presentación se facilita en la siguiente tabla:
+
+Presentación
+
+Concentración
+
+Cantidad de gemcitabina
+
+(como hidrocloruro)
+
+Volumen de solución
+
+200 mg/5,3 mL
+
+38 mg/mL
+
+200 mg
+
+5,3 mL
+
+1 000 mg/26,3 mL
+
+38 mg/mL
+
+1 000 mg
+
+26,3 mL
+
+2 000 mg/52,6 mL
+
+38 mg/mL
+
+2 000 mg
+
+52,6 mL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Para consultar la lista completa de excipientes ver sección 6.1.
+
+ 
+
+ 
+
+3. FORMA FARMACÉUTICA
+Concentrado para solución para perfusión.
+
+ 
+
+Solución clara, transparente o ligeramente amarillenta, prácticamente libre de partículas visibles.
+
+ 
+
+pH: 2,0 – 3,0
+
+Osmolaridad: 266 mOsmol/L
+
+ 
+
+4. DATOS CLÍNICOS
+4.1. Indicaciones terapéuticas
+Gemcitabina está indicada en el tratamiento del cáncer de vejiga localmente avanzado o metastásico, en combinación con cisplatino.
+
+ 
+
+Gemcitabina está indicada en el tratamiento de pacientes con adenocarcinoma de páncreas localmente avanzado o metastásico.
+
+ 
+
+Gemcitabina, en combinación con cisplatino, está indicada como tratamiento de primera línea en pacientes con cáncer de pulmón no microcítico (CPNM) localmente avanzado o metastásico. Se puede considerar la monoterapia con gemcitabina en pacientes ancianos o en aquellos con estado del rendimiento 2.
+
+ 
+
+Gemcitabina, en combinación con carboplatino, está indicada en el tratamiento de pacientes con carcinoma epitelial de ovario localmente avanzado o metastásico, en pacientes con enfermedad recidivante después de un intervalo libre de recidivas de al menos 6 meses después de un tratamiento de primera línea basado en platino.
+
+ 
+
+Gemcitabina, en combinación con paclitaxel, está indicada en el tratamiento de pacientes con cáncer de mama metastásico o localmente recidivante, no resecable, que hayan recidivado tras una quimioterapia adyuvante o neoadyuvante. La quimioterapia previa deberá haber contenido una antraciclina a no ser que ésta estuviera clínicamente contraindicada.
+
+4.2. Posología y forma de administración
+Gemcitabina sólo debe ser prescrita por un especialista con experiencia en terapia antineoplásica.
+
+ 
+
+Posología
+
+ 
+
+Cáncer de vejiga
+
+Uso combinado
+
+La dosis recomendada de gemcitabina es 1 000 mg/m², administrada en perfusión de 30 minutos. La dosis debe administrarse los días 1, 8 y 15 de cada ciclo de 28 días en combinación con cisplatino. La dosis recomendada de cisplatino es 70 mg/m² administrada el día 1, después de la gemcitabina o el día 2 de cada ciclo de 28 días. A continuación se repite este ciclo de cuatro semanas. Se podrá reducir la dosis durante un ciclo o en cada ciclo en función del grado de toxicidad experimentado por el paciente.
+
+ 
+
+Cáncer de páncreas
+
+La dosis recomendada de gemcitabina es 1 000 mg/m², administrada en perfusión intravenosa de 30 minutos. Esta dosis se administrará una vez a la semana durante 7 semanas seguidas de una semana de descanso. Los ciclos siguientes deben consistir en inyecciones una vez a la semana durante 3 semanas consecutivas seguidas de una semana de descanso. Se podrá reducir la dosis durante un ciclo o en cada ciclo en función del grado de toxicidad experimentado por el paciente.
+
+ 
+
+Cáncer de pulmón no microcítico
+
+Monoterapia
+
+La dosis recomendada de gemcitabina es 1 000 mg/m², administrada en perfusión intravenosa de 30 minutos. Esta dosis se administrará una vez a la semana durante 3 semanas, seguidas de una semana de descanso. A continuación se repite este ciclo de cuatro semanas. Se podrá reducir la dosis durante un ciclo o en cada ciclo en función del grado de toxicidad experimentado por el paciente.
+
+ 
+
+Uso combinado
+
+La dosis recomendada de gemcitabina es 1 250 mg/m² de superficie corporal, administrada en perfusión intravenosa de 30 minutos, los días 1 y 8 de cada ciclo de tratamiento (21 días). Se podrá reducir la dosis durante un ciclo o en cada ciclo en función del grado de toxicidad experimentado por el paciente. Se ha utilizado cisplatino en dosis entre 75–100 mg/m² una vez cada 3 semanas.
+
+ 
+
+Cáncer de mama
+
+Uso combinado
+
+Se recomienda la administración de gemcitabina en combinación con paclitaxel, administrando en primer lugar paclitaxel (175 mg/m²), el día 1 en perfusión intravenosa de aproximadamente 3 horas, seguido de gemcitabina (1 250 mg/m²), administrada en perfusión intravenosa de 30 minutos, los días 1 y 8 de cada ciclo de 21 días. Se podrá reducir la dosis durante un ciclo o en cada ciclo en función del grado de toxicidad experimentado por el paciente. Los pacientes deberán tener un recuento absoluto de granulocitos de al menos 1 500 (x 106/L) antes de iniciar el tratamiento combinado con gemcitabina y paclitaxel.
+
+ 
+
+Cáncer de ovario
+
+Uso combinado
+
+Se recomienda gemcitabina en combinación con carboplatino administrando la gemcitabina en una dosis de 1 000 mg/m2 en perfusión intravenosa de 30 minutos los días 1 y 8 de cada ciclo de 21 días. Después de la gemcitabina, se administrará el carboplatino el día 1 a una dosis tal que el Área Bajo la Curva (AUC) sea de 4,0 mg/mL·x min. Se podrá reducir la dosis durante un ciclo o en cada ciclo en función del grado de toxicidad experimentado por el paciente.
+
+ 
+
+Monitorización de la toxicidad y modificación de la dosis debido a la toxicidad
+
+ 
+
+Modificación de la dosis debido a la toxicidad no hematológica
+
+Se deben realizar exploraciones físicas y chequeos de la función renal y hepática periódicos para detectar toxicidad no hematológica. Se podrá reducir la dosis durante un ciclo o en cada ciclo en función del grado de toxicidad experimentado por el paciente. En general, para una toxicidad no hematológica severa (Grado 3 o 4), excepto náuseas/vómitos, se debe aplazar o reducir el tratamiento con gemcitabina dependiendo de la opinión del médico a cargo. Se debe aplazar la administración de las dosis hasta que la toxicidad haya remitido en opinión del médico.
+
+ 
+
+Para ajustar la dosis de cisplatino, carboplatino y paclitaxel en la terapia combinada, consulte las fichas técnicas correspondientes.
+
+ 
+
+Modificación de la dosis debido a la toxicidad hematológica
+
+ 
+
+Inicio de un ciclo
+
+En todas las indicaciones, se deben monitorizar los recuentos de plaquetas y de granulocitos de los pacientes antes de cada dosis. Los pacientes deben tener un recuento total de granulocitos de al menos 1 500 (x 106/L) y un recuento de plaquetas de 100 000 (x 106/L) antes del inicio de cada ciclo.
+
+ 
+
+Dentro de un ciclo
+
+La modificación de la dosis de gemcitabina dentro de un ciclo debe realizarse de acuerdo con las siguientes tablas:
+
+Modificación de la dosis de gemcitabina dentro de un ciclo para el cáncer de vejiga, cáncer de pulmón no microcítico (CPNM) y cáncer de páncreas, administrada en monoterapia o en combinación con cisplatino
+
+Recuento total de granulocitos (x 106/L)
+
+Recuento de plaquetas (x 106/L)
+
+Porcentaje de dosis estándar de gemcitabina (%)
+
+> 1 000 y
+
+> 100 000
+
+100
+
+500-1 000 o
+
+50 000-100  000
+
+75
+
+< 500 o
+
+< 50 000
+
+Omitir dosis*
+
+ 
+
+*No se reinstaurará el tratamiento omitido dentro de un ciclo antes de que el recuento total de granulocitos alcance al menos 500 (x 106/L) y el recuento de plaquetas alcance 50 000 (x 106L)
+
+ 
+
+Modificación de la dosis de gemcitabina dentro de un ciclo para el cáncer de mama, administrada en combinación con paclitaxel
+
+Recuento total de granulocitos (x 106/L)
+
+Recuento de plaquetas (x 106/L)
+
+Porcentaje de dosis estándar de gemcitabina (%)
+
+≥ 1 200 y
+
+> 75 000
+
+100
+
+1 000- < 1 200 o
+
+50 000-75 000
+
+75
+
+700- < 1 000 y
+
+≥ 50 000
+
+50
+
+< 700 o
+
+< 50 000
+
+Omitir dosis*
+
+ 
+
+*No se reinstaurará el tratamiento omitido dentro de un ciclo. El tratamiento empezará el día 1 del siguiente ciclo, una vez que el recuento total de granulocitos alcance al menos 1 500 (x 106/L) y el recuento de plaquetas alcance 100 000 (x 106/L).
+
+ 
+
+Modificación de la dosis de gemcitabina dentro de un ciclo para el cáncer de ovario, administrada en combinación con carboplatino
+
+Recuento total de granulocitos (x 106/L)
+
+Recuento de plaquetas (x 106/L)
+
+Porcentaje de dosis estándar de gemcitabina (%)
+
+> 1 500 y
+
+≥ 100 000
+
+100
+
+1 000-1 500 o
+
+75 000-100 000
+
+50
+
+<1 000 o
+
+< 75 000
+
+Omitir dosis*
+
+ 
+
+* No se reinstaurará el tratamiento omitido dentro de un ciclo. El tratamiento empezará el día 1 del siguiente ciclo, una vez que el recuento total de granulocitos alcance al menos 1 500 (x 106/L) y el recuento de plaquetas alcance 100 000 (x 106/L).
+
+ 
+
+ 
+
+Modificación de la dosis debido a la toxicidad hematológica en ciclos posteriores, para todas las indicaciones
+
+La dosis de gemcitabina debe reducirse al 75% de la dosis original al inicio del ciclo, en el caso de las siguientes toxicidades hematológicas:
+
+ 
+
+• Recuento total de granulocitos < 500 x 106/L durante más de 5 días
+
+• Recuento total de granulocitos < 100 x 106/L durante más de 3 días
+
+• Neutropenia febril
+
+• Plaquetas < 25 000 x 106/L
+
+• Retraso del ciclo de más de 1 semana debido a toxicidad
+
+ 
+
+ 
+
+Forma de administración
+
+La gemcitabina se tolera bien durante la perfusión y puede administrarse de forma ambulatoria. En el caso de producirse extravasación, por lo general se debe interrumpir inmediatamente la perfusión y se debe comenzar de nuevo en otro vaso sanguíneo. Tras la administración se debe monitorizar cuidadosamente al paciente.
+
+ 
+
+Para instrucciones sobre la dilución adicional de la solución, ver sección 6.6.
+
+ 
+
+Poblaciones especiales
+
+ 
+
+Fallo hepático o renal
+
+La gemcitabina se debe utilizar con precaución en pacientes con fallo hepático o renal ya que no se dispone de suficiente información procedente de ensayos clínicos que permitan recomendar claramente la dosis para estas poblaciones de pacientes (ver secciones 4.4 y 5.2).
+
+ 
+
+Edad avanzada (> 65 años de edad)
+
+Los pacientes mayores de 65 años han tolerado bien la gemcitabina. No hay indicios que sugieran que sea necesario ajustar la dosis en pacientes de edad avanzada, que no sean los recomendados para todos los pacientes (ver sección 5.2)
+
+ 
+
+Población pediátrica (< 18 años de edad)
+
+No se recomienda el uso de gemcitabina en niños menores de 18 años debido a los datos insuficientes de seguridad y eficacia.
+
+4.3. Contraindicaciones
+Hipersensibilidad al principio activo o a alguno de los excipientes incluidos en la sección 6.1.
+
+Lactancia (ver sección 4.6).
+
+4.4. Advertencias y precauciones especiales de empleo
+Se ha demostrado que la prolongación del tiempo de perfusión y el aumento de la frecuencia de administración aumentan la toxicidad.
+
+ 
+
+Toxicidad hematológica
+
+La gemcitabina puede inhibir la función de la médula ósea que se manifiesta en leucopenia, trombocitopenia y anemia.
+
+ 
+
+Se deben monitorizar los recuentos de plaquetas, leucocitos y granulocitos a los pacientes que estén recibiendo gemcitabina, antes de cada dosis. Cuando se detecte supresión de médula ósea inducida por el fármaco se debe considerar la suspensión o modificación del tratamiento (ver sección 4.2). Sin embargo, la mielosupresión dura poco y normalmente no da lugar a una reducción de la dosis y rara vez a la suspensión del tratamiento.
+
+ 
+
+El recuento de sangre periférica puede continuar disminuyendo después de suspender la administración de gemcitabina. El tratamiento se debe iniciar con precaución en pacientes con insuficiencia de la médula ósea. Como con otros tratamientos citotóxicos, se debe considerar el riesgo de inhibición de la médula ósea acumulativa cuando se administra el tratamiento de gemcitabina junto con otra quimioterapia.
+
+ 
+
+Reacciones adversas cutáneas graves (RACG)
+
+SSe han notificado índrome de Stevens-Johnson (SJS), necrólisis epidérmica tóxica (NET), reacción a fármaco con eosinofilia y síntomas sistémicos (DRESS) y pustulosis exantemática generalizada aguda (PEGA), que pueden poner en peligro la vida o ser mortales,  en asociación con el tratamiento con gemcitabina (ver sección 4.8). lLos pacientes deben ser informados de los signos y síntomas de las reacciones adversas cutáneas graves y deben consultar a su médico inmediatamente cuando observen cualquier signo o síntoma indicativo. y si aparecen signos y síntomas que sugieran estas reacciones, se deberá retirar inmediatamente la gemcitabina y considerar un tratamiento alternativo (cuando proceda).
+
+ 
+
+Si el paciente ha desarrollado una reacción adversa cutánea grave con el uso de gemcitabina, el tratamiento con gemcitabina no deberá reanudarse en ningún momento.
+
+ 
+
+Insuficiencia hepática y renal
+
+En pacientes con fallo renal o hepático, la gemcitabina deberá utilizarse con precaución ya que no hay información suficiente de los estudios clínicos que permitan establecer recomendaciones posológicas claras para esta población de pacientes (ver sección 4.2).
+
+ 
+
+La administración de gemcitabina a pacientes con metástasis hepática concurrente o con historia clínica pre-existente de hepatitis, alcoholismo o cirrosis hepática puede producir una exacerbación del fallo hepático subyacente.
+
+ 
+
+Se deben llevar a cabo periódicamente evaluaciones de laboratorio de la función renal y hepática (que incluyan pruebas virológicas).
+
+ 
+
+Radioterapia concomitante
+
+Radioterapia concomitante (administrada conjuntamente o ≤ 7 días de diferencia): Se ha notificado toxicidad (ver sección 4.5 para detalles y recomendaciones de uso).
+
+ 
+
+Vacunas vivas atenuadas
+
+En pacientes tratados con gemcitabina no se recomienda la administración de vacunas contra la fiebre amarilla ni otras vacunas atenuadas (ver sección 4.5).
+
+ 
+
+Sistema nervioso
+
+ 
+
+Síndrome de encefalopatía posterior reversible (SEPR)
+
+Se han notificado casos de síndrome de encefalopatía posterior reversible (PRES) con consecuencias potencialmente graves, en pacientes que recibieron gemcitabina en monoterapia o en combinación con otros antineoplásicos. En la mayoría de los pacientes tratados con gemcitabina que presentaron PRES, se notificaron casos de hipertensión aguda y convulsiones, aunque podrían darse otros síntomas como dolor de cabeza, letargia, confusión y ceguera. La herramienta óptima para la confirmación del síndrome, es la obtención de imágenes por Resonancia Magnética (RM). PRES fue reversible con cuidados de soporte adecuados. Si se desarrolla PRES durante el tratamiento con gemcitabina, se debe interrumpir el tratamiento de forma permanente y deberán implementarse medidas de soporte incluyendo control de la presión arterial y el uso de anticonvulsivos
+
+ 
+
+Sistema cardiovascular
+
+Debido al riesgo de trastornos cardiacos y/o vasculares con gemcitabina se debe tener un especial cuidado en aquellos pacientes que presenten una historia clínica de acontecimientos cardiovasculares.
+
+ 
+
+Síndrome de fuga capilar
+
+Se han notificado casos de síndrome de síndorme de fuga capilar en pacientes tratados con gemcitabina en monoterapia o en combinación con otros agentes quimioterapéuticos (ver sección 4.8). Normalmente este síndrome es tratable si se reconoce con prontitud y se maneja adecuadamente, pero se han notificado casos mortales. El trastorno implica una hiperpermeabilidad capilar sistémica con extravasación de fluido y proteínas del espacio intravascular al intersticial. El cuadro clínico incluye edema generalizado, ganancia de peso, hipoalbuminemia, hipotensión grave, insuficiencia renal aguda y edema pulmonar. En caso de producirse un síndrome de fuga capilar durante la terapia, se debe suspender el tratamiento con gemcitabina y adoptar medidas de soporte. El síndrome de fuga capilar puede ocurrir en ciclos posteriores y en la bibliografía se ha asociado al síndrome de dificultad respiratoria del adulto.
+
+ 
+
+ 
+
+Sistema pulmonar
+
+Se han notificado efectos pulmonares, a veces severos (tales como edema pulmonar, neumonitis intersticial o síndrome de distrés respiratorio del adulto (SDRA)) en asociación con el tratamiento con gemcitabina. Se desconoce la etiología de dichos efectos. Si ocurren, se debe considerar la posibilidad de suspender el tratamiento con gemcitabina. La aplicación inmediata de medidas terapéuticas de apoyo puede contribuir a mejorar la afección.
+
+ 
+
+Sistema renal
+
+ 
+
+Síndrome urémico hemolítico
+
+En raras ocasiones se han comunicado (datos post comercialización) resultados clínicos coherentes con el síndrome urémico hemolítico (SHU) en pacientes tratados con gemcitabina (ver sección 4.8). SHU es una enfermedad potencialmente mortal. Se debe suspender el tratamiento con gemcitabina en cuanto se observe el más mínimo indicio de anemia hemolítica microangiopática, como por ejemplo descensos rápidos de hemoglobina con trombocitopenia concomitante, elevación de la bilirrubina sérica, creatinina sérica, nitrógeno ureico en sangre o lactato deshidrogenasa (LDH). Incluso después de suspender el tratamiento, el fallo renal puede ser irreversible y precisar diálisis.
+
+ 
+
+Fertilidad
+
+En los estudios de fertilidad, la gemcitabina produjo hipoespermatogénesis en ratones machos (ver sección 5.3). Por lo tanto, se aconseja a los hombres en tratamiento con gemcitabina que no tengan hijos durante el tratamiento ni durante los 4 meses siguientes al tratamiento, así como buscar más información sobre la crioconservación del esperma antes de un tratamiento debido a la posibilidad de esterilidad a causa del tratamiento con gemcitabina (ver sección 4.6).
+
+ 
+
+Información sobre los excipientes
+
+ 
+
+Gemcitabina Hospira 200 mg concentrado para solución para perfusión
+
+Este medicamento contiene menos de 1 mmol de sodio (23 mg) por vial; esto es, esencialmente “exento de sodio”.
+
+ 
+
+Gemcitabina Hospira 1 000 mg concentrado para solución para perfusión
+
+Este medicamento contiene menos de 1 mmol de sodio (23 mg) por vial; esto es, esencialmente “exento de sodio”.
+
+ 
+
+Gemcitabina Hospira 2 000 mg concentrado para solución para perfusión
+
+Este medicamento contiene menos de 1 mmol de sodio (23 mg) por vial; esto es, esencialmente “exento de sodio”.
+
+4.5. Interacción con otros medicamentos y otras formas de interacción
+No se han realizado estudios de interacciones específicos (ver sección 5.2).
+
+Radioterapia
+
+Administración concurrente (simultánea o ≤ 7 días de diferencia) –La toxicidad asociada con esta terapia “multimodal” depende de muchos factores diferentes, incluidos la dosis de gemcitabina, la frecuencia de administración de gemcitabina, la dosis de radiación, la técnica de planificación de radioterapia, el tejido a radiar y el volumen de irradiación teórico. Los estudios preclínicos y clínicos realizados han demostrado que la gemcitabina tiene actividad radiosensibilizante. En un ensayo único, en el que se administró una dosis de gemcitabina de 1 000 mg/m² de forma concurrente con radioterapia torácica, durante seis semanas consecutivas, a pacientes con cáncer de pulmón no microcítico, se observó toxicidad significativa en forma de mucositis severa y potencialmente mortal, especialmente esofagitis y neumonitis, particularmente en aquellos pacientes que recibieron radioterapia en grandes volúmenes (volumen mediano de tratamiento 4 795 cm³). Los estudios realizados con posterioridad sugieren que es posible administrar gemcitabina a dosis bajas de forma concurrente con radioterapia con una toxicidad previsible, como en un estudio en fase II en pacientes con cáncer de pulmón no microcítico, que recibieron dosis de radioterapia torácica de 66 Gy concomitantemente con gemcitabina (600 mg/m², 4 dosis) y cisplatino (80 mg/m², 2 dosis) durante 6 semanas. Aún no se ha determinado en todos los tipos de tumores el régimen óptimo de administración segura de gemcitabina con dosis terapéuticas de irradiación.
+
+ 
+
+Administración no concurrente: (administrada > 7 días de diferencia) – El análisis de los datos no indica un aumento de la toxicidad cuando se administra gemcitabina al menos 7 días antes o después de la radioterapia, exceptuando la toxicidad cutánea tardía. Los datos sugieren que puede iniciarse la administración de gemcitabina cuando se haya resuelto los efectos agudos de la radioterapia o al menos una semana después de la radioterapia.
+
+ 
+
+Se ha notificado lesión por radiación en los tejidos irradiados (por ejemplo, esofagitis, colitis y neumonitis) en asociación con el uso tanto concurrente como no concurrente de la gemcitabina.
+
+ 
+
+Otros
+
+No se recomiendan las vacunas contra la fiebre amarilla y otras vacunas vivas atenuadas debido al riesgo de enfermedad sistémica, posiblemente mortal, particularmente en pacientes inmunodeprimidos.
+
+4.6. Fertilidad, embarazo y lactancia
+Mujeres en edad fértil/anticoncepción masculina y femenina
+
+Debido al potencial genotóxico de gemcitabina (ver sección 5.3), las mujeres en edad fértil deben utilizar métodos anticonceptivos eficaces durante el tratamiento con gemcitabina y durante 7 meses después de la interrupción del tratamiento. Se debe advertir a los hombres que utilicen métodos anticonceptivos eficaces y que no tengan un hijo durante el tratamiento con gemcitabina y en los 4 meses siguientes a su interrupción.
+
+4.6.1. Embarazo
+No existen datos suficientes sobre la utilización de gemcitabina en mujeres embarazadas. Los estudios en animales han mostrado toxicidad reproductiva (véase 5.3). En base a los resultados de los estudios en animales y al mecanismo de acción de la gemcitabina, la gemcitabina no debería utilizarse durante el embarazo excepto si fuese claramente necesario. Se debe aconsejar a las mujeres que no se queden embarazadas durante el tratamiento con gemcitabina y que informen inmediatamente a su médico si después de todo se quedan embarazadas.
+
+4.6.2. Lactancia
+Se desconoce si la gemcitabina se excreta en la leche materna y no se pueden excluir efectos adversos en el lactante. Debido al potencial de reacciones adversas graves en los lactantes expuestos a gemcitabina a través de la leche materna, debe recomendarse a la madre que no dé el pecho durante el tratamiento con gemcitabina ni durante las 3 semanas posteriores a la última dosis del tratamiento.
+
+4.6.3. Fertilidad
+En estudios de fertilidad con gemcitabina se produjo hipoespermatogénesis en ratones macho (ver sección 5.3). Por lo tanto, se advierte a los hombres que estén siendo tratados con gemcitabina que no tengan hijos durante el tratamiento ni en los 4 meses siguientes a la finalización del mismo, y que busquen información adicional sobre la crioconservación de esperma antes de comenzar el tratamiento, debido a que es posible que la terapia con gemcitabina cause esterilidad. Se recomienda discutir las opciones de preservación de la fertilidad con las pacientes antes de iniciar el tratamiento.
+
+4.7. Efectos sobre la capacidad para conducir y utilizar máquinas
+No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas. Sin embargo, se han descrito casos de somnolencia de leve a moderada con el uso de gemcitabina, especialmente si se combina con el consumo de alcohol. Se debe advertir a los pacientes que no conduzcan ni utilicen máquinas hasta que se demuestre que no padecen somnolencia.
+
+4.8. Reacciones adversas
+Las reacciones adversas asociadas con el tratamiento con gemcitabina más frecuentemente notificadas incluyen: náuseas con o sin vómitos, aumento de las transaminasas hepáticas (AST/ALT) y la fosfatasa alcalina, notificadas en aproximadamente el 60% de los pacientes; proteinuria y hematuria notificadas en aproximadamente el 50% de los pacientes; disnea notificada en el 10-40% de los pacientes (la incidencia más alta notificada en pacientes con cáncer de pulmón); se ha observado erupción cutánea de tipo alérgico en aproximadamente un 25% de los pacientes y fue asociada a picor en un 10% de los pacientes.
+
+ 
+
+La dosis, la velocidad de perfusión y los intervalos entre las dosis afectan a la frecuencia y severidad de las reacciones adversas (ver sección 4.4). Las reacciones adversas que limitan la dosis son las reducciones en los recuentos de trombocitos, leucocitos y granulocitos (ver sección 4.2).
+
+ 
+
+Datos de los ensayos clínicos
+
+Las frecuencias se definen como: Muy frecuentes (≥ 1/10), Frecuentes (≥ 1/100 a < 1/10), Poco frecuentes (≥ 1/1  000 a < 1/100), Raras (≥ 1/10  000 a < 1/1 000), Muy raras (< 1/10 000), frecuencia no conocida (no puede estimarse a partir de los datos disponibles).
+
+ 
+
+La siguiente tabla de reacciones adversas y frecuencias se basa en los datos procedentes de ensayos clínicos. Las reacciones adversas se enumeran en orden decreciente de gravedad dentro de cada intervalo de frecuencia.
+
+ 
+
+CLASIFICACIÓN DE ÓRGANOS DEL SISTEMA
+
+INTERVALO DE FRECUENCIA
+
+ 
+
+Infecciones e infestaciones
+
+ 
+
+ 
+
+Frecuentes
+
+Infecciones
+ 
+
+No conocida
+
+Sepsis
+ 
+
+Trastornos de la sangre y del sistema linfático
+
+Muy frecuentes
+
+• Leucopenia (Neutropenia Grado 3 = 19,3%; Grado 4 = 6%). La supresión de médula ósea es normalmente de leve a moderada y afecta principalmente al recuento de granulocitos (ver sección 4.2 y 4.4)
+
+• Trombocitopenia
+
+• Anemia
+
+ 
+
+Frecuentes
+
+• Neutropenia febril
+
+ 
+
+Muy raras
+
+• Trombocitosis
+
+• Microangiopatía trombótica
+
+ 
+
+Trastornos del sistema inmunológico
+
+Muy raras
+
+• Reacciones anafilactoides
+
+ 
+
+Trastornos del metabolismo y de la nutrición
+
+Frecuentes
+
+• Anorexia
+
+ 
+
+Trastornos del sistema nervioso
+
+Frecuentes
+
+• Cefalea
+
+• Insomnio
+
+• Somnolencia
+
+ 
+
+Poco frecuentes
+
+ 
+
+• Accidente cerebrovascular
+
+ 
+
+Muy raras
+
+• Síndrome de encefalopatía posterior reversible (ver sección 4.4)
+
+ 
+
+ 
+
+Trastornos cardiacos
+
+Poco frecuentes
+
+•  Arritmia, predominantemente de naturaleza supraventricular
+
+•  Insuficiencia cardiaca
+
+ 
+
+Raras
+
+• Infarto de miocardio
+
+ 
+
+Trastornos vasculares
+
+Raras
+
+•Signos clínicos de vasculitis periférica y gangrena
+
+• Hipotensión
+
+ 
+
+Muy raras
+
+• Síndrome de fuga capilar (ver sección 4.4)
+
+ 
+
+Trastornos respiratorios, torácicos y mediastínicos
+
+Muy frecuentes
+
+• Disnea - normalmente leve y pasa rápidamente sin tratamiento
+
+ 
+
+Frecuentes
+
+• Tos
+
+• Rinitis
+
+ 
+
+Poco frecuentes
+
+• Neumonitis intersticial (ver sección 4.4)
+
+• Broncoespasmo; normalmente leve y pasajero pero puede requerir tratamiento parenteral
+
+ 
+
+Raras
+
+• Edema pulmonar
+
+• Síndrome de distrés respiratorio del adulto (ver sección 4.4)
+
+ 
+
+No conocida
+
+• Eosinofilia pulmonar
+
+ 
+
+Trastornos gastrointestinales
+
+Muy frecuentes
+
+• Vómitos
+
+• Náuseas
+
+ 
+
+Frecuentes
+
+• Diarrea
+
+• Estomatitis y úlceras bucales
+
+• Estreñimiento
+
+ 
+
+Muy raras
+
+• Colitis isquémica
+
+ 
+
+Trastornos hepatobiliares
+
+Muy frecuentes
+
+• Aumento de las transaminasas hepáticas (AST y ALT) y la fosfatasa alcalina
+
+ 
+
+Frecuentes
+
+• Aumento de la bilirrubina
+
+ 
+
+Poco frecuentes
+
+• Hepatoxicidad grave, incluye fallo hepático y muerte
+
+ 
+
+Raras
+
+• Aumento de gamma-glutamil-transferasa  (GGT)
+
+Trastornos de la piel y del tejido subcutáneo
+
+Muy frecuentes
+
+• Erupción cutánea alérgica frecuentemente asociada a prurito
+
+• Alopecia
+
+ 
+
+Frecuentes
+
+• Picor
+
+• Sudoración
+
+ 
+
+Raras
+
+• Reacciones cutáneas graves, incluyen descamación y ampollas en la piel
+
+• Ulceración
+
+• Formación de vesículas y ampollas
+
+• Descamación
+
+ 
+
+Muy raras
+
+• Necrólisis epidérmica tóxica
+
+• Síndrome de Steven-Johnson
+
+ 
+
+No conocida
+
+• Pseudocelulitis
+
+• Pustulosis exantemática generalizada aguda
+
+• Reacción a fármaco con eosinofilia y síntomas sistémicos (DRESS)
+
+Trastornos músculoesqueléticos y del tejido conjuntivo
+
+Frecuentes
+
+• Dolor de espalda
+
+• Mialgia
+
+ 
+
+Trastornos renales y urinarios
+
+Muy frecuentes
+
+• Hematuria
+
+• Proteinuria leve
+
+ 
+
+Poco frecuentes
+
+• Fallo renal (ver sección 4.4)
+
+• Síndrome urémico-hemolítico (ver sección 4.4)
+
+ 
+
+Trastornos generales y alteraciones en el lugar de administración
+
+Muy frecuentes
+
+• Síndrome pseudogripal, los síntomas más frecuentes son fiebre, cefalea, escalofríos, mialgia, astenia y anorexia. También se ha notificado tos, rinitis, malestar, sudoración, dificultades del sueño
+
+• Edema/edema periférico, incluye edema facial. Tras la suspensión del tratamiento el edema suele ser reversible
+
+ 
+
+Frecuentes
+
+• Fiebre
+
+• Astenia
+
+• Escalofríos
+
+ 
+
+Raras
+
+• Reacciones en el lugar de la inyección, generalmente de naturaleza leve
+
+ 
+
+Lesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos
+
+Raras
+
+• Toxicidad asociada a la radioterapia (ver sección 4.5)
+
+• Toxicidad cutánea tardía
+
+ 
+
+ 
+
+Uso combinado en cáncer de mama
+
+La frecuencia de las toxicidades hematológicas de grado 3 y 4, particularmente la neutropenia, aumenta cuando se usa gemcitabina en combinación con paclitaxel. Sin embargo, el aumento de estas reacciones adversas no se asocia con un aumento de la incidencia de infecciones o acontecimientos hemorrágicos. La fatiga y la neutropenia febril ocurren más frecuentemente cuando se usa gemcitabina en combinación con paclitaxel. La fatiga que no se asocia con la anemia, remite normalmente después del primer ciclo.
+
+ 
+
+Reacciones adversas de grado 3 y 4
+
+Paclitaxel frente a gemcitabina más paclitaxel
+
+ 
+
+Número (%) de pacientes
+
+ 
+
+Grupo de paclitaxel
+
+(N=259)
+
+Grupo de gemcitabina más paclitaxel
+
+(N=262)
+
+ 
+
+Grado 3
+
+Grado 4
+
+Grado 3
+
+Grado 4
+
+Laboratorio
+
+ 
+
+ 
+
+ 
+
+ 
+
+Anemia
+
+5 (1,9)
+
+ 
+
+1 (0,4)
+
+15 (5,7)
+
+3 (1,1)
+
+Trombocitopenia
+
+0
+
+0
+
+14 (5,3)
+
+1 (0,4)
+
+Neutropenia
+
+11 (4,2)
+
+17 (6,6)*
+
+82 (31,3)
+
+45 (17,2)*
+
+No de laboratorio
+
+Neutropenia febril
+
+3 (1,2)
+
+0
+
+12 (4,6)
+
+1 (0,4)
+
+Fatiga
+
+3 (1,2)
+
+1 (0,4)
+
+15 (5,7)
+
+2 (0,8)
+
+Diarrea
+
+5 (1,9)
+
+0
+
+8 (3,1)
+
+0
+
+Neuropatía motora
+
+2 (0,8)
+
+0
+
+6 (2,3)
+
+1 (0,4)
+
+Neuropatía sensorial
+
+9 (3,5)
+
+0
+
+14 (5,3)
+
+1 (0,4)
+
+ 
+
+*Una neutropenia de grado 4 que duró más de 7 días ocurrió en el 12,6% de los pacientes del grupo de tratamiento combinado y en el 5,0 % de los pacientes del grupo de tratamiento con paclitaxel.
+
+ 
+
+Uso combinado en cáncer de vejiga
+
+ 
+
+Reacciones adversas de grado 3 y 4
+
+MVAC frente a gemcitabina más cisplatino
+
+ 
+
+Número (%) de pacientes
+
+ 
+
+Grupo de MVAC* (N=196)
+
+Grupo de gemcitabina más cisplatino
+
+(N=200)
+
+ 
+
+Grado 3
+
+Grado 4
+
+Grado 3
+
+Grado 4
+
+Laboratorio
+
+Anemia
+
+30 (16)
+
+4 (2)
+
+47(24)
+
+7 (4)
+
+ 
+
+Trombocitopenia
+
+15 (8)
+
+25 (13)
+
+57(29)
+
+57(29)
+
+No de laboratorio
+
+ 
+
+ 
+
+ 
+
+ 
+
+Náuseas y vómitos
+
+37 (19)
+
+3 (2)
+
+44 (22)
+
+0 (0)
+
+Diarrea
+
+15 (8)
+
+1 (1)
+
+6 (3)
+
+0 (0)
+
+Infección
+
+19 (10)
+
+10 (5)
+
+4 (2)
+
+1 (1)
+
+Estomatitis
+
+34 (18)
+
+8 (4)
+
+2 (1)
+
+0 (0)
+
+ 
+
+*Metotrexato, vinblastina, doxorrubicina y cisplatino
+
+ 
+
+Uso combinado en cáncer de ovario
+
+ 
+
+Reacciones adversas de grado 3 y 4
+
+Carboplatino frente a gemcitabina más carboplatino
+
+ 
+
+Número (%) de pacientes
+
+ 
+
+Grupo de carboplatino (N=174)
+
+Grupo de gemcitabina más
+
+carboplatino
+
+(N=175)
+
+ 
+
+Grado 3
+
+Grado 4
+
+Grado 3
+
+Grado 4
+
+Laboratorio
+
+Anemia
+
+10 (5,7)
+
+4 (2,3)
+
+39 (22,3)
+
+9 (5,1)
+
+Neutropenia
+
+19 (10,9)
+
+2 (1,1)
+
+73 (41,7)
+
+50 (28,6)
+
+Trombocitopenia
+
+18 (10,3)
+
+2 (1,1)
+
+53 (30,3)
+
+8 (4,6)
+
+Leucopenia
+
+11 (6,3)
+
+1 (0,6)
+
+84 (48,0)
+
+9 (5,1)
+
+No de laboratorio
+
+Hemorragia
+
+0 (0,0)
+
+0 (0,0)
+
+3 (1,8)
+
+(0,0)
+
+Neutropenia febril
+
+0 (0,0)
+
+0 (0,0)
+
+2 (1,1)
+
+(0,0)
+
+Infección sin neutropenia
+
+0 (0)
+
+0 (0,0)
+
+(0,0)
+
+1 (0,6)
+
+ 
+
+También fue más frecuente la neuropatía sensorial en los pacientes tratados en el grupo de tratamiento combinado que en los pacientes tratados con carboplatino en monoterapia
+
+ 
+
+Notificación de sospechas de reacciones adversas:
+
+ 
+
+Es importante notificar sospechas de reacciones adversas al medicamento tras su autorización.
+
+Ello permite una supervisión continuada de la relación beneficio/riesgo del medicamento. Se
+
+invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del
+
+Sistema Español de Farmacovigilancia de Medicamentos de Uso Humano:
+
+https://www.notificaram.es
+
+4.9. Sobredosis
+No se conoce antídoto para la sobredosis de gemcitabina. Se han administrado dosis  tan elevadas como 5  700 mg/m² por perfusión intravenosa durante más de 30 minutos cada 2 semanas con una toxicidad clínicamente aceptable. En el caso de sospecha de sobredosis, el paciente debe ser monitorizado con los recuentos sanguíneos adecuados y administrarle el tratamiento complementario necesario.
+
+5. PROPIEDADES FARMACOLÓGICAS
+5.1. Propiedades farmacodinámicas
+Grupo farmacoterapéutico: Agentes antineoplásicos: análogos de pirimidina, Código ATC: L01BC05
+
+ 
+
+Actividad citotóxica en cultivos celulares
+
+La actividad citotóxica de la gemcitabina en cultivos celulares muestra efectos citotóxicos significativos frente a una variedad de cultivos celulares tumorales de origen murino y humano. Su acción es específica de la fase celular ya que la gemcitabina destruye principalmente las células que se someten a la síntesis de ADN (fase-S) y, en ciertas circunstancias, bloquea la progresión de las células que se encuentren en el límite de las fases G1 y S. In vitro, el efecto citotóxico de la gemcitabina depende tanto de la concentración como del tiempo.
+
+ 
+
+Actividad antitumoral en modelos preclínicos
+
+En modelos de tumores en animales, la actividad antitumoral de la gemcitabina depende de la pauta  posológica. Cuando la gemcitabina se administra diariamente, se observa una alta mortalidad entre los animales, pero una actividad antitumoral mínima. Sin embargo, si se administra gemcitabina cada tres o cuatro días, se puede administrar en dosis no letales con una actividad antitumoral sustancial frente a un amplio espectro de tumores en ratones.
+
+ 
+
+Mecanismo de acción
+
+Metabolismo celular y mecanismo de acción: La gemcitabina (dFdC), que es un antimetabolito pirimidínico, se metaboliza intracelularmente por la nucleósido cinasa al nucleósido difosfato (dFdCDP) y nucleósido trifosfato (dFdCTP), ambos activos. El efecto citotóxico de la gemcitabina se debe a la inhibición de la síntesis de ADN mediante dos mecanismos de acción por dFdCDP y dFdCTP. En primer lugar, el dFdCDP inhibe la ribonucleótida reductasa, que es la única responsable de la catalización de las reacciones que producen desoxinucleósidos trifosfatos (dCTP) para la síntesis de ADN. La inhibición de esta enzima por parte del dFdCDP reduce la concentración de desoxinucleósidos en general y, en particular, de dCTP. En segundo lugar, el dFdCTP compite con dCTP para la incorporación en el ADN (autopotenciación).
+
+ 
+
+Del mismo modo, una pequeña cantidad de gemcitabina también puede incorporarse al ARN. Por lo tanto, la concentración intracelular reducida de dCTP potencia la incorporación de dFdCTP en el ADN. La ADN épsilon polimerasa carece de capacidad para eliminar la gemcitabina y reparar las cadenas crecientes de ADN. Tras la incorporación de la gemcitabina al ADN, se agrega un nucleótido adicional a las cadenas crecientes de ADN. Tras esta adición, se produce esencialmente una inhibición completa en una síntesis de ADN posterior (terminación de cadena enmascarada). Tras la incorporación al ADN, la gemcitabina parece inducir el proceso de muerte celular programada conocido como apoptosis.
+
+ 
+
+Datos clínicos
+
+Cáncer de vejiga
+
+Un estudio de fase III, aleatorizado, de 405 pacientes con carcinoma urotelial transicional avanzado o metastásico no mostró diferencias entre los dos grupos de tratamiento, gemcitabina/cisplatino frente a metotrexato/vinblastina/adriamicina/cisplatino (MVAC), en términos de mediana de supervivencia (12,8 y 14,8 meses respectivamente, p=0,547), tiempo hasta la progresión de la enfermedad (7,4 y 7,6 meses respectivamente, p=0,842) y tasa de respuesta (49,4% y 45,7% respectivamente, p=0,512). Sin embargo, la combinación de gemcitabina y cisplatino tuvo un perfil de toxicidad mejor que MVAC.
+
+ 
+
+Cáncer de páncreas
+
+En un estudio de fase III, aleatorizado, de 126 pacientes con cáncer de páncreas avanzado o metastásico, la gemcitabina mostró una tasa de respuesta con mayor beneficio clínico estadísticamente significativo que 5-fluorouracilo (23,8% y 4,8% respectivamente, p=0,0022).
+
+Asimismo se observaron una prolongación estadísticamente significativa del tiempo hasta la progresión de 0,9 a 2,3 meses (log-rango  p<0,0002) y una prolongación estadísticamente significativa de la mediana de supervivencia de 4,4 a 5,7 meses (log-rango  p<0,0024) en pacientes tratados con gemcitabina en comparación con los tratados con 5-fluorouracilo.
+
+ 
+
+Cáncer de pulmón no microcítico
+
+En un estudio de fase III, aleatorizado, de 522 pacientes con CPNM localmente avanzado o metastásico, inoperable, la gemcitabina en combinación con cisplatino mostró una tasa de respuesta más alta estadísticamente significativa que el cisplatino solo (31,0% y 12,0% respectivamente, p<0,0001). Se observaron una prolongación estadísticamente significativa del tiempo hasta la progresión, de 3,7 a 5,6 meses (log-rango p<0,0012) y de la mediana de supervivencia de 7,6 meses a 9,1 meses (log-rango p<0,004) en pacientes tratados con gemcitabina/cisplatino en comparación con los tratados con cisplatino.
+
+ 
+
+En otro estudio de fase III, aleatorizado, de 135 pacientes con CPNM en estadío IIIB o IV, la gemcitabina en combinación con cisplatino mostró una tasa de respuesta más alta estadísticamente significativa que una combinación de cisplatino y etopósido (40,6% y 21,2% respectivamente, p=0,025). Se observó una prolongación estadísticamente significativa del tiempo hasta la progresión, de 4,3 a 6,9 meses (p=0,014) en pacientes tratados con gemcitabina/cisplatino en comparación con los tratados con etopósido/cisplatino.
+
+ 
+
+Ambos estudios mostraron que la tolerabilidad fue similar en los dos grupos del tratamiento.
+
+ 
+
+Carcinoma de ovario
+
+En un estudio de fase III, aleatorizado, 356 pacientes con carcinoma de ovario epitelial avanzado que había recidivado después de al menos 6 meses de recibir un tratamiento basado en platino, fueron aleatoriamente asignados para recibir tratamiento con gemcitabina y carboplatino (GCb), o carboplatino (Cb). Se observó una prolongación estadísticamente significativa del tiempo hasta la progresión de la enfermedad, de 5,8 a 8,6 meses (log-rango p=0,0038) en los pacientes tratados con GCb en comparación con los tratados con Cb. Las diferencias en la tasa de respuesta del 47,2% en el grupo GCb frente al 30,9% en el grupo Cb (p=0,0016) y una mediana de supervivencia de 18 meses (GCb) frente a 17,3 (Cb) (p=0,73) favorecieron el grupo de GCb.
+
+ 
+
+Cáncer de mama
+
+En un estudio de fase III, aleatorizado, de 529 pacientes con cáncer de mama inoperable, localmente recurrente o metastásico con recidiva después de la quimioterapia adyuvante/neoadyuvante, la gemcitabina en combinación con paclitaxel mostró una prolongación estadísticamente significativa del tiempo hasta la progresión documentada de la enfermedad de 3,98 a 6,14 meses (log-rango  p=0,0002) en los pacientes tratados con gemcitabina/paclitaxel en comparación con los tratados con paclitaxel. Tras producirse 377 muertes, la supervivencia global fue de 18,6 meses frente a 15,8 meses (log-rango p=0,0489, HR 0,82) en los pacientes tratados con gemcitabina/paclitaxel en comparación con los tratados con paclitaxel y la tasa de respuesta global fue 41,4% y 26,2% respectivamente (p=0,0002).
+
+ 
+
+5.2. Propiedades farmacocinéticas
+Se ha examinado la farmacocinética de la gemcitabina en 353 pacientes en siete estudios. Las edades de las 121 mujeres y de los 232 hombres oscilaban entre los 29 a 79 años. De estos pacientes, aproximadamente el 45% tenía cáncer de pulmón no microcítico y el 35% cáncer de páncreas. Los siguientes parámetros farmacocinéticos se obtuvieron para dosis que oscilaban de 500 a 2 592 mg/m² administradas por perfusión, en un tiempo de 0,4 a 1,2 horas.
+
+ 
+
+Absorción
+
+Las concentraciones máximas en plasma (obtenidas en los 5 minutos siguientes al final de la perfusión): fueron de 3,2 a 45,5 µg/mL. Las concentraciones plasmáticas del compuesto original (gemcitabina) después de una dosis de 1  000 mg/m²/30 minutos superan los 5 µg/mL durante aproximadamente 30 minutos después del final de la perfusión y son superiores al 0,4 µg/mL durante una hora más.
+
+ 
+
+Distribución
+
+El volumen de distribución del compartimento central fue de 12,4 L/m² para mujeres y 17,5 L/m² para hombres (la variabilidad interindividual fue del 91,9%). El volumen de distribución del compartimento periférico fue del 47,4 L/m². El volumen del compartimento periférico no fue sensible al sexo. La unión a las proteínas plasmáticas se consideró despreciable.
+
+ 
+
+Semivida: Ésta osciló entre 42 y 94 minutos, dependiendo de la edad y el sexo. Para la pauta posológica recomendada, la eliminación de gemcitabina debe ser virtualmente completa entre 5 y 11 horas a partir del comienzo de la perfusión. La gemcitabina no se acumula cuando se administra una vez a la semana.
+
+ 
+
+Biotransformación
+
+La gemcitabina se metaboliza rápidamente por la acción de la citidina deaminasa en el hígado, riñón, sangre y otros tejidos. El metabolismo intracelular de la gemcitabina produce los mono, di y trifosfatos de gemcitabina (dFdCMP, dFdCDP y dFdCTP) de los cuales se consideran activos el dFdCDP y el dFdCTP. No se han detectado estos metabolitos intracelulares en plasma u orina. El metabolito principal, 2'-deoxi-2', 2' difluorouridina (dFdU), no es activo y se encuentra en el plasma y en la orina.
+
+ 
+
+Eliminación
+
+El aclaramiento sistémico osciló entre 29,2 L/h/m² a 92,2 L/h/m² dependiendo del sexo y la edad (la variabilidad interindividual fue del 52,2%). Las mujeres presentan aclaramientos aproximadamente un 25% más bajos que los hombres. Aunque sigue siendo rápido, el aclaramiento tanto para mujeres como para hombres, también parece disminuir con la edad. Para la dosis recomendada de gemcitabina de 1  000 mg/m² administrada en perfusión de 30 minutos, los valores más bajos de aclaramiento para mujeres y hombres no requerirían una disminución de la dosis de gemcitabina
+
+ 
+
+Excreción urinaria: Menos del 10% se excreta como fármaco inalterado.
+
+ 
+
+El aclaramiento renal fue de 2 a 7 L/h/m².
+
+ 
+
+Durante la semana posterior a la administración, se recupera de un 92 a un 98% de la dosis de gemcitabina administrada, un 99% en la orina, principalmente en la forma de dFdU y un 1% de la dosis se excreta en las heces.
+
+ 
+
+Cinética de dFdCTP
+
+Este metabolito se puede encontrar en las células mononucleares sanguíneas periféricas y la información que se presenta a continuación se refiere a estas células. Las concentraciones intracelulares aumentan de forma proporcional a las dosis de gemcitabina de 35–350 mg/ m²/30 minutos, dando concentraciones en el estado de equilibrio de 0,4-5 µg/mL. En concentraciones plasmáticas de gemcitabina por encima de 5 µg/mL, los niveles de dFdCTP no aumentan, lo que sugiere que la formación es saturable en estas células.
+
+ 
+
+Semivida de eliminación terminal: 0,7–12 horas.
+
+ 
+
+Cinética de dFdU
+
+Concentraciones plasmáticas máximas (3–15 minutos después de la perfusión de 30 minutos, 1 000 mg/m²): 28–52 µg/mL. La concentración valle tras una administración semanal: 0,07–1,12 µg/mL, sin acumulación aparente. La curva de la concentración plasmática trifásica frente al tiempo, semivida media de la fase terminal – 65 horas (rango 33–84 h).
+
+ 
+
+Formación de dFdU a partir del compuesto original: 91%–98%.
+
+ 
+
+Volumen medio de distribución del compartimento central: 18 L/m² (intervalo 11–22 L/m²).
+
+ 
+
+Volumen medio de distribución en el estado de equilibrio (Vss): 150 L/m² (intervalo 96–228 L/m²).
+
+ 
+
+Distribución en tejidos: Extensa.
+
+ 
+
+Aclaramiento medio aparente: 2,5 L/h/m² (intervalo 1–4 L/h/m²).
+
+ 
+
+Excreción urinaria: Toda.
+
+ 
+
+Terapia combinada de gemcitabina y paclitaxel
+
+La terapia combinada no alteró la farmacocinética de gemcitabina o paclitaxel.
+
+ 
+
+Terapia combinada de gemcitabina y carboplatino
+
+Cuando se administró en combinación con carboplatino no se alteró la farmacocinética de gemcitabina.
+
+ 
+
+Fallo renal
+
+La insuficiencia renal de leve a moderada (filtración glomerular de 30 mL/min a 80 mL/min) no tiene efecto coherente ni significativo en la farmacocinética de la gemcitabina.
+
+5.3. Datos preclínicos sobre seguridad
+En estudios de hasta 6 meses de duración con dosis repetidas realizados en ratones y perros, el principal hallazgo fue la inhibición hematopoyética, dependiente de la dosis y de la pauta de administración, que fue reversible.
+
+ 
+
+La gemcitabina es mutagénica en una prueba de mutación in vitro y en una prueba de análisis de micronúcleos de médula ósea in vivo. No se han llevado a cabo estudios a largo plazo en animales para evaluar el potencial carcinogénico.
+
+ 
+
+En estudios de fertilidad, la gemcitabina produjo hipoespermatogénesis reversible en ratones macho. No se han observado efectos en la fertilidad de las hembras.
+
+ 
+
+La evaluación de los estudios experimentales en animales ha demostrado toxicidad reproductiva, por ej., defectos de nacimiento y otros efectos sobre el desarrollo embrional o fetal, en la gestación o en el desarrollo peri y postnatal.
+
+ 
+
+6. DATOS FARMACÉUTICOS
+6.1. Lista de excipientes
+Agua para preparaciones inyectables
+
+Ácido clorhídrico (E507) (para ajustar el pH)
+
+Hidróxido de sodio (E524) (para ajustar el pH)
+
+ 
+
+6.2. Incompatibilidades
+Este medicamento no debe mezclarse con otros excepto con los mencionados en la sección 6.6.
+
+6.3. Periodo de validez
+Vial sin abrir
+
+18 meses
+
+Durante el uso: dilución adicional
+
+Después de la dilución, se ha demostrado la estabilidad química y física durante el uso para:
+
+Diluyente
+
+Concentración final
+
+Condiciones de almacenamiento
+
+Intervalo de tiempo
+
+ 
+
+Solución para perfusión de cloruro de sodio al 0,9%
+
+0,1 mg/mL y 26 mg/mL
+
+2-8 oC protegido de la luz en bolsas de perfusión sin PVC (poliolefina)
+
+84 días
+
+Solución para perfusión de cloruro de sodio al 0,9%
+
+0,1 mg/mL y 26 mg/mL
+
+ 
+
+2-8 oC protegido de la luz en bolsas de perfusión de PVC
+
+24 horas
+
+Solución para perfusión de cloruro de sodio al 0,9%
+
+0,1 mg/mL y 26 mg/mL
+
+25 oC bajo condiciones normales de luz en bolsas de perfusión de PVC
+
+24 horas
+
+Solución para perfusión de glucosa al 5%
+
+0,1 mg/mL y 26 mg/mL
+
+25 oC bajo condiciones normales de luz en bolsas de perfusión de PVC
+
+24 horas
+
+ 
+
+ 
+
+Desde un punto de vista microbiológico, se debe usar el producto inmediatamente. Si no es así, los tiempos de conservación durante el uso y las condiciones antes del uso son responsabilidad del usuario y normalmente no deberían exceder de 24 horas de 2 a 8 ºC, a menos que la dilución se haya realizado en condiciones de asepsia validadas y controladas.
+
+ 
+
+6.4. Precauciones especiales de conservación
+Conservar en nevera (2ºC a 8 ºC).
+
+ 
+
+Para las condiciones de conservación del producto después de la dilución, ver sección 6.3.
+
+6.5. Naturaleza y contenido del envase
+Presentación de 200 mg/5,3 mL
+
+Viales de vidrio transparente de tipo I de 10 mL, cerrados con un tapón de clorobutilo y sellados con una cápsula metálica protegida por un disco de plástico sobrepuesto.
+
+Cada vial de la presentación de 200 mg contiene 5,3 mL del concentrado. Cada envase contiene 1 vial.
+
+ 
+
+Presentación de 1 000 mg/26,3 mL
+
+ 
+
+Viales de vidrio transparente de tipo I de 30 mL, cerrados con un tapón de clorobutilo y sellados con una cápsula metálica protegida por un disco de plástico sobrepuesto.
+
+Cada vial de la presentación de 1 000 mg contiene 26,3 mL del concentrado. Cada envase contiene 1 vial.
+
+ 
+
+Presentación de 2 000 mg/52,6 mL
+
+Viales de vidrio transparente de tipo I de 100 mL, cerrados con un tapón de clorobutilo y sellados con una cápsula metálica protegida por un disco de plástico sobrepuesto.
+
+Cada vial de la presentación de 2 000 mg contiene 52,6 mL del concentrado. Cada envase contiene 1 vial.
+
+ 
+
+6.6. Precauciones especiales de eliminación y otras manipulaciones
+Manipulación
+
+Se deben tener en cuenta las precauciones de seguridad habituales para citostáticos al preparar y eliminar la solución para perfusión. La manipulación del concentrado debe llevarse a cabo en
+
+una cabina de seguridad y con los guantes y las batas protectoras puestos. Si no se dispone de
+
+una cabina de seguridad, se agregará al equipo una máscara y unas gafas protectoras.
+
+ 
+
+Si el preparado entra en contacto con los ojos, podría producir irritación grave. Se deben aclarar bien e inmediatamente los ojos con agua. Si la irritación persiste, se debe acudir al médico. Si se salpica la piel con la solución, se deberá aclarar bien con agua.
+
+ 
+
+Instrucciones para la dilución
+
+Un diluyente autorizado para la solución de gemcitabina es cloruro de sodio 9 mg/mL (0,9%) solución para inyectables (sin conservante).
+
+Siga la técnica aséptica durante la dilución de la gemcitabina para administración por
+perfusión intravenosa.
+
+Antes de la administración, los medicamentos parenterales se deben inspeccionar visualmente por si presentan partículas o decoloración. Si se observan partículas, no debe administrarlo.
+La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto con él, se realizará de acuerdo con la normativa local.
+
+7. TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+Pfizer, S.L.
+
+Avenida de Europa 20B
+
+Parque Empresarial La Moraleja
+
+28108 Alcobendas (Madrid)
+
+España
+
+8. NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+Gemcitabina Hospira 200 mg concentrado para solución para perfusión: 74083
+
+Gemcitabina Hospira 1000 mg concentrado para solución para perfusión: 74082
+
+Gemcitabina Hospira 2000 mg concentrado para solución para perfusión: 74081
+
+9. FECHA DE LA PRIMERA AUTORIZACIÓN/ RENOVACIÓN DE LA AUTORIZACIÓN
+Fecha de la primera autorización: Agosto 2011
+
+Fecha de la última renovación: 11 de julio 2018
+
+ 
+
+10. FECHA DE LA REVISIÓN DEL TEXTO
+Septiembre 2026
+
+Top
