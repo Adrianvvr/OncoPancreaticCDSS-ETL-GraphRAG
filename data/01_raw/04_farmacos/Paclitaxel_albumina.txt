@@ -1,0 +1,2161 @@
+aemps cimaFICHA TECNICA PACLITAXEL ALBUMINA DR REDDYS 5 MG/ML POLVO PARA DISPERSION PARA PERFUSION EFG
+1. NOMBRE DEL MEDICAMENTO
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+3. FORMA FARMACÉUTICA
+4. DATOS CLÍNICOS
+4.1. Indicaciones terapéuticas
+4.2. Posología y forma de administración
+4.3. Contraindicaciones
+4.4. Advertencias y precauciones especiales de empleo
+4.5. Interacción con otros medicamentos y otras formas de interacción
+4.6. Fertilidad, embarazo y lactancia
+4.7. Efectos sobre la capacidad para conducir y utilizar máquinas
+4.8. Reacciones adversas
+4.9. Sobredosis
+5. PROPIEDADES FARMACOLÓGICAS
+5.1. Propiedades farmacodinámicas
+5.2. Propiedades farmacocinéticas
+5.3. Datos preclínicos sobre seguridad
+6. DATOS FARMACÉUTICOS
+6.1. Lista de excipientes
+6.2. Incompatibilidades
+6.3. Periodo de validez
+6.4. Precauciones especiales de conservación
+6.5. Naturaleza y contenido del envase
+6.6. Precauciones especiales de eliminación y otras manipulaciones
+7. TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+8. NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+9. FECHA DE LA PRIMERA AUTORIZACIÓN/ RENOVACIÓN DE LA AUTORIZACIÓN
+10. FECHA DE LA REVISIÓN DEL TEXTO
+Pulse aquí para ver el documento en formato PDF.  icono pdf
+
+1. NOMBRE DEL MEDICAMENTO
+Paclitaxel Albumina Dr. Reddys 5 mg/ml polvo para dispersión para perfusión EFG
+
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+Cada vial contiene 100 mg de paclitaxel unido a albúmina en una formulación de nanopartículas.
+
+ 
+
+Tras la reconstitución, cada ml de dispersión contiene 5 mg de paclitaxel unido a albúmina en una formulación de nanopartículas.
+
+ 
+
+Para consultar la lista completa de excipientes, ver sección 6.1.
+
+3. FORMA FARMACÉUTICA
+Polvo para dispersión para perfusión.
+
+ 
+
+La dispersión reconstituida tiene un pH de 6-7,5 y una osmolalidad de 300-380 mOsm/kg.
+
+El polvo es de color blanco a amarillo.
+
+4. DATOS CLÍNICOS
+4.1. Indicaciones terapéuticas
+Paclitaxel Albumina en monoterapia está indicado en el tratamiento del cáncer de mama metastásico en pacientes adultos en los que haya fracasado el tratamiento en primera línea de la enfermedad metastásica y para los que no esté indicada la terapia estándar con antraciclinas (ver sección 4.4).
+
+ 
+
+Paclitaxel Albumina en combinación con gemcitabina está indicado en el tratamiento de primera línea en pacientes adultos con adenocarcinoma de páncreas metastásico.
+
+ 
+
+Paclitaxel Albumina en combinación con carboplatino está indicado en el tratamiento de primera línea del cáncer de pulmón no microcítico en pacientes adultos que no son candidatos a cirugía y/o radioterapia potencialmente curativa.
+
+4.2. Posología y forma de administración
+Paclitaxel Albumina debe administrarse únicamente bajo la supervisión de un oncólogo cualificado, en unidades especializadas en la administración de fármacos citotóxicos. No deberá sustituirse por otras formulaciones de paclitaxel.
+
+ 
+
+Posología
+
+ 
+
+Cáncer de mama
+
+La dosis recomendada de paclitaxel es de 260 mg/m2 administrada por vía intravenosa durante 30 minutos, cada 3 semanas.
+
+ 
+
+Ajustes de la dosis durante el tratamiento del cáncer de mama
+
+En los pacientes que presenten neutropenia grave (recuento de neutrófilos <500 células/mm3 durante una semana o más) o neuropatía sensitiva grave durante el tratamiento con paclitaxel, la dosis debe reducirse a 220 mg/m2 en los ciclos sucesivos. Tras la reaparición de neutropenia grave o de neuropatía sensitiva grave, debe efectuarse una nueva reducción de la dosis a 180 mg/m2. La administración de paclitaxel no debe reanudarse hasta que el recuento de neutrófilos sea >1500 células/mm3. En el caso de neuropatía sensitiva de grado 3, se debe interrumpir temporalmente el tratamiento hasta la resolución a grado 1 o 2, y a continuación reducir la dosis para todos los ciclos sucesivos.
+
+ 
+
+Adenocarcinoma de páncreas
+
+La dosis recomendada de paclitaxel en combinación con gemcitabina es de 125 mg/m2 administrada por vía intravenosa durante 30 minutos los días 1, 8 y 15 de cada ciclo de 28 días. La dosis concomitante recomendada de gemcitabina es de 1.000 mg/m2 administrada por vía intravenosa durante 30 minutos inmediatamente después de finalizar la administración de paclitaxel los días 1, 8 y 15 de cada ciclo de 28 días.
+
+ 
+
+Ajustes de la dosis durante el tratamiento del adenocarcinoma de páncreas
+
+Tabla 1: Reducciones del nivel de dosis para pacientes con adenocarcinoma de páncreas
+Nivel de dosis
+
+Dosis de paclitaxel (mg/m2)
+
+Dosis de gemcitabina (mg/m2)
+
+Dosis completa
+
+125
+
+1.000
+
+1.ª reducción del nivel de dosis
+
+100
+
+800
+
+2.ª reducción del nivel de dosis
+
+75
+
+600
+
+Si se requiere una reducción de dosis adicional
+
+Suspender tratamiento
+
+Suspender tratamiento
+
+ 
+
+Tabla 2: Modificaciones de la dosis por neutropenia y/o trombocitopenia al comienzo de un ciclo o durante un ciclo para pacientes con adenocarcinoma de páncreas
+
+Día del ciclo
+
+RAN
+
+(células/mm3)
+
+ 
+
+Recuento de plaquetas (células/mm3)
+
+Dosis de paclitaxel
+
+Dosis de gemcitabina
+
+Día 1
+
+<1.500
+
+o
+
+<100.000
+
+Posponer las dosis hasta la recuperación
+
+Día 8
+
+≥500 pero <1.000
+
+o
+
+≥50.000 pero <75.000
+
+Reducir las dosis 1 nivel de dosis
+
+ 
+
+<500
+
+o
+
+<50.000
+
+Interrumpir temporalmente las dosis
+
+Día 15: Si no se modificaron las dosis del día 8:
+
+ 
+
+ 
+
+Día 15
+
+ 
+
+ 
+
+≥500 pero <1.000
+
+ 
+
+ 
+
+o
+
+ 
+
+ 
+
+≥50.000 pero <75.000
+
+Tratar con el nivel de dosis del día 8 y seguir con los factores de crecimiento de leucocitos
+
+o
+
+Reducir las dosis 1 nivel de dosis a partir de las dosis del día 8
+
+ 
+
+<500
+
+o
+
+<50.000
+
+Interrumpir temporalmente las dosis
+
+Día 15: Si se redujeron las dosis del día 8:
+
+ 
+
+ 
+
+Día 15
+
+ 
+
+ 
+
+≥1.000
+
+ 
+
+ 
+
+y
+
+ 
+
+ 
+
+≥75.000
+
+Volver a los niveles de dosis del día 1 y seguir con los factores de crecimiento de leucocitos
+
+o
+
+Tratar con las mismas dosis del día 8
+
+ 
+
+ 
+
+ 
+
+≥500 pero <1.000
+
+ 
+
+ 
+
+o
+
+ 
+
+ 
+
+≥50.000 pero <75 000
+
+Tratar con los niveles de dosis del día 8 y seguir con los factores de crecimiento de leucocitos
+
+o
+
+Reducir las dosis 1 nivel de dosis a partir de las dosis del día 8
+
+ 
+
+<500
+
+o
+
+<50.000
+
+Interrumpir temporalmente las dosis
+
+Día 15: Si se interrumpieron temporalmente las dosis del día 8:
+
+ 
+
+ 
+
+ 
+
+Día 15
+
+ 
+
+ 
+
+ 
+
+≥1.000
+
+ 
+
+ 
+
+ 
+
+y
+
+ 
+
+ 
+
+ 
+
+≥75.000
+
+Volver a los niveles de dosis del día 1 y seguir con los factores de crecimiento de leucocitos
+
+o
+
+Reducir las dosis 1 nivel de dosis a partir de las dosis del día 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+≥500 pero <1.000
+
+ 
+
+ 
+
+ 
+
+o
+
+ 
+
+ 
+
+ 
+
+≥50.000 pero <75.000
+
+Reducir 1 nivel de dosis y seguir con los factores de crecimiento de leucocitos
+
+o
+
+Reducir las dosis 2 niveles de dosis a partir de las dosis del día 1
+
+ 
+
+<500
+
+o
+
+<50.000
+
+Interrumpir temporalmente las dosis
+
+Siglas: RAN = Recuento absoluto de neutrófilos (ANC=Absolute Neutrophil Count); leucocitos (WBC=white blood cell).
+
+Tabla 3: Modificaciones de la dosis por otras reacciones adversas al medicamento en pacientes con adenocarcinoma de páncreas
+Reacción adversa al medicamento (RAM)
+
+Dosis de paclitaxel
+
+Dosis de gemcitabina
+
+Neutropenia febril:
+
+grado 3 o 4
+
+Interrumpir temporalmente las dosis hasta que remita la fiebre y RAN
+
+≥1.500; reanudar al siguiente nivel de dosis más bajoa
+
+ 
+
+Neuropatía periférica:
+
+grado 3 o 4
+
+Interrumpir temporalmente la dosis
+
+hasta que mejore a ≤ grado 1;
+
+reanudar al siguiente nivel de dosis más bajoa
+
+ 
+
+Tratar con la misma dosis
+
+Toxicidad cutánea:
+
+grado 2 o 3
+
+Reducir al siguiente nivel de dosis más bajoa; suspender el tratamiento si la RAM persiste
+
+Toxicidad gastrointestinal:
+
+Mucositis o diarrea grado 3
+
+Interrumpir temporalmente las dosis hasta que mejore a ≤ grado 1; reanudar al siguiente nivel de dosis más bajoa
+
+aVer Tabla 1 para las reducciones del nivel de dosis
+
+ 
+
+Cáncer de pulmón no microcítico:
+
+La dosis recomendada de paclitaxel es de 100 mg/m2 administrada en perfusión intravenosa durante 30 minutos los días 1, 8 y 15 de cada ciclo de 21 días. La dosis recomendada de carboplatino es de área bajo la curva (AUC por sus siglas del inglés, area under de curve) = 6 mg•min/ml únicamente el día 1 de cada ciclo de 21 días, comenzando inmediatamente después de finalizar la administración de paclitaxel.
+
+ 
+
+Ajustes de la dosis durante el tratamiento del cáncer de pulmón no microcítico:
+
+Paclitaxel no se debe administrar el día 1 de un ciclo hasta que el RAN sea ≥1500 células/mm3 y el recuento de plaquetas sea ≥100 000 células/mm3. Para cada siguiente dosis semanal de paclitaxel, los pacientes deben tener un RAN ≥500 células/mm3 y las plaquetas >50 000 células/mm3; de no ser así, interrumpir temporalmente la administración hasta la recuperación de los recuentos. Cuando se hayan recuperado los recuentos, reanudar la administración la semana siguiente de acuerdo con los criterios de la Tabla 4. Reducir la dosis siguiente únicamente si se cumplen los criterios de la Tabla 4.
+
+Tabla 4: Reducciones de la dosis en caso de toxicidades hematológicas en pacientes con cáncer de pulmón no microcítico
+Toxicidad hematológica
+
+Aparición
+
+Dosis de paclitaxel (mg/m2)1
+
+Dosis de carboplatino (AUC mg•min/ml)1
+
+Nadir de RAN <500/mm3 con fiebre neutropénica >38°C
+
+O
+
+Retraso del siguiente ciclo debido a neutropenia persistente2 (nadir de RAN
+
+<1500/mm3)
+
+O
+
+Nadir de RAN <500/mm3 durante >1 semana
+
+Primera
+
+75
+
+4,5
+
+Segunda
+
+50
+
+3,0
+
+Tercera
+
+Suspender tratamiento
+
+Nadir de plaquetas <50 000/mm3
+
+Primera
+
+75
+
+4,5
+
+Segunda
+
+Suspender tratamiento
+
+1El día 1 del ciclo de 21 días, reducir la dosis de paclitaxel y de carboplatino simultáneamente. El día 8 o el 15 del ciclo de 21 días, reducir la dosis de paclitaxel; reducir la dosis de carboplatino en el siguiente ciclo.
+
+2Máximo de 7 días después de la dosis programada del día 1 del siguiente ciclo.
+
+ 
+
+En caso de toxicidad cutánea de grado 2 o 3, diarrea de grado 3 o mucositis de grado 3, interrumpir el tratamiento hasta que la toxicidad mejore a ≤ grado 1, luego reanudar el tratamiento de acuerdo con las pautas de la Tabla 5. En caso de neuropatía periférica ≥ grado 3, interrumpir temporalmente el tratamiento hasta la resolución a ≤ grado 1. Se puede reanudar el tratamiento al siguiente nivel de dosis más bajo en los ciclos posteriores de acuerdo con las pautas de la Tabla 5. En caso de cualquier otra toxicidad no hematológica de grado 3 o 4, interrumpir el tratamiento hasta que la toxicidad mejore a ≤ grado 2, luego reanudar el tratamiento de acuerdo con las pautas de la Tabla 5.
+
+ 
+
+Tabla 5: Reducciones de la dosis en caso de toxicidades no hematológicas en pacientes con cáncer de pulmón no microcítico
+Toxicidad no hematológica
+
+Aparición
+
+Dosis de paclitaxel (mg/m2)1
+
+Dosis de carboplatino (AUC mg•min/ml)1
+
+Toxicidad cutánea de grado 2 o 3 Diarrea de grado 3
+
+Mucositis de grado 3
+
+Neuropatía periférica de grado ≥3
+
+Cualquier otra toxicidad no hematológica de grado 3 o 4
+
+Primera
+
+75
+
+4,5
+
+Segunda
+
+50
+
+3,0
+
+Tercera
+
+Suspender tratamiento
+
+Toxicidad cutánea, diarrea o mucositis de grado 4
+
+Primera
+
+Suspender tratamiento
+
+1El día 1 del ciclo de 21 días, reducir la dosis de paclitaxel y de carboplatino simultáneamente. El día 8 o el 15 del ciclo de 21 días, reducir la dosis de paclitaxel; reducir la dosis de carboplatino en el siguiente ciclo.
+
+ 
+
+Poblaciones especiales
+
+ 
+
+Insuficiencia hepática
+
+En pacientes con insuficiencia hepática leve (bilirrubina total >1 a ≤1,5 x LSN y aspartato aminotransferasa [AST] ≤10 x LSN), no se requieren ajustes de la dosis, independientemente de la indicación. Se deben tratar con las mismas dosis que en los pacientes con la función hepática normal.
+
+ 
+
+En pacientes con cáncer de mama metastásico y con cáncer de pulmón no microcítico con insuficiencia hepática de moderada a grave (bilirrubina total >1,5 a ≤5 x LSN y AST ≤10 x LSN), se recomienda reducir la dosis en un 20 %. La dosis reducida se puede aumentar a la dosis de los pacientes con la función hepática normal si el paciente tolera el tratamiento durante al menos dos ciclos (ver secciones 4.4 y 5.2).
+
+ 
+
+No se dispone de datos suficientes que permitan hacer recomendaciones posológicas en pacientes con adenocarcinoma de páncreas metastásico que tienen insuficiencia hepática de moderada a grave (ver secciones 4.4 y 5.2).
+
+ 
+
+No se dispone de datos suficientes que permitan hacer recomendaciones posológicas, independientemente de la indicación, en pacientes con la bilirrubina total >5 x LSN o AST >10 x LSN (ver secciones 4.4 y 5.2).
+
+ 
+
+Insuficiencia renal
+
+No se requiere ajustar la dosis inicial de paclitaxel en pacientes con insuficiencia renal de leve a moderada (aclaramiento de creatinina estimado ≥30 a <90 ml/min). No se dispone de datos suficientes para recomendar modificaciones de la dosis de paclitaxel en pacientes con insuficiencia renal grave o enfermedad renal terminal (aclaramiento de creatinina estimado <30 ml/min) (ver sección 5.2).
+
+ 
+
+Pacientes de edad avanzada
+
+No se recomiendan reducciones adicionales de la dosis para los pacientes de 65 años o más, aparte de las recomendadas para el resto de pacientes.
+
+De los 229 pacientes del estudio aleatorizado que recibieron paclitaxel en monoterapia para el cáncer de mama, el 13 % tenía al menos 65 años y <2 % tenía 75 años o más. No se notificaron toxicidades notablemente más frecuentes entre los pacientes de al menos 65 años que recibieron paclitaxel. Sin embargo, un análisis posterior realizado en 981 pacientes tratados con paclitaxel en monoterapia para el cáncer de mama metastásico, de los cuales el 15 % tenía ≥65 años y el 2 % tenía ≥75 años, mostró una incidencia mayor de epistaxis, diarrea, deshidratación, fatiga y edema periférico en los pacientes
+
+≥65 años.
+
+ 
+
+De los 421 pacientes con adenocarcinoma de páncreas del estudio aleatorizado que recibieron paclitaxel en combinación con gemcitabina, el 41 % tenía 65 años o más y el 10 % tenía 75 años o más. En los pacientes de 75 años o más que recibieron paclitaxel y gemcitabina, hubo una incidencia mayor de reacciones adversas graves y de reacciones adversas que dieron lugar a la suspensión del tratamiento (ver sección 4.4). Se debe evaluar cuidadosamente a los pacientes con adenocarcinoma de páncreas de 75 años o más antes de considerar el tratamiento (ver sección 4.4).
+
+ 
+
+De los 514 pacientes con cáncer de pulmón no microcítico en el estudio aleatorizado que recibieron paclitaxel en combinación con carboplatino, el 31 % tenía 65 años o más y el 3,5 % tenía 75 años o más. Los acontecimientos de mielosupresión, los acontecimientos de neuropatía periférica y la artralgia fueron más frecuentes en los pacientes de 65 años o mayores que en los pacientes menores de 65 años. La experiencia con el uso de paclitaxel/carboplatino en pacientes de 75 años o mayores es limitada.
+
+ 
+
+El modelo farmacocinético/farmacodinámico, llevado a cabo con datos de 125 pacientes con tumores sólidos avanzados, indica que los pacientes ≥65 años pueden ser más susceptibles de desarrollar neutropenia en el primer ciclo de tratamiento.
+
+ 
+
+Población pediátrica
+
+No se han establecido la seguridad y eficacia de paclitaxel en niños y adolescentes de 0 a menos de  18 años. Los datos actualmente disponibles están descritos en las secciones 4.8, 5.1 y 5.2, sin embargo no se puede hacer una recomendación posológica. No hay uso relevante de paclitaxel en la población pediátrica para las indicaciónes de cáncer de mama metastásico, adenocarcinoma de páncreas o cáncer de pulmón no microcítico.
+
+ 
+
+Forma de administración
+
+Administre la dispersión de paclitaxel reconstituida por vía intravenosa utilizando un equipo de perfusión que incorpore un filtro de 15 µm. Tras la administración, se recomienda lavar a fondo la vía intravenosa con solución inyectable de cloruro de sodio 9 mg/ml (0,9 %) para asegurar la administración completa de la dosis.
+
+ 
+
+Para consultar las instrucciones de reconstitución del medicamento antes de la administración, ver sección 6.6.
+
+4.3. Contraindicaciones
+Hipersensibilidad al principio activo o a alguno de los excipientes incluidos en la sección 6.1.
+
+Lactancia (ver sección 4.6).
+
+Pacientes con un recuentro basal de neutrófilos < 1.500 células/mm3.
+
+4.4. Advertencias y precauciones especiales de empleo
+Paclitaxel Albumina es una formulación de nanopartículas de paclitaxel unido a albúmina, que puede tener propiedades considerablemente diferentes en comparación con otras formulaciones de paclitaxel (ver secciones 5.1 y 5.2). No deberá sustituirse por otras formulaciones de paclitaxel.
+
+ 
+
+Hipersensibilidad
+
+Se han notificado casos raros de reacciones de hipersensibilidad graves, incluyendo acontecimientos muy raros de reacciones anafilácticas con resultado de muerte. Si se produce una reacción de hipersensibilidad, debe interrumpirse la administración del medicamento de forma inmediata e iniciar un tratamiento sintomático. No se debe volver a exponer al paciente a paclitaxel.
+
+ 
+
+Hematología
+
+La supresión de la médula ósea (principalmente neutropenia) se produce con frecuencia con paclitaxel. La neutropenia es una forma de toxicidad dosis-dependiente y limitante de la dosis. Durante el tratamiento con paclitaxel, debe realizarse una monitorización frecuente del hemograma. No se debe continuar con la administración de nuevos ciclos de paclitaxel hasta que el recuento de neutrófilos se haya recuperado >1500 células/mm3 y el recuento de plaquetas >100 000 células/mm3 (ver Sección 4.2).
+
+ 
+
+Neuropatía
+
+La neuropatía sensitiva es frecuente con paclitaxel, aunque es menos frecuente el desarrollo de síntomas graves. La neuropatía sensitiva de grados 1 o 2 no requiere generalmente de una reducción de la dosis. Cuando se utiliza paclitaxel en monoterapia, en caso de neuropatía sensitiva de grado 3, se recomienda la interrupción temporal del tratamiento hasta la resolución a grado 1 o 2, seguida de una reducción de la dosis para todos los ciclos sucesivos de paclitaxel (ver sección 4.2). Para el uso combinado de paclitaxel y gemcitabina, en caso de neuropatía periférica de grado 3 o mayor, se debe interrumpir temporalmente paclitaxel; se continuará el tratamiento con gemcitabina a la misma dosis. Se debe reanudar paclitaxel a una dosis reducida cuando la neuropatía periférica mejore a grado 0 o 1 (ver sección 4.2). Para el uso combinado de paclitaxel y carboplatino, en caso de neuropatía periférica de grado 3 o mayor, se debe interrumpir temporalmente el tratamiento hasta que mejore a grado ≤ 1 y, a partir de entonces, se debe reducir la dosis en todos los ciclos posteriores de paclitaxel y carboplatino (ver sección 4.2).
+
+ 
+
+Sepsis
+
+Se notificó sepsis en un 5 % de los pacientes con o sin neutropenia que recibieron paclitaxel en combinación con gemcitabina. Las complicaciones debidas al cáncer de páncreas subyacente, especialmente la obstrucción biliar o la presencia de un stent biliar, se identificaron como factores contribuyentes significativos. Si un paciente presenta fiebre (independientemente del recuento de neutrófilos), se debe iniciar tratamiento con antibióticos de amplio espectro. En caso de neutropenia febril, se debe interrumpir temporalmente el tratamiento con paclitaxel y gemcitabina hasta que remita la fiebre y se tenga un RAN ≥1500 células/mm3, luego se reanudará el tratamiento a niveles de dosis inferiores (ver sección 4.2).
+
+ 
+
+Neumonitis
+
+Se produjo neumonitis en el 1 % de los pacientes cuando se administró paclitaxel en monoterapia y en el 4 % de los pacientes cuando se administró paclitaxel en combinación con gemcitabina. Se debe realizar una estrecha monitorización de los pacientes para detectar signos y síntomas de neumonitis.
+
+Después de descartar una etiología infecciosa y una vez realizado el diagnóstico de neumonitis, se debe suspender de forma permanente el tratamiento con paclitaxel y gemcitabina e iniciar rápidamente el tratamiento y las medidas de apoyo adecuadas (ver sección 4.2).
+
+ 
+
+Insuficiencia hepática
+
+Ya que la toxicidad de paclitaxel puede aumentar con la insuficiencia hepática, la administración de paclitaxel en pacientes con insuficiencia hepática debe efectuarse con precaución. Los pacientes con insuficiencia hepática pueden estar expuestos a un mayor riesgo de toxicidad, particularmente de mielosupresión; dichos pacientes deben ser monitorizados rigurosamente para detectar una mielosupresión grave.
+
+ 
+
+No se recomienda paclitaxel en pacientes con la bilirrubina total >5 × LSN o AST >10 × LSN. Además, no se recomienda paclitaxel en pacientes con adenocarcinoma de páncreas metastásico que tienen insuficiencia hepática de moderada a grave (bilirrubina total >1,5 x LSN y AST ≤10 x LSN) (ver sección 5.2).
+
+ 
+
+Cardiotoxicidad
+
+Se han observado casos raros de insuficiencia cardiaca congestiva y disfunción ventricular izquierda entre personas tratadas con paclitaxel. La mayoría de las personas habían recibido tratamiento previo con medicamentos cardiotóxicos, como por ejemplo antraciclinas, o padecían una enfermedad cardiaca subyacente. Por tanto, los médicos deben monitorizar rigurosamente la posible aparición de eventos cardiacos en pacientes tratados con paclitaxel.
+
+ 
+
+Metástasis en el SNC
+
+No se han establecido la eficacia ni la seguridad de paclitaxel en pacientes con metástasis en el sistema nervioso central (SNC). Generalmente, las metástasis del SNC no se controlan adecuadamente mediante quimioterapia sistémica.
+
+ 
+
+Síntomas gastrointestinales
+
+En caso de que los pacientes experimenten náuseas, vómitos y diarrea tras la administración de paclitaxel, pueden ser tratados con antieméticos y antidiarreicos habituales.
+
+ 
+
+Trastornos oculares
+
+Se ha notificado edema macular cistoide (EMC) en pacientes tratados con paclitaxel. Los pacientes con deterioro de la visión deben someterse de forma inmediata a un examen oftalmológico completo. En caso de que se diagnostique EMC, el tratamiento con paclitaxel debe interrumpirse, e iniciar un tratamiento adecuado (ver sección 4.8).
+
+ 
+
+Pacientes de 75 años o más
+
+En los pacientes de 75 años o más no se ha demostrado un beneficio del tratamiento combinado de paclitaxel con gemcitabina en comparación con gemcitabina en monoterapia. En los pacientes de edad muy avanzada (≥75 años) que recibieron paclitaxel y gemcitabina, hubo una incidencia mayor de reacciones adversas graves y de reacciones adversas que dieron lugar a la suspensión del tratamiento, entre ellas toxicidades hematológicas, neuropatía periférica, disminución del apetito y deshidratación. Se debe evaluar cuidadosamente la capacidad de tolerar paclitaxel en combinación con gemcitabina en los pacientes con adenocarcinoma de páncreas de 75 años o más, prestando especial atención al estado funcional, comorbilidades y aumento del riesgo de infecciones (ver secciones 4.2 y 4.8).
+
+ 
+
+Otros
+
+Aunque los datos disponibles son limitados, no se ha demostrado un beneficio claro en cuanto a la prolongación de la supervivencia global en pacientes con adenocarcinoma de páncreas con niveles normales de CA 19-9 antes de iniciar el tratamiento con paclitaxel y gemcitabina (ver sección 5.1).
+
+ 
+
+No se debe coadministrar erlotinib con paclitaxel más gemcitabina (ver sección 4.5).
+
+ 
+
+Excipientes
+
+Este medicamento contiene menos de 1 mmol de sodio (23 mg) por 100 mg; esto es, esencialmente “exento de sodio”.
+
+4.5. Interacción con otros medicamentos y otras formas de interacción
+El metabolismo de paclitaxel está catalizado, en parte, por las isoenzimas CYP2C8 y CYP3A4 del citocromo P450 (ver sección 5.2). Por lo tanto, en ausencia de un estudio farmacocinético de interacción medicamentosa, se debe tener cuidado al administrar paclitaxel conjuntamente con medicamentos inhibidores conocidos de la CYP2C8 o la CYP3A4 (ej. ketoconazol y antifúngicos imidazólicos, eritromicina, fluoxetina, gemfibrozilo, clopidogrel, cimetidina, ritonavir, saquinavir, indinavir y nelfinavir), porque la toxicidad de paclitaxel puede aumentar debido a la mayor exposición a paclitaxel. Se recomienda no administrar paclitaxel conjuntamente con medicamentos inductores conocidos de la CYP2C8 o la CYP3A4 (ej. rifampicina, carbamazepina, fenitoína, efavirenz, nevirapina), porque el menor grado de exposición a paclitaxel puede afectar a su eficacia.
+
+ 
+
+Paclitaxel y gemcitabina no comparten una vía metabólica común. La eliminación de paclitaxel se determina principalmente por el metabolismo mediado por CYP2C8 y CYP3A4, seguido de la excreción biliar, mientras que gemcitabina se inactiva por la citidina-deaminasa, seguido de la excreción urinaria. No se han evaluado las interacciones farmacocinéticas entre paclitaxel y gemcitabina en humanos.
+
+ 
+
+Se realizó un estudio farmacocinético con paclitaxel y carboplatino en pacientes con cáncer de pulmón no microcítico. No hubo ninguna interacción farmacocinética clínicamente relevante entre paclitaxel y carboplatino.
+
+ 
+
+Paclitaxel está indicado como monoterapia para el cáncer de mama, en combinación con gemcitabina para el adenocarcinoma de páncreas o en combinación con carboplatino para el cáncer de pulmón no microcítico (ver sección 4.1). Paclitaxel no debe utilizarse en combinación con otros fármacos anticancerosos.
+
+ 
+
+Población pediátrica
+
+Los estudios de interacciones se han realizado sólo en adultos.
+
+4.6. Fertilidad, embarazo y lactancia
+Anticoncepción en hombres y mujeres
+
+Las mujeres en edad fértil deben utilizar métodos anticonceptivos efectivos durante el tratamiento con paclitaxel y durante al menos seis meses desde la última dosis. Se aconseja a los hombres con una pareja de sexo femenino fértil que utilicen métodos anticonceptivos efectivos y eviten tener hijos durante el tratamiento con paclitaxel y durante al menos tres meses después de la última dosis de paclitaxel.
+
+ 
+
+Embarazo
+
+Los datos sobre el uso de paclitaxel en mujeres embarazadas son muy limitados. Se sospecha que paclitaxel produce defectos congénitos graves cuando se administra durante el embarazo. Los estudios realizados en animales han mostrado toxicidad en la reproducción (ver sección 5.3). Las mujeres en edad fértil se deben realizar una prueba del embarazo antes de comenzar el tratamiento con paclitaxel. No debe utilizarse paclitaxel durante el embarazo, ni en mujeres en edad fértil que no estén utilizando métodos anticonceptivos efectivos, a no ser que la situación clínica de la madre requiera tratamiento con paclitaxel.
+
+ 
+
+Lactancia
+
+Paclitaxel y/o sus metabolitos se excretaron en la leche de ratas lactantes (ver sección 5.3). Se desconoce si paclitaxel se excreta en la leche materna. Dado el potencial de causar reacciones adversas graves en lactantes, paclitaxel está contraindicado durante la lactancia. Debe interrumpirse la lactancia durante el tratamiento.
+
+ 
+
+Fertilidad
+
+Paclitaxel provoca infertilidad en ratas macho (ver sección 5.3). Según los hallazgos realizados en animales, puede afectar a la fertilidad de hombres y mujeres. Los pacientes deberían informarse sobre la conservación de su esperma antes de comenzar el tratamiento, ya que existe la posibilidad de que la terapia con paclitaxel cause infertilidad irreversible.
+
+4.7. Efectos sobre la capacidad para conducir y utilizar máquinas
+La influencia de paclitaxel sobre la capacidad para conducir y utilizar máquinas es pequeña o moderada. Paclitaxel puede causar reacciones adversas como cansancio (muy frecuente) y mareo (frecuente), que pueden afectar a la capacidad para conducir y utilizar maquinaria. Se debe aconsejar a los pacientes que no conduzcan ni utilicen maquinaria si se sienten cansados o mareados.
+
+4.8. Reacciones adversas
+Resumen del perfil de seguridad
+
+Las reacciones adversas más frecuentes y clínicamente significativas asociadas al uso de paclitaxel son neutropenia, neuropatía periférica, artralgia/mialgia y trastornos gastrointestinales.
+
+ 
+
+Tabla de reacciones adversas
+
+La Tabla 6 incluye las reacciones adversas asociadas con paclitaxel en monoterapia a cualquier dosis y en cualquier indicación durante los ensayos clínicos (N = 789), paclitaxel en combinación con gemcitabina para el adenocarcinoma pancreático del ensayo clínico de fase III (N = 421), paclitaxel en combinación con carboplatino para el cáncer no microcítico del ensayo clínico de fase III (N = 514) y del uso poscomercialización.
+
+Las frecuencias se definen como: muy frecuentes (≥1/10), frecuentes (≥1/100 a <1/10), poco frecuentes (≥1/1.000 a <1/100), raras (≥1/10.000 a <1/1.000), muy raras (<1/10.000) y frecuencia no conocida (no puede estimarse a partir de los datos disponibles). Las reacciones adversas se incluyen en orden decreciente de frecuencia dentro de cada intervalo de frecuencia.
+
+ 
+
+Tabla 6: Reacciones adversas notificadas con paclitaxel
+ 
+
+Monoterapia (N = 789)
+
+Tratamiento de combinación con gemcitabina
+
+(N = 421)
+
+Tratamiento de combinación con carboplatino
+
+(N = 514)
+
+Infecciones e infestaciones
+
+ 
+
+ 
+
+Frecuentes:
+
+Infección, infección del tracto urinario, foliculitis, infección de las vías respiratorias altas, candidiasis, sinusitis
+
+Sepsis, neumonía, candidiasis oral
+
+Neumonía, bronquitis, infección de las vías respiratorias altas, infección urinaria
+
+Poco frecuentes:
+
+Sepsis1, sepsis neutropénica1, neumonía, candidiasis oral, nasofaringitis, celulitis, herpes simple, infección viral, herpes zóster, infección fúngica, infección relacionada con el catéter, infección del lugar de inyección
+
+ 
+
+Sepsis, candidiasis oral
+
+Neoplasias benignas, malignas y no especificadas (incl quistes y pólipos)
+
+Poco frecuentes:
+
+Necrosis tumoral, dolor por metástasis
+
+ 
+
+ 
+
+Trastornos de la sangre y del sistema linfático
+
+Muy frecuentes:
+
+Mielosupresión, neutropenia, trombocitopenia, anemia, leucopenia, linfopenia
+
+Neutropenia, trombocitopenia, anemia
+
+Neutropenia3, trombocitopenia3, anemia3, leucopenia3
+
+Frecuentes:
+
+Neutropenia febril
+
+Pancitopenia
+
+Neutropenia febril, linfopenia
+
+Poco frecuentes:
+
+ 
+
+Púrpura trombocitopénica trombótica
+
+Pancitopenia
+
+Raras:
+
+Pancitopenia
+
+ 
+
+ 
+
+Trastornos del sistema inmunológico
+
+Poco frecuentes:
+
+ 
+
+Hipersensibilidad
+
+ 
+
+Hipersensibilidad a medicamentos, hipersensibilidad
+
+Raras:
+
+Hipersensibilidad grave1
+
+ 
+
+ 
+
+Trastornos del metabolismo y de la nutrición
+
+Muy frecuentes:
+
+Anorexia
+
+Deshidratación, descenso del apetito, hipopotasemia
+
+Descenso del apetito
+
+Frecuentes:
+
+Deshidratación, descenso del apetito, hipopotasemia
+
+ 
+
+Deshidratación
+
+Poco frecuentes:
+
+Hipofosfatemia, retención de líquidos, hipoalbuminemia, polidipsia, hiperglucemia, hipocalcemia, hipoglucemia, hiponatremia
+
+ 
+
+ 
+
+Frecuencia no conocida:
+
+Síndrome de lisis tumoral1
+
+ 
+
+ 
+
+Trastornos psiquiátricos
+
+Muy frecuentes:
+
+ 
+
+Depresión, insomnio
+
+ 
+
+Frecuentes:
+
+Depresión, insomnio, ansiedad
+
+Ansiedad
+
+Insomnio
+
+Poco frecuentes:
+
+Nerviosismo
+
+ 
+
+ 
+
+Trastornos del sistema nervioso
+
+Muy frecuentes:
+
+Neuropatía periférica, neuropatía, hipoestesia, parestesia
+
+Neuropatía periférica, mareos, cefalea, disgeusia
+
+Neuropatía periférica
+
+ 
+
+Frecuentes:
+
+Neuropatía sensitiva periférica, mareos, neuropatía motora periférica, ataxia, cefalea, trastornos sensitivos, somnolencia, disgeusia
+
+ 
+
+Mareos, cefalea, disgeusia
+
+ 
+
+Poco frecuentes:
+
+Polineuropatía, arreflexia, síncope, mareos posturales, disquinesia, hiporreflexia, neuralgia, dolor neuropático, temblores, pérdida sensitiva
+
+Parálisis del par craneal VII
+
+ 
+
+Frecuencia no conocida:
+
+Parálisis múltiple de los pares craneales1
+
+ 
+
+ 
+
+Trastornos oculares
+
+Frecuentes:
+
+Visión borrosa, aumento del lagrimeo, ojo seco, queratoconjuntivitis seca, madarosis
+
+Aumento del lagrimeo
+
+Visión borrosa
+
+Poco frecuentes:
+
+Reducción de la agudeza visual, visión anormal, irritación ocular, dolor ocular, conjuntivitis, trastornos visuales, prurito ocular, queratitis
+
+Edema macular cistoide
+
+ 
+
+Raras:
+
+Edema macular cistoide1
+
+ 
+
+ 
+
+Trastornos del oído y del laberinto
+
+Frecuentes:
+
+Vértigo
+
+ 
+
+ 
+
+Poco frecuentes:
+
+Tinnitus, otalgia
+
+ 
+
+ 
+
+Trastornos cardiacos
+
+ 
+
+Frecuentes:
+
+Arritmia, taquicardia, taquicardia supraventricular
+
+Insuficiencia cardiaca congestiva, taquicardia
+
+ 
+
+ 
+
+Raras:
+
+Parada cardiaca, insuficiencia cardiaca congestiva, disfunción ventricular izquierda, bloqueo auriculoventricular 1, bradicardia
+
+ 
+
+ 
+
+Trastornos vasculares
+
+Frecuentes:
+
+Hipertensión, linfedema, rubor, sofocos
+
+Hipotensión, hipertensión
+
+Hipotensión, hipertensión
+
+Poco frecuentes:
+
+Hipotensión, hipotensión ortostática, sensación periférica de frío
+
+Rubor
+
+Rubor
+
+Raras:
+
+Trombosis
+
+ 
+
+ 
+
+Trastornos respiratorios, torácicos y mediastínicos
+
+Muy frecuentes:
+
+ 
+
+Disnea, epistaxis, tos
+
+Disnea
+
+Frecuentes:
+
+Neumonitis intersticial2, disnea, epistaxis, dolor faringolaríngeo, tos, rinitis, rinorrea
+
+Neumonitis, congestión nasal
+
+Hemoptisis, epistaxis, tos
+
+ 
+
+ 
+
+Poco frecuentes:
+
+Émbolos pulmonares, tromboembolismo pulmonar, derrame pleural, disnea de esfuerzo, congestión sinusal, descenso de los sonidos respiratorios, tos productiva, rinitis alérgica, ronquera, congestión nasal, sequedad nasal, sibilancias
+
+Garganta seca, sequedad nasal
+
+Neumonitis
+
+Frecuencia no conocida:
+
+Parálisis de las cuerdas vocales1
+
+ 
+
+ 
+
+Trastornos gastrointestinales
+
+ 
+
+Muy frecuentes:
+
+Diarrea, vómitos, náuseas, estreñimiento, estomatitis
+
+Diarrea, vómitos, náuseas, estreñimiento, dolor abdominal, dolor abdominal superior
+
+Diarrea, vómitos, náuseas, estreñimiento
+
+ 
+
+Frecuentes:
+
+Reflujo gastroesofágico, dispepsia, dolor abdominal, distensión abdominal, dolor abdominal superior, hipoestesia oral
+
+Obstrucción intestinal, colitis, estomatitis, sequedad bucal
+
+Estomatitis, dispepsia, disfagia, dolor abdominal
+
+ 
+
+Poco frecuentes:
+
+Rectorragia, disfagia, flatulencia, glosodinia, sequedad bucal, dolor gingival, heces blandas, esofagitis, dolor abdominal inferior, úlceras en la boca, dolor bucal
+
+ 
+
+ 
+
+Trastornos hepatobiliares
+
+Frecuentes:
+
+ 
+
+Colangitis
+
+Hiperbilirrubinemia
+
+Poco frecuentes:
+
+Hepatomegalia
+
+ 
+
+ 
+
+Trastornos de la piel y del tejido subcutáneo
+
+Muy frecuentes:
+
+Alopecia, erupción cutánea
+
+Alopecia, erupción cutánea
+
+Alopecia, erupción cutánea
+
+ 
+
+Frecuentes:
+
+Prurito, piel seca, trastornos de las uñas, eritema, pigmentación/decoloración de las uñas, hiperpigmentación de la piel, onicolisis, cambios en las uñas
+
+Prurito, piel seca, trastornos de las uñas
+
+Prurito, trastornos de las uñas
+
+ 
+
+ 
+
+ 
+
+ 
+
+Poco frecuentes:
+
+Reacción de fotosensibilidad, urticaria, dolor en la piel, prurito generalizado, trastornos de la piel, trastornos de la pigmentación, hiperhidrosis, onicomadesis, erupción eritematosa, erupción generalizada, dermatitis, sudoración nocturna, erupción maculopapular, vitíligo, hipotricosis, sensibilidad aumentada del lecho de la uña, dolor en las uñas, erupción macular, erupción papular, lesiones de la piel, hinchazón de la cara
+
+ 
+
+Exfoliación cutánea, dermatitis alérgica, urticaria
+
+Muy raras:
+
+Síndrome de Stevens-Johnson1, necrólisis epidérmica tóxica1
+
+ 
+
+ 
+
+Frecuencia no conocida:
+
+Síndrome de eritrodisestesia palmoplantar1, 4, escleroderma1
+
+ 
+
+ 
+
+Trastornos musculoesqueléticos y del tejido conjuntivo
+
+Muy frecuentes:
+
+Artralgia, mialgia
+
+Artralgia, mialgia, dolor en las extremidades
+
+Artralgia, mialgia
+
+ 
+
+Frecuentes:
+
+Dolor de espalda, dolor en las extremidades, dolor óseo, calambres musculares, dolor en los miembros
+
+Debilidad muscular, dolor óseo
+
+Dolor de espalda, dolor en las extremidades, dolor musculoesquelético
+
+ 
+
+Poco frecuentes:
+
+Dolor de la pared torácica, debilidad muscular, dolor de cuello, dolor inguinal, espasmos musculares, dolor musculoesquelético, dolor costal, malestar en los miembros, debilidad muscular
+
+ 
+
+ 
+
+Trastornos renales y urinarios
+
+Frecuentes:
+
+ 
+
+Insuficiencia renal aguda
+
+ 
+
+Poco frecuentes:
+
+Hematuria, disuria, polaquiuria, nicturia, poliuria, incontinencia urinaria
+
+Síndrome urémico hemolítico
+
+ 
+
+Trastornos del aparato reproductor y de la mama
+
+Poco frecuentes:
+
+Dolor mamario
+
+ 
+
+ 
+
+Trastornos generales y alteraciones en el lugar de administración
+
+ 
+
+Muy frecuentes:
+
+Fatiga, astenia, pirexia
+
+Fatiga, astenia, pirexia, edema periférico, escalofríos
+
+Fatiga, astenia, edema periférico
+
+ 
+
+ 
+
+Frecuentes:
+
+Malestar, letargo, debilidad, edema periférico, inflamación de mucosas, dolor, rigor, edema, disminución del estado funcional, dolor torácico, enfermedad seudogripal (flu-like), hiperpirexia
+
+Reacción en el lugar de inyección
+
+Pirexia, dolor torácico
+
+ 
+
+ 
+
+ 
+
+Poco frecuentes:
+
+Malestar torácico, alteración de la marcha, hinchazón, reacción en el lugar de inyección
+
+ 
+
+Inflamación de las mucosas, extravasación en el lugar de inyección, inflamación en el lugar de inyección, erupción en el lugar de inyección
+
+Raras:
+
+Extravasación
+
+ 
+
+ 
+
+
+Exploraciones complementarias
+
+ 
+
+Muy frecuentes:
+
+ 
+
+Pérdida de peso, aumento de la alanina aminotransferasa
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Frecuentes:
+
+Pérdida de peso, aumento de la alanina aminotransferasa, aumento de la aspartato aminotransferasa, descenso del hematocrito, descenso del recuento de glóbulos rojos, aumento de la temperatura corporal, aumento de la gamma-glutamiltransferasa, aumento de la fosfatasa alcalina en sangre
+
+Aumento de la aspartato aminotransferasa, aumento de la bilirrubina en sangre, aumento de la creatinina en sangre
+
+Pérdida de peso, aumento de la alanina aminotransferasa, aumento de la aspartato aminotransferasa, aumento de la fosfatasa alcalina en sangre
+
+ 
+
+ 
+
+Poco frecuentes:
+
+Aumento de la presión arterial, aumento de peso, aumento de la lactato deshidrogenasa en sangre, aumento de la creatinina en sangre, aumento de la glucosa en sangre, aumento del fósforo en sangre, descenso del potasio en sangre, aumento de la bilirrubina
+
+ 
+
+ 
+
+Lesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos
+
+Poco frecuentes:
+
+Contusión
+
+ 
+
+ 
+
+ 
+
+Raras:
+
+Fenómeno de fotosensibilidad inducida por la radiación, neumonitis inducida por la radiación
+
+ 
+
+ 
+
+1 Notificadas durante la experiencia poscomercialización de paclitaxel.
+
+2 La frecuencia de neumonitis se calcula en base a los datos agrupados de 1.310 pacientes de los ensayos clínicos que recibieron paclitaxel en monoterapia para el cáncer de mama y para otras indicaciones
+
+3 Basado en evaluaciones de laboratorio: grado máximo de mielosupresión (población tratada).
+
+4 En algunos pacientes expuestos previamente a capecitabina.
+
+ 
+
+Descripción de reacciones adversas seleccionadas
+
+Esta sección contiene las reacciones adversas más frecuentes y clínicamente relevantes que se produjeron en los paclitaxel.
+
+ 
+
+Se evaluaron las reacciones adversas en 229 pacientes con cáncer de mama metastásico tratados con 260 mg/m2 de paclitaxel cada tres semanas en un estudio clínico pivotal de fase III (paclitaxel en monoterapia).
+
+ 
+
+Se evaluaron las reacciones adversas en 421 pacientes con cáncer de páncreas metastásico tratados con paclitaxel en combinación con gemcitabina (125 mg/m2 de paclitaxel en combinación con gemcitabina a una dosis de 1.000 mg/m2 administrados los días 1, 8 y 15 de cada ciclo de 28 días) y en 402 pacientes tratados con gemcitabina en monoterapia que recibieron tratamiento sistémico en primera línea para el adenocarcinoma de páncreas metastásico (paclitaxel/gemcitabina).
+
+ 
+
+Se evaluaron las reacciones adversas en 514 pacientes con cáncer de pulmón no microcítico tratados con paclitaxel en combinación con carboplatino (100 mg/m2 de paclitaxel administrado los días 1, 8 y 15 de cada ciclo de 21 días en combinación con carboplatino administrado el día 1 de cada ciclo) en el ensayo de fase III controlado aleatorizado (paclitaxel/carboplatino). Se evaluó la toxicidad a los taxanos notificada por los pacientes utilizando las 4 subescalas del cuestionario de evaluación funcional del tratamiento del cáncer con taxanos (FACT-taxane por sus siglas en inglés, Functional Assessment of Cancer Therapy–Taxane). Utilizando un análisis de medidas repetidas, 3 de las 4 subescalas (neuropatía periférica, dolor en manos/pies y audición) favorecieron a paclitaxel y carboplatino (p ≤0,002). En la otra subescala (edema), no hubo ninguna diferencia entre los grupos de tratamiento.
+
+ 
+
+Infecciones e infestaciones
+
+Paclitaxel/gemcitabina
+
+Se notificó sepsis en un 5 % de los pacientes con o sin neutropenia que recibieron paclitaxel en combinación con gemcitabina durante la realización de un ensayo en adenocarcinoma de páncreas. De los 22 casos de sepsis notificados en los pacientes tratados con paclitaxel en combinación con gemcitabina, 5 presentaron un desenlace mortal. Las complicaciones debidas al cáncer de páncreas subyacente, especialmente la obstrucción biliar o la presencia de un stent biliar, se identificaron como factores contribuyentes significativos. Si un paciente presenta fiebre (independientemente del recuento de neutrófilos), se debe iniciar tratamiento con antibióticos de amplio espectro. En caso de neutropenia febril, se debe interrumpir temporalmente el tratamiento con paclitaxel y gemcitabina hasta que remita la fiebre y se tenga un RAN ≥1.500 células/mm3, luego se reanudará el tratamiento a niveles de dosis inferiores (ver sección 4.2).
+
+ 
+
+Trastornos de la sangre y del sistema linfático
+
+Paclitaxel en monoterapia para el cáncer de mama metastásico
+
+En pacientes con cáncer de mama metastásico, la neutropenia fue la toxicidad hematológica más importante (notificada en el 79 % de los pacientes), rápidamente reversible y dependiente de la dosis; se notificó leucopenia en el 71 % de los pacientes. Se produjo neutropenia de grado 4 (<500 células/mm3) en el 9 % de los pacientes tratados con paclitaxel. Se produjo neutropenia febril en cuatro pacientes tratados con paclitaxel. Se observó anemia (Hb <10 g/dl) en el 46 % de los pacientes tratados con paclitaxel, siendo grave (Hb <8 g/dl) en tres casos. Se observó linfopenia en el 45 % de los pacientes.
+
+ 
+
+Paclitaxel/gemcitabine
+
+La Tabla 7 muestra la frecuencia y la gravedad de las anomalías hematológicas detectadas en el laboratorio en los pacientes tratados con paclitaxel en combinación con gemcitabina o con gemcitabina sola.
+
+Tabla 7: anomalías hematológicas detectadas en el laboratorio en el ensayo de adenocarcinoma de páncreas
+ 
+
+Paclitaxel (125 mg/m2)/ Gemcitabina
+
+Gemcitabina
+
+Grados 1-4 (%)
+
+Grados 3-4 (%)
+
+Grados 1-4 (%)
+
+Grados 3-4 (%)
+
+Anemiaa,b
+
+97
+
+13
+
+96
+
+12
+
+Neutropeniaa,b
+
+73
+
+38
+
+58
+
+27
+
+Trombocitopeniab,c
+
+74
+
+13
+
+70
+
+9
+
+a 405 pacientes evaluados del grupo tratado con paclitaxel/gemcitabina
+
+b 388 pacientes evaluados del grupo tratado con gemcitabina
+
+c 404 pacientes evaluados del grupo tratado con paclitaxel/gemcitabina
+
+ 
+
+Paclitaxel/carboplatino
+
+La anemia y la trombocitopenia se notificaron con mayor frecuencia en el grupo de paclitaxel que en el grupo de Taxol y carboplatino (54 % frente al 28 % y 45 % frente al 27 %, respectivamente).
+
+ 
+
+Trastornos del sistema nervioso
+
+ 
+
+Paclitaxel en monoterapia para el cáncer de mama metastásico
+
+En general, la frecuencia y gravedad de la neurotoxicidad fue dosis-dependiente en los pacientes tratados con paclitaxel. Se observó neuropatía periférica (principalmente neuropatía sensitiva de grados 1 o 2) en el 68 % de los pacientes tratados con paclitaxel, siendo el 10 % de los casos grado 3 y ningún caso grado 4.
+
+ 
+
+Paclitaxel/gemcitabina
+
+En los pacientes tratados con paclitaxel en combinación con gemcitabina, la mediana de tiempo hasta la primera aparición de neuropatía periférica de grado 3 fue de 140 días. La mediana de tiempo hasta la mejoría en al menos 1 grado fue de 21 días y la mediana de tiempo hasta la mejoría de la neuropatía periférica de grado 3 a grado 0 o 1 fue de 29 días. De los pacientes que interrumpieron temporalmente el tratamiento debido a la neuropatía periférica, el 44 % (31/70 pacientes) pudo reanudar el tratamiento con paclitaxel a una dosis reducida. Ningún paciente tratado con paclitaxel en combinación con gemcitabina presentó neuropatía periférica de grado 4.
+
+ 
+
+Paclitaxel /carboplatino
+
+En los pacientes con cáncer de pulmón no microcítico tratados con paclitaxel y carboplatino, la mediana de tiempo hasta la primera aparición de neuropatía periférica de grado 3 relacionada con el tratamiento fue de 121 días y la mediana de tiempo hasta la mejoría de la neuropatía periférica de grado 3 relacionada con el tratamiento a grado 1 fue de 38 días. Ningún paciente tratado con paclitaxel y carboplatino presentó neuropatía periférica de grado 4.
+
+ 
+
+Trastornos oculares
+
+Se han notificado casos raros durante la experiencia poscomercialización de disminución de la agudeza visual debido al edema macular cistoide durante el tratamiento con paclitaxel (ver sección 4.4).
+
+ 
+
+Trastornos respiratorios, torácicos y mediastínicos
+
+ 
+
+Paclitaxel/gemcitabina
+
+Se notificó neumonitis en un 4 % con el uso de paclitaxel en combinación con gemcitabina. De los 17 casos de neumonitis notificados en los pacientes tratados con paclitaxel en combinación con gemcitabina, 2 presentaron un desenlace mortal. Se debe realizar una estrecha monitorización de los pacientes para detectar signos y síntomas de neumonitis. Después de descartar una etiología infecciosa y una vez realizado el diagnóstico de neumonitis, se debe suspender de forma permanente el tratamiento con paclitaxel y gemcitabina e iniciar rápidamente el tratamiento y las medidas de apoyo adecuadas (ver sección 4.2).
+
+ 
+
+Trastornos gastrointestinales
+
+Paclitaxel en monoterapia para el cáncer de mama metastásico
+
+Se produjeron náuseas en el 29 % de los pacientes y diarrea en el 25 % de los pacientes.
+
+ 
+
+Trastornos de la piel y del tejido subcutáneo
+
+Paclitaxel en monoterapia para el cáncer de mama metastásico
+
+Se observó alopecia en >80 % de los pacientes tratados con paclitaxel. La mayoría de los acontecimientos de alopecia se produjeron en menos de un mes después de iniciar el tratamiento con paclitaxel. Se espera una caída de pelo importante, ≥50 % en la mayoría de los pacientes que presenten alopecia.
+
+ 
+
+Trastornos musculoesqueléticos y del tejido conjuntivo
+
+Paclitaxel en monoterapia para el cáncer de mama metastásico
+
+Se notificó artralgia en el 32 % de los pacientes tratados con paclitaxel, siendo grave en el 6 % de los casos. Se produjo mialgia en el 24 % de los pacientes tratados con paclitaxel, siendo grave en el 7 % de los casos. Generalmente, los síntomas fueron transitorios, se produjeron normalmente tres días después de la administración de paclitaxel y se resolvieron en el plazo de una semana.
+
+ 
+
+Trastornos generales y alteraciones en el lugar de administración
+
+ 
+
+Paclitaxel en monoterapia para el cáncer de mama metastásico
+
+Se notificó astenia/fatiga en el 40 % de los pacientes.
+
+ 
+
+Población pediátrica
+
+En el estudio participaron 106 pacientes, 104 de los cuales eran pediátricos con edades desde 6 meses hasta menos de 18 años (véase la sección 5.1). Cada paciente experimentó al menos 1 reacción adversa. Las reacciones adversas comunicadas con más frecuencia fueron neutropenia, anemia, leucopenia y pirexia. Las reacciones adversas graves descritas en más de 2 pacientes fueron pirexia, dolor de espalda, edema periférico y vómitos. No se identificaron nuevos signos de seguridad en el reducido número de pacientes pediátricos tratados con paclitaxel, y el perfil de seguridad fue similar al de la población adulta.
+
+ 
+
+Notificación de sospechas de reacciones adversas
+
+Es importante notificar sospechas de reacciones adversas al medicamento tras su autorización. Ello permite una supervisión continuada de la relación beneficio/riesgo del medicamento. Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Español de Farmacovigilancia de medicamentos de Uso Humano: https://www.notificaram.es.
+
+4.9. Sobredosis
+No se conocen antídotos para la sobredosis de paclitaxel. En caso de sobredosis, debe realizarse un seguimiento estrecho al paciente. El tratamiento debe dirigirse a las principales formas de toxicidad previstas, como la mielosupresión de la médula ósea, la mucositis y la neuropatía periférica.
+
+5. PROPIEDADES FARMACOLÓGICAS
+5.1. Propiedades farmacodinámicas
+Grupo farmacoterapéutico: agentes antineoplásicos, alcaloides de plantas y otros productos naturales, taxanos, código ATC: L01CD01
+
+ 
+
+Mecanismo de acción
+
+Paclitaxel es un fármaco antimicrotúbulos que estimula el ensamblaje de microtúbulos a partir de los dímeros de tubulina y estabiliza los microtúbulos impidiendo su despolimerización. Esta estabilización inhibe la dinámica de reorganización normal de la red de microtúbulos, esencial para las funciones celulares vitales en las fases mitótica e interfase. Además, paclitaxel induce la formación de grupos anormales o haces de microtúbulos a lo largo de todo el ciclo celular y de husos múltiples de microtúbulos durante la mitosis.
+
+ 
+
+Este medicamento contiene nanopartículas de un tamaño de aproximadamente 130 nm constituidas por paclitaxel unido a albúmina sérica humana, donde el paclitaxel está presente en estado amorfo, no cristalino. Tras la administración intravenosa, las nanopartículas se disocian rápidamente y se vuelven complejos solubles de paclitaxel unido a albúmina de un tamaño de aproximadamente 10 nm. Se sabe que la albúmina participa en la transcitosis caveolar endotelial de componentes plasmáticos, y estudios in vitro han demostrado que la presencia de albúmina en Paclitaxel Albumina favorece el transporte de paclitaxel a través de las células endoteliales. Se cree que este transporte caveolar transendotelial aumentado está mediado por el receptor de albúmina gp-60 (glicoproteína 60), y que se produce una acumulación aumentada de paclitaxel en el área del tumor debido a la proteína de unión a la albúmina, proteína acídica secretada rica en cisteína (SPARC).
+
+ 
+
+Eficacia clínica y seguridad
+
+Cáncer de mama
+
+Datos procedentes de 106 pacientes reclutados en dos ensayos clínicos abiertos no controlados y de 454 pacientes que recibieron tratamiento en un ensayo fase III comparativo y aleatorio, avalan el uso de paclitaxel en el tratamiento del cáncer de mama metastásico. Esta información se muestra a continuación.
+
+ 
+
+Ensayos abiertos de un solo grupo
+
+En un ensayo, se administró una dosis de 175 mg/m2 de paclitaxel en perfusión durante 30 minutos a 43 pacientes con cáncer de mama metastásico. El segundo ensayo utilizó una dosis de 300 mg/m2 en perfusión de 30 minutos en 63 pacientes con cáncer de mama metastásico. Los pacientes fueron tratados sin tratamiento previo con esteroides o soporte planificado con G-CSF. Los ciclos se administraron a intervalos de 3 semanas. Las tasas de respuesta en todos los pacientes fueron del 39,5 % (IC 95 %: 24,9 %-54,2 %) y 47,6 % (IC 95 %: 35,3 %-60,0 %), respectivamente. La mediana del tiempo hasta la progresión de la enfermedad fue de 5,3 meses (175 mg/m2; IC 95 %: 4,6-6,2 meses) y 6,1 meses (300 mg/m2; IC 95 %: 4,2-9,8 meses).
+
+ 
+
+Ensayo comparativo y aleatorio
+
+Este ensayo multicéntrico se realizó en pacientes con cáncer de mama metastásico, que recibieron tratamiento cada 3 semanas con paclitaxel en monoterapia, bien como paclitaxel con solventes a una dosis de 175 mg/m2 en perfusión de 3 horas con premedicación para prevenir la hipersensibilidad (N = 225), o paclitaxel 260 mg/m2 en perfusión de 30 minutos sin premedicación (N = 229).
+
+ 
+
+El 64 % de los pacientes tenía un estado funcional de 1 o 2 en la escala ECOG (por sus siglas en inglés, Eastern Cooperative Oncology Group) al comienzo del ensayo; el 79 % tenía metástasis viscerales; y el 76 % presentaba > 3 localizaciones metastásicas. El 14 % de los pacientes no había recibido quimioterapia previa, el 27 % había recibido quimioterapia sólo durante el tratamiento adyuvante, el 40 % como tratamiento de la enfermedad metastásica y el 19 % como tratamiento adyuvante y metastásico. El 59 % de los pacientes recibió el medicamento de estudio como terapia en segunda línea o posteriores. El 77 % de los pacientes había recibido tratamiento previo con antraciclinas.
+
+ 
+
+A continuación se muestran los resultados de la tasa global de respuestas, el tiempo hasta la progresión, la supervivencia libre de progresión (SLP) y la supervivencia global (SG) para los pacientes que recibieron el tratamiento en >1ª línea.
+
+ 
+
+Tabla 8: Resultados de la tasa global de respuestas, mediana del tiempo hasta la progresión y supervivencia libre de progresión, según la evaluación por parte del investigador
+Variable de eficacia
+
+Paclitaxel (260 mg/m2)
+
+Paclitaxel con solventes (175 mg/m2)
+
+valor de p
+
+Tasa global de respuestas [IC 95 %] (%)
+
+Tratamiento en >1a línea
+
+26,5 [18,98; 34,05] (n = 132)
+
+13,2 [7,54; 18,93] (n = 136)
+
+0,006a
+
+*Mediana del tiempo hasta la progresión [IC 95 %] (semanas)
+
+Tratamiento en >1a línea
+
+20,9 [15,7; 25,9] (n = 131)
+
+16,1 [15,0; 19,3] (n = 135)
+
+0,011b
+
+*Mediana de la supervivencia libre de progresión [IC 95 %] (semanas)
+
+Tratamiento en >1a línea
+
+20,6 [15,6; 25,9] (n = 131)
+
+16,1 [15,0; 18,3] (n = 135)
+
+0,010b
+
+*Supervivencia [IC 95 %] (semanas)
+
+Tratamiento en >1a línea
+
+56,4 [45,1; 76,9] (n = 131)
+
+46,7 [39,0; 55,3] (n = 136)
+
+0,020b
+
+*Estos datos están basados en el Informe Final de Ensayo Clínico: Addendum CA012-0 con fecha final (23 de marzo de 2005)
+
+a Test de chi-cuadrado (χ2)
+
+b Test de rangos logarítmicos (log-rank)
+
+ 
+
+Se evaluó la seguridad en 229 pacientes tratados con paclitaxel en el ensayo clínico controlado y aleatorio. La evaluación de la neurotoxicidad del paclitaxel se basó en la mejora en un grado en pacientes que experimentaron neuropatía periférica grado 3 en cualquier momento durante el tratamiento. No se evaluó el curso natural de la neuropatía periférica debida a la toxicidad acumulativa de paclitaxel tras >6 ciclos de tratamiento, hasta su resolución a condiciones basales, por lo que aún se desconoce.
+
+ 
+
+Adenocarcinoma de páncreas
+
+Se realizó un estudio abierto, aleatorizado, multinacional y multicéntrico en 861 pacientes para comparar paclitaxel/gemcitabina frente a gemcitabina en monoterapia como tratamiento en primera línea en pacientes con adenocarcinoma de páncreas metastásico. Se administró paclitaxel a los pacientes (N = 431) en forma de perfusión intravenosa durante 30-40 minutos a una dosis de 125 mg/m2 seguido de gemcitabina en forma de perfusión intravenosa durante 30-40 minutos a una dosis de 1.000 mg/m2 administrados los días 1, 8 y 15 de cada ciclo de 28 días. En el grupo de tratamiento comparador, se administró gemcitabina en monoterapia a los pacientes (N = 430) de acuerdo con la dosis y la pauta recomendadas. Se administró el tratamiento hasta la progresión de la enfermedad o el desarrollo de una toxicidad inaceptable. De los 431 pacientes con adenocarcinoma de páncreas que fueron aleatorizados para recibir paclitaxel en combinación con gemcitabina, la mayoría (93 %) era de raza blanca, el 4 % era de raza negra y el 2 % eran asiáticos. El 16 % tenía un Performance status de Karnofsky de 100; el 42 % de 90; el 35 % de 80; el 7 % de 70 y <1 % de los pacientes por debajo de 70. Los pacientes con alto riesgo cardiovascular, antecedentes de enfermedad arterial periférica y/o de trastornos del tejido conectivo y/o enfermedad pulmonar intersticial fueron excluidos del estudio.
+
+ 
+
+Los pacientes recibieron tratamiento durante una mediana de tiempo de 3,9 meses en el grupo de paclitaxel/gemcitabina y de 2,8 meses en el grupo de gemcitabina. El 32 % de los pacientes del grupo de paclitaxel/gemcitabina, en comparación con el 15 % de los pacientes del grupo de gemcitabina, recibieron 6 o más meses de tratamiento. En la población tratada, la mediana de la intensidad relativa de la dosis de gemcitabina fue del 75 % en el grupo de paclitaxel/gemcitabina y del 85 % en el grupo de gemcitabina. La mediana de la intensidad relativa de la dosis de paclitaxel fue del 81 %. Se administró una mediana de dosis acumulada de gemcitabina mayor en el grupo de paclitaxel/gemcitabina (11.400 mg/m2) que en el grupo de gemcitabina (9.000 mg/m2).
+
+ 
+
+El criterio de valoración principal de la eficacia fue la SG. Los criterios de valoración secundarios fundamentales fueron la SLP y la tasa de respuesta global (TRG), ambos criterios evaluados mediante una revisión radiológica enmascarada, independiente y central, utilizando los criterios RECIST (Versión 1.0).
+
+Tabla 9: Resultados de eficacia del estudio aleatorizado en pacientes con adenocarcinoma de páncreas (población por intención de tratar)
+ 
+
+Paclitaxel (125 mg/m2)/gemcitabina
+
+(N = 431)
+
+Gemcitabina (N = 430)
+
+Supervivencia global
+
+Número de muertes (%)
+
+333 (77)
+
+359 (83)
+
+Mediana de supervivencia global, meses (IC del 95 %)
+
+8,5 (7,89; 9,53)
+
+6,7 (6,01; 7,23)
+
+HRA+G/G (IC del 95 %)a
+
+0,72 (0,617; 0,835)
+
+pb
+
+<0,0001
+
+Tasa de supervivencia % (IC del 95 %) a
+
+ 
+
+1 año
+
+35 % (29,7; 39,5)
+
+22 % (18,1; 26,7)
+
+2 años
+
+9 % (6,2; 13,1)
+
+4 % (2,3; 7,2)
+
+Supervivencia global percentil 75 (meses)
+
+14,8
+
+11,4
+
+Supervivencia libre de progresión
+
+Muerte o progresión, n (%)
+
+277 (64)
+
+265 (62)
+
+Mediana de supervivencia libre de progresión, meses (IC
+
+del 95 %)
+
+ 
+
+5,5 (4,47; 5,95)
+
+ 
+
+3,7 (3,61; 4,04)
+
+HRA+G/G (IC del 95 %)a
+
+0,69 (0,581; 0,821)
+
+pb
+
+<0,0001
+
+Tasa de respuesta global
+
+Respuesta global completa o parcial confirmada, n (%)
+
+99 (23)
+
+31 (7)
+
+IC del 95 %
+
+19,1; 27,2
+
+5,0; 10,1
+
+pA+G/pG (IC del 95 %)
+
+3,19 (2,178; 4,662)
+
+p (prueba de la χ2)
+
+<0,0001
+
+IC = intervalo de confianza, HRA+G/G = razón de riesgos (Hazard ratio) de paclitaxel+gemcitabina/gemcitabina, pA+G/pG= razón de tasa de respuesta de paclitaxel+gemcitabina/gemcitabina
+
+a modelo de riesgos proporcionales de Cox estratificado (Cox proportional hazard model)
+
+b prueba del rango logarítmico (Test de log-rank) estratificada por región geográfica (Norteamérica frente a otras regiones),
+
+puntuación en la escala funcional de Karnofsky (70 a 80 frente a 90 a 100) y presencia de metástasis hepática (sí frente a no).
+
+ 
+
+Se observó una mejoría estadísticamente significativa en la SG en los pacientes tratados con paclitaxel/gemcitabina frente a gemcitabina en monoterapia, con un aumento de 1,8 meses en la mediana de SG, una reducción global del 28 % en el riesgo de muerte, una mejoría del 59 % en la tasa de supervivencia a 1 año y del 125 % en la tasa de supervivencia a los 2 años.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A graph with numbers and lines
+
+Description automatically generated
+
+ 
+
+Los efectos del tratamiento sobre la SG fueron mejores en el grupo de paclitaxel/gemcitabina en la mayoría de los subgrupos previamente especificados (entre ellos sexo, Performance status de Karnofsky, región geográfica, localización primaria del cáncer de páncreas, estadificación al diagnóstico, presencia de metástasis hepáticas, presencia de carcinomatosis peritoneal, procedimiento de Whipple previo, presencia de stent biliar al inicio, presencia de metástasis pulmonares y número de lugares metastásicos). Para los pacientes ≥75 años de los grupos de paclitaxel/gemcitabina y de gemcitabina, la razón de riesgos (HR) de supervivencia fue de 1,08 (IC del 95 %: 0,653; 1,797). Para los pacientes con niveles basales normales de CA 19-9, la HR de supervivencia fue de 1,07 (IC del 95 %: 0,692; 1,661).
+
+ 
+
+Se observó una mejoría estadísticamente significativa en la SLP en los pacientes tratados con paclitaxel /gemcitabina frente a gemcitabina en monoterapia, con un aumento de 1,8 meses en la mediana de SLP.
+
+ 
+
+Cáncer de pulmón no microcítico
+
+Se realizó un estudio abierto, aleatorizado y multicéntrico en 1.052 pacientes con cáncer de pulmón no microcítico en estadio IIIb/IV que no habían recibido quimioterapia previa. El estudio comparó paclitaxel en combinación con carboplatino frente a paclitaxel con solventes en combinación con carboplatino como tratamiento de primera línea en pacientes con cáncer de pulmón no microcítico avanzado. Más del 99 % de los pacientes tenía un estado funcional de 0 o 1 en la escala ECOG. Los pacientes con neuropatía preexistente de grado ≥2 o factores de riesgo médicos graves en cualquiera de los sistemas de órganos principales fueron excluidos. Se administró paclitaxel a los pacientes (N = 521) en una perfusión intravenosa durante 30 minutos a una dosis de 100 mg/m2 los días 1, 8 y 15 de cada ciclo de 21 días sin premedicación con corticoides y sin profilaxis con factores estimulantes de colonias de granulocitos. Inmediatamente después de finalizar la administración de paclitaxel, se administró carboplatino a una dosis de AUC = 6 mg•min/ml por vía intravenosa únicamente el día 1 de cada ciclo de 21 días. Se administró paclitaxel con solventes a los pacientes (N = 531) a una dosis de 200 mg/m2 en una perfusión intravenosa durante 3 horas con premedicación estándar, seguida inmediatamente de carboplatino administrado por vía intravenosa a una dosis de AUC = 6 mg•min/ml. Se administró cada medicamento el día 1 de cada ciclo de 21 días. En los dos grupos del estudio, se administró el tratamiento hasta la progresión de la enfermedad o hasta la aparición de una toxicidad inaceptable. Los pacientes recibieron una mediana de 6 ciclos de tratamiento en los dos grupos del estudio.
+
+ 
+
+El criterio principal de valoración de la eficacia fue la tasa de respuesta global definida como el porcentaje de pacientes que alcanzaron una respuesta completa o una respuesta parcial confirmada objetiva mediante una revisión radiológica independiente, central y enmascarada, utilizando los criterios RECIST (Versión 1.0). Los pacientes del grupo de paclitaxel/carboplatino presentaron una tasa de respuesta global significativamente más alta que los pacientes del grupo de control: 33 % frente al 25 %, p = 0,005 (Tabla 10). Hubo una diferencia significativa en la tasa de respuesta global en el grupo de paclitaxel/carboplatino en comparación con el grupo control en los pacientes con cáncer de pulmón no microcítico de histología escamosa (N = 450, el 41 % frente al 24%, p<0,001); sin embargo, esta diferencia no se tradujo en una diferencia en la SLP o en la SG. No hubo diferencia en la tasa de respuesta global entre los grupos de tratamiento en los pacientes con histología no escamosa (N = 602, el 26 % frente al 25 %, p = 0,808).
+
+Tabla 10: Tasa de respuesta global en un ensayo aleatorizado de cáncer de pulmón no microcítico (población por intención de tratar)
+Parámetro de eficacia
+
+Paclitaxel
+
+(100 mg/m2/semana)
+
++ carboplatino (N = 521)
+
+Paclitaxel con solventes (200 mg/m2 cada 3 semanas)
+
++ carboplatino (N = 531)
+
+Tasa de respuesta global (revisión independiente)
+
+Respuesta global completa o parcial confirmada, n (%)
+
+170 (33 %)
+
+132 (25 %)
+
+IC del 95 % (%)
+
+28,6; 36,7
+
+21,2, 28,5
+
+pA/pT (IC del 95,1 %)
+
+1,313 (1,082; 1,593)
+
+Valor de pa
+
+0,005
+
+IC = intervalo de confianza, HRA/T = razón de riesgos (por sus siglas en inglés, Hazard Ratio) de paclitaxel/carboplatino frente a paclitaxel con solventes/carboplatino; pA/pT = razón de tasa de respuesta de paclitaxel/carboplatino frente a paclitaxel con solventes/carboplatino.
+
+a El valor de p se basa en el test de chi-cuadrado (χ2).
+
+ 
+
+No hubo ninguna diferencia estadísticamente significativa en la SLP (según la evaluación radiológica enmascarada) ni en la SG entre los dos grupos de tratamiento. Se realizó un análisis de no inferioridad para la SLP y la SG, con un margen de no inferioridad previamente especificado del 15 %. Se cumplió el criterio de no inferioridad tanto para la SLP como para la SG, con el límite superior del intervalo de confianza del 95 % para las razones de riesgos asociadas siendo inferior a 1,176 (Tabla 11).
+
+ 
+
+Tabla 11: Análisis de no inferioridad de la supervivencia libre de progresión y la supervivencia global en un ensayo aleatorizado de cáncer de pulmón no microcítico (población por intención de tratar)
+Parámetro de eficacia
+
+Paclitaxel
+
+(100 mg/m2/semana)
+
++ carboplatino (N = 521)
+
+Paclitaxel con solventes (200 mg/m2 cada
+
+3 semanas)
+
++ carboplatino (N = 531)
+
+Supervivencia libre de progresióna (revisión independiente)
+
+Muerte o progresión, n (%)
+
+429 (82 %)
+
+442 (83 %)
+
+Mediana de SLP (IC del 95 %) (meses)
+
+6,8 (5,7; 7,7)
+
+6,5 (5,7; 6,9)
+
+HRA/T (IC del 95 %)
+
+0,949 (0,830; 1,086)
+
+Supervivencia global
+
+Número de muertes, n (%)
+
+360 (69 %)
+
+384 (72 %)
+
+Mediana de SG (IC del 95 %) (meses)
+
+12,1 (10,8, 12,9)
+
+11,2 (10,3, 12,6)
+
+HRA/T (95,1 % CI)
+
+0,922 (0,797, 1,066)
+
+IC = intervalo de confianza, HRA/T = razón de riesgos (Hazard ratio) de paclitaxel/carboplatino frente a paclitaxel con solventes/carboplatino; pA/pT = razón de tasa de respuesta de paclitaxel/carboplatino frente a paclitaxel con solventes/carboplatino.
+
+a De acuerdo con las consideraciones metodológicas de la EMA para el criterio de valoración de la SLP, no se utilizaron las observaciones omitidas o el inicio de un nuevo tratamiento posterior para la censura.
+
+ 
+
+Población pediátrica
+
+No se ha establecido la seguridad y eficacia en pacientes pediátricos (véase la sección 4.2).
+
+ 
+
+El estudio ABI-007-PST-001 fue un estudio de fase I/II multicéntrico, abierto y de búsqueda de dosis para evaluar la seguridad, la tolerabilidad y la eficacia preliminar de la administración semanal de paclitaxel en pacientes pediátricos con tumores sólidos recurrentes o resistentes, y en él se incluyó a un total de 106 pacientes de edades ≥ 6 meses a ≤24 años.
+
+ 
+
+En la parte de fase I del estudio se incluyó a un total de 64 pacientes con edades de 6 meses a menos de 18 años y se estableció que la dosis máxima tolerada (DMT) era de 240 mg/m2, administrada mediante perfusión intravenosa durante 30 minutos, en los días 1, 8 y 15 de cada ciclo de 28 días.
+
+ 
+
+En la parte de fase II se utilizó un diseño minimax de Simon en dos etapas y en él se incluyó a un total de 42 pacientes de 6 meses a 24 años de edad con sarcoma de Ewing recurrente o resistente, neuroblastoma o rabdomiosarcoma para evaluar la actividad antitumoral a través de la tasa de respuesta global (TRG). De los 42 pacientes, 1 tenía <2 años, 27 de ≥2 a <12, 12 tenían de ≥12 a <18 y 2 pacientes adultos tenían de ≥18 a 24 años.
+
+ 
+
+Se trató a los pacientes durante una mediana de 2 ciclos con la DMT. De los 41 pacientes aptos para la evaluación de la eficacia en la etapa 1, 1 paciente del grupo de rabdomiosarcoma (N = 14) tuvo una respuesta parcial (RP) confirmada que dio lugar a una TRG del 7,1 % (IC del 95 %: 0,2, 33,9). No se observó ninguna respuesta completa (RC) o RP confirmadas ni en el grupo de sarcoma de Ewing (N = 13) ni en el de neuroblastoma (N = 14). Ninguno de los grupos del estudio pasó a la etapa 2 porque no se cumplió el requisito establecido en el protocolo de que ≥2 pacientes tuvieran una respuesta confirmada.
+
+La mediana de los resultados de supervivencia global, incluido el periodo de seguimiento de 1 año, fue de 32,1 semanas (IC del 95 %: 21,4, 72,9), 32,0 semanas (IC del 95 %: 12, sin establecer) y 19,6 semanas (IC del 95 %: 4, 25,7) en los grupos de sarcoma de Ewing, neuroblastoma y rabdomiosarcoma, respectivamente.
+
+ 
+
+El perfil global de seguridad de nanopartículas de paclitaxel-albúmina sérica humana en pacientes pediátricos fue consistente con el perfil de seguridad conocido de nanopartículas de paclitaxel- albúmina sérica humana en adultos (véase la sección 4.8). En base a estos resultados, se llegó a la conclusión de que nanopartículas de paclitaxel-albúmina sérica humana en monoterapia carece de actividad clínica significativa o beneficiosa para la supervivencia que justifique proseguir con su desarrollo en la población pediátrica.
+
+ 
+
+5.2. Propiedades farmacocinéticas
+La farmacocinética de paclitaxel se determinó en ensayos clínicos con dosis de 80 a 375 mg/m2 en perfusiones de 30 y 180 minutos. La exposición a paclitaxel (AUC) aumentó de forma lineal desde 2.653 a 16.736 ng.h/ml tras la administración de dosis de 80 a 300 mg/m2.
+
+En un estudio en pacientes con tumores sólidos en fase avanzada, se compararon las características farmacocinéticas de paclitaxel tras la administración de 260 mg/m2 de paclitaxel por vía intravenosa durante 30 minutos frente a la perfusión durante 3 horas de 175 mg/m2 de paclitaxel con solventes. En base al análisis farmacocinético no compartimental, tanto el aclaramiento plasmático de paclitaxel (43 %) como su volumen de distribución (53 %) fueron mayores con paclitaxel que con paclitaxel en solución. No hubo diferencias en la semivida de eliminación terminal.
+
+En un estudio de dosis repetidas con 12 pacientes que recibieron 260 mg/m2 de paclitaxel por vía intravenosa, la variabilidad intrapaciente en el AUC fue del 19 % (intervalo = 3,21 %-37,70 %). No hubo indicios de acumulación de paclitaxel con ciclos múltiples de tratamiento.
+
+ 
+
+Distribución
+
+Después de la administración de paclitaxel a pacientes con tumores sólidos, paclitaxel se distribuye uniformemente en las células sanguíneas y plasma, y está altamente ligado a las proteínas plasmáticas (94 %).
+
+En un estudio comparativo intrapaciente se evaluó mediante ultrafiltración la fijación de paclitaxel a proteínas tras la administración de paclitaxel. La fracción de paclitaxel libre fue significativamente mayor con paclitaxel  (6,2 %) que con paclitaxel con solventes (2,3 %). Esto produjo una exposición significativamente mayor a paclitaxel sin fijar con paclitaxel en comparación con paclitaxel con solventes, aunque la exposición total es comparable. Esto se debe posiblemente a que paclitaxel no queda atrapado en micelas de Cremophor EL como sucede con paclitaxel con solventes. De acuerdo con la literatura publicada, los estudios in vitro de fijación a proteínas séricas humanas (utilizando paclitaxel en concentraciones entre 0,1 y 50 µg/ml) indican que la presencia de cimetidina, ranitidina, dexametasona o difenhidramina no afectó a la fijación de paclitaxel a proteínas.
+
+ 
+
+De acuerdo con el análisis farmacocinético poblacional, el volumen de distribución total es de 1741 l aproximadamente; el amplio volumen de distribución es indicativo de la extensa distribución extravascular y/o fijación tisular de paclitaxel.
+
+ 
+
+Biotransformación y eliminación
+
+De acuerdo con la literatura publicada, los estudios in vitro con microsomas y cortes tisulares hepáticos humanos muestran que paclitaxel se metaboliza principalmente a 6α-hidroxipaclitaxel y a dos metabolitos minoritarios, 3’-p-hidroxipaclitaxel y 6α--3’-p-dihidroxipaclitaxel. La formación de estos metabolitos hidroxilados está catalizada por las enzimas CYP2C8, CYP3A4, y ambas isoenzimas CYP2C8 y CYP3A4, respectivamente.
+
+ 
+
+En pacientes con cáncer de mama metastásico, tras una perfusión de 260 mg/m2 de paclitaxel durante 30 minutos, el valor medio de la excreción urinaria acumulada de principio activo inalterado correspondió al 4 % de la dosis total administrada, con menos de un 1 % como metabolitos 6α-hidroxipaclitaxel y 3’-p-hidroxipaclitaxel, lo cual indica un aclaramiento no renal extenso. El metabolismo hepático y la excreción biliar son los mecanismos principales de eliminación de paclitaxel.
+
+ 
+
+En el intervalo de dosis clínicas de 80 a 300 mg/m2, el aclaramiento plasmático medio de paclitaxel varía entre 13 y 30 l/h/m2, y la semivida terminal media varía entre 13 y 27 horas.
+
+ 
+
+Insuficiencia hepática
+
+Se estudió el efecto de la insuficiencia hepática en la farmacocinética poblacional de paclitaxel en pacientes con tumores sólidos avanzados. Este análisis incluyó a pacientes con la función hepática normal (n=130) y con insuficiencia hepática preexistente leve (n=8), moderada (n=7) o grave (n=5) (de acuerdo con los criterios del grupo de trabajo sobre la disfunción orgánica del NCI). Los resultados muestran que la insuficiencia hepática leve (bilirrubina total >1 a ≤1,5 x LSN) no tiene un efecto clínicamente importante en la farmacocinética de paclitaxel. En los pacientes con insuficiencia hepática moderada (bilirrubina total >1,5 a ≤3 x LSN) o grave (bilirrubina total >3 a ≤5 x LSN) la tasa de eliminación máxima de paclitaxel disminuye entre un 22 % y un 26 % y el AUC media de paclitaxel aumenta aproximadamente un 20 %, en comparación con los pacientes con la función hepática normal. La insuficiencia hepática no afecta a la Cmáx media de paclitaxel. Además, la eliminación de paclitaxel muestra una correlación inversa con la bilirrubina total y una correlación positiva con la albúmina sérica.
+
+ 
+
+El modelo farmacocinético/farmacodinámico indica que no hay correlación entre la función hepática (como indica el nivel basal de albúmina y de bilirrubina total) y la neutropenia tras el ajuste para la exposición a paclitaxel.
+
+ 
+
+No se dispone de datos farmacocinéticos para pacientes con la bilirrubina total >5 x ULN o para pacientes con adenocarcinoma de páncreas metastásico (ver sección 4.2).
+
+ 
+
+Insuficiencia renal
+
+El análisis farmacocinético poblacional incluyó a pacientes con la función renal normal (n=65) y con insuficiencia renal preexistente leve (n=61), moderada (n=23) o grave (n=1) (de acuerdo con el borrador de los criterios de orientación de la FDA de 2010). La insuficiencia renal de leve a moderada (aclaramiento de la creatinina ≥30 a <90 ml/min) no tiene un efecto clínicamente importante en la tasa de eliminación máxima ni en la exposición sistémica (AUC y Cmáx) de paclitaxel. Los datos farmacocinéticos no son suficientes para los pacientes con insuficiencia renal grave y no se dispone de datos para los pacientes con enfermedad renal terminal.
+
+ 
+
+Pacientes de edad avanzada
+
+El análisis farmacocinético poblacional de paclitaxel incluyó a pacientes con edades comprendidas entre los 24 y los 85 años y muestra que la edad no influye significativamente en la tasa de eliminación máxima ni en la exposición sistémica (AUC y Cmáx) de paclitaxel.
+
+ 
+
+El modelo farmacocinético/farmacodinámico, llevado a cabo con datos de 125 pacientes con tumores sólidos avanzados, indica que los pacientes ≥65 años pueden ser más susceptibles de desarrollar neutropenia en el primer ciclo de tratamiento, aunque la edad no afecta a la exposición plasmática de paclitaxel.
+
+ 
+
+Población pediátrica
+
+ 
+
+La farmacocinética de paclitaxel después de 30 minutos de su administración intravenosa a niveles de dosis entre 120 mg/m2 y 270 mg/m2 se determinó en 64 pacientes (de 2 a ≤18 años) en la fase I de un estudio de fase I/II sobre tumores sólidos pediátricos recurrentes o resistentes. Después de un incremento de la dosis de 120 a 270 mg/m2, el AUC(0-inf) y la Cmáx medias de paclitaxel oscilaron entre 8867 y 14.361 ng*h/ml y entre 3488 y 8078 ng/ml, respectivamente.
+
+ 
+
+Los valores de exposición máxima al fármaco normalizados por dosis fueron similares a lo largo del intervalo de dosis estudiado; sin embargo, los valores de exposición total al fármaco normalizados por dosis solo fueron comparables de 120 mg/m2 a 240 mg/m2, con un AUC∞ normalizada por dosis menor al nivel de dosis de 270 mg/m2. A la DMT de 240 mg/m2, el aclaramiento (Cl) medio fue de 19,1 l/h, y la semivida terminal media de 13,5 horas.
+
+ 
+
+En pacientes pediátricos y adolescentes, la exposición a paclitaxel aumentó con las dosis más altas, y las exposiciones semanales al fármaco fueron más elevadas que en los pacientes adultos.
+
+ 
+
+Otros factores intrínsecos
+
+Los análisis farmacocinéticos poblacionales de paclitaxel indican que el sexo, la raza (asiática frente a blanca) y el tipo de tumores sólidos no tienen un efecto clínicamente importante en la exposición sistémica (AUC y Cmáx) de paclitaxel. Los pacientes con 50 kg de peso presentaron un AUC de paclitaxel aproximadamente un 25 % inferior al de los pacientes con un peso de 75 kg. No se conoce con seguridad la relevancia clínica de este resultado.
+
+5.3. Datos preclínicos sobre seguridad
+No se ha estudiado el potencial carcinogénico de paclitaxel. No obstante, según la literatura publicada, debido a su mecanismo de acción farmacodinámico, paclitaxel es un agente potencialmente carcinogénico y genotóxico a dosis clínicas. Paclitaxel ha demostrado ser clastogénico in vitro (induce aberraciones cromosómicas en linfocitos humanos) e in vivo (test de micronúcleos en ratones).
+
+Paclitaxel ha demostrado ser genotóxico in vivo (test de micronúcleos en ratones), pero no produjo mutagenicidad en el test de Ames o en el ensayo de mutación génica en células ováricas de hámster chino/hipoxantina-guanina fosforribosil-transferasa (CHO/HGPRT).
+
+ 
+
+La administración de paclitaxel a dosis inferiores a la terapéutica humana se asoció con baja fertilidad cuando se administró antes y durante el apareamiento a ratas macho y hembra, y con toxicidad fetal en ratas. Los estudios con paclitaxel en animales mostraron efectos tóxicos irreversibles en los órganos reproductores masculinos a niveles de exposición clínicamente relevantes.
+
+ 
+
+Paclitaxel y/o sus metabolitos se excretaron en la leche de ratas lactantes. Tras la administración intravenosa de paclitaxel radiomarcado a ratas en los días 9 y 10 después del parto, las concentraciones de radioactividad en la leche fueron más elevadas que en el plasma y descendieron al mismo tiempo que las concentraciones plasmáticas.
+
+6. DATOS FARMACÉUTICOS
+6.1. Lista de excipientes
+Solución de albúmina humana (contiene caprilato de sodio y N-acetil-L-triptófano).
+
+6.2. Incompatibilidades
+Este medicamento no debe mezclarse con otros, excepto con los mencionados en la sección 6.6.
+
+6.3. Periodo de validez
+Viales sin abrir
+
+2 años
+
+ 
+
+Estabilidad de la dispersión reconstituida en el vial
+
+Se ha demostrado estabilidad química y física durante 24 horas a 2ºC-8ºC en el envase original, protegido de la luz.
+
+ 
+
+Estabilidad de la dispersión reconstituida en la bolsa de perfusión
+
+Se ha demostrado estabilidad química y física durante 24 horas a 2ºC-8ºC seguido de 4 horas a 25ºC, protegido de la luz.
+
+ 
+
+No obstante, desde el punto de vista microbiológico, salvo que el método de reconstitución y llenado de las bolsas de perfusión descarte los riesgos de contaminación microbiana, el producto se debe usar inmediatamente tras reconstitución y llenado de las bolsas de perfusión.
+
+ 
+
+Si no se utiliza de inmediato, los tiempos y condiciones de conservación del producto en uso son responsabilidad del usuario.
+
+ 
+
+El tiempo de conservación total combinando el medicamento reconstituido en el vial y en la bolsa de perfusión cuando está refrigerado y protegido de la luz es de 24 horas. A continuación, se puede conservar en la bolsa de perfusión durante 4 horas a una temperatura inferior a 25ºC.
+
+6.4. Precauciones especiales de conservación
+Vial sin abrir
+
+Conservar el vial en el embalaje exterior para protegerlo de la luz. La congelación o refrigeración no afectan negativamente la estabilidad del medicamento. Este medicamento no requiere ninguna temperatura especial de conservación.
+
+ 
+
+Dispersión reconstituida
+
+Para las condiciones de conservación tras la reconstitución del medicamento, ver sección 6.3.
+
+6.5. Naturaleza y contenido del envase
+Vial de 50 ml (vidrio tipo 1) con tapón (bromobutilo), con sello flip off (unidad ensamblada que consta de un botón de plástico y uno de aluminio), que contiene 100 mg de paclitaxel formulado como nanopartículas unidas a albúmina.
+
+ 
+
+Tamaño del envase: un vial.
+
+6.6. Precauciones especiales de eliminación y otras manipulaciones
+Precauciones de preparación y administración:
+
+Paclitaxel es un fármaco antineoplásico citotóxico, por lo que Paclitaxel Albumina Dr. Reddys debe manipularse con precaución, al igual que ocurre con otros fármacos potencialmente tóxicos. Se recomienda el uso de guantes, gafas de seguridad y ropas protectoras. En caso de contacto de la dispersión con la piel, debe lavarse el área afectada inmediatamente y a fondo con agua y jabón. En caso de contacto con las mucosas, éstas deben lavarse a fondo con agua abundante. Paclitaxel Albumina Dr. Reddys sólo debe ser preparado y administrado por personal experimentado en la manipulación de agentes citotóxicos. Las mujeres embarazadas no deben manipular Paclitaxel Albumina Dr. Reddys.
+
+ 
+
+Debido a la posibilidad de extravasación, es aconsejable monitorizar estrechamente el lugar de perfusión por si ésta se produce durante la administración del medicamento. Limitando el tiempo de perfusión de Paclitaxel Albumina Dr. Reddys a 30 minutos, de acuerdo a las instrucciones, se reduce la probabilidad de reacciones asociadas a la perfusión.
+
+ 
+
+Reconstitución y administración del medicamento:
+
+Paclitaxel Albumina Dr. Reddys se presenta como polvo liofilizado estéril para su reconstitución antes de su uso. Tras la reconstitución, cada ml de dispersión contiene 5 mg de paclitaxel unido a albúmina en una formulación de nanopartículas.
+
+ 
+
+Con una jeringa estéril, deben inyectarse lentamente 20 ml de solución de 9 mg/ml (0,9 %) de cloruro sódico para perfusión en un vial de Paclitaxel Albumina Dr. Reddys durante 1 minuto como mínimo.
+
+ 
+
+La solución debe dirigirse directamente hacia las paredes interiores del vial. La solución no debe inyectarse directamente sobre el polvo ya que se produciría espuma.
+
+ 
+
+Una vez que se ha añadido la solución, se debe dejar reposar el vial durante un mínimo de 5 minutos para asegurar la humectación adecuada del soluto. A continuación, se debe agitar lenta y suavemente y/o invertir el vial durante al menos 2 minutos hasta completar la redispersión del polvo. Debe evitarse la formación de espuma. Si se forma espuma o grumos, se debe dejar reposar la dispersión durante al menos 15 minutos hasta que desaparezca la espuma.
+
+ 
+
+La dispersión reconstituida debe tener un aspecto lechoso y homogéneo sin precipitados visibles. Puede producirse una cierta sedimentación de la dispersión reconstituida. Si hay indicios de precipitado o sedimentación, se debe invertir de nuevo el vial suavemente para conseguir la redispersión completa antes de su uso.
+
+ 
+
+Inspeccione la dispersión contenida en el vial por si tuviera partículas. No administre la dispersión reconstituida si se observan partículas en el vial.
+
+ 
+
+Se debe calcular el volumen total exacto de dispersión de 5 mg/ml necesario para el paciente y se debe inyectar la cantidad apropiada de Paclitaxel Albumina reconstituido en una bolsa de perfusión intravenosa vacía, estéril, de tipo PVC o no PVC.
+
+ 
+
+El uso de productos sanitarios que contienen aceite de silicona como lubricante (es decir, jeringas y bolsas para administración por vía IV) para reconstituir y administrar Paclitaxel Albumina puede dar lugar a la formación de filamentos proteicos. Paclitaxel Albumina Dr. Reddys se debe administrar mediante un equipo de perfusión que incorpore un filtro de 15 µm para evitar la administración de estos filamentos. El uso de un filtro de 15 µm elimina los filamentos y no altera las propiedades físicas o químicas del medicamento reconstituido.
+
+ 
+
+El uso de filtros con un tamaño de poro menor de 15 µm podría dar lugar al bloqueo del filtro.
+
+ 
+
+No es necesario el uso de envases para solución o de equipos de administración sin di(2-etilhexil)ftalato (DEHP) específicos para preparar o administrar perfusiones de Paclitaxel Albumina Dr. Reddys.
+
+ 
+
+Tras la administración, se recomienda lavar a fondo la vía intravenosa con solución inyectable de cloruro de sodio 9 mg/ml (0,9 %) para asegurar la administración completa de la dosis.
+
+ 
+
+La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto con él se realizará de acuerdo con la normativa local.
+
+7. TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+Reddy Pharma Iberia, S.A.
+
+Avda. Josep Tarradellas nº 38
+
+08029 Barcelona (España)
+
+8. NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+90.567
+
+9. FECHA DE LA PRIMERA AUTORIZACIÓN/ RENOVACIÓN DE LA AUTORIZACIÓN
+Septiembre 2025
+
+10. FECHA DE LA REVISIÓN DEL TEXTO
+Julio 2025
+
+ 
+
+La información detallada de este medicamento está disponible en la página web de la Agencia Española de Medicamentos y Productos Sanitarios (AEMPS) (http://www.aemps.gob.es/).

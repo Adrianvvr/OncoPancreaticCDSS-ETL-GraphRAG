@@ -1,0 +1,2093 @@
+aemps cimaFICHA TECNICA IRINOTECAN GLENMARK 20 MG/ML CONCENTRADO PARA SOLUCION PARA PERFUSION EFG
+1. NOMBRE DEL MEDICAMENTO
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+3. FORMA FARMACÉUTICA
+4. DATOS CLÍNICOS
+4.1. Indicaciones terapéuticas
+4.2. Posología y forma de administración
+4.3. Contraindicaciones
+4.4. Advertencias y precauciones especiales de empleo
+4.5. Interacción con otros medicamentos y otras formas de interacción
+4.6. Fertilidad, embarazo y lactancia
+4.7. Efectos sobre la capacidad para conducir y utilizar máquinas
+4.8. Reacciones adversas
+4.9. Sobredosis
+5. PROPIEDADES FARMACOLÓGICAS
+5.1. Propiedades farmacodinámicas
+5.2. Propiedades farmacocinéticas
+5.3. Datos preclínicos sobre seguridad
+6. DATOS FARMACÉUTICOS
+6.1. Lista de excipientes
+6.2. Incompatibilidades
+6.3. Periodo de validez
+6.4. Precauciones especiales de conservación
+6.5. Naturaleza y contenido del envase
+6.6. Precauciones especiales de eliminación y otras manipulaciones
+7. TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+8. NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+9. FECHA DE LA PRIMERA AUTORIZACIÓN/ RENOVACIÓN DE LA AUTORIZACIÓN
+10. FECHA DE LA REVISIÓN DEL TEXTO
+Pulse aquí para ver el documento en formato PDF.  icono pdf
+
+1. NOMBRE DEL MEDICAMENTO
+Irinotecán Glenmark 20 mg/mL concentrado para solución para perfusión EFG
+
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+1 ml de concentrado contiene 20 mg de irinotecán hidrocloruro trihidrato (equivalente a 17,33 mg de irinotecán).
+
+ 
+
+Un vial de 2 mL contiene 40 mg de irinotecán hidrocloruro trihidrato.
+
+Un vial de 5 mL contiene 100 mg de irinotecán hidrocloruro trihidrato.
+
+Un vial de 15 mL contiene 300 mg de irinotecán hidrocloruro trihidrato.
+
+Un vial de 25 mL contiene 500 mg de irinotecán hidrocloruro trihidrato.
+
+ 
+
+Excipiente(s) con efecto conocido
+
+Sorbitol: 45 mg por mL de concentrado para solución para perfusión.
+
+ 
+
+Para consultar la lista completa de excipientes, ver sección 6.1.
+
+ 
+
+3. FORMA FARMACÉUTICA
+Concentrado para solución para perfusión.
+
+Solución acuosa transparente, de incolora a amarillo pálido, libre de partículas visibles. pH de 3.0 a 3.8. 
+
+4. DATOS CLÍNICOS
+4.1. Indicaciones terapéuticas
+Irinotecán está indicado para el tratamiento de pacientes con cáncer colorrectal avanzado:
+
+ 
+
+en combinación con 5-fluorouracilo y ácido folínico en pacientes sin una quimioterapia anterior para la enfermedad avanzada.
+en monoterapia para pacientes en los que ha fracasado un régimen de tratamiento establecido que contiene 5-fluorouracilo.
+ 
+
+Irinotecán en combinación con cetuximab está indicado para el tratamiento de pacientes con expresión del receptor del factor de crecimiento epidémico (EGFR) en cáncer colorrectal metastásico con RAS no mutado (wild type), que no han recibido tratamiento previo para el cáncer metastásico o después del fracaso de un tratamiento citotóxico que haya incluido irinotecán (ver sección 5.1).
+
+ 
+
+Irinotecán en combinación con 5-fluorouracilo, ácido folínico y bevacizumab está indicado para el tratamiento de primera línea de pacientes con carcinoma metastásico de colon o recto.
+
+ 
+
+Irinotecán en combinación con capecitabina con o sin bevacizumab, está indicado para el tratamiento de primera línea de pacientes con carcinoma metastásico colorrectal.
+
+4.2. Posología y forma de administración
+Posología
+
+ 
+
+Sólo para adultos. La solución para perfusión diluida de irinotecán se debe administrar en una vena periférica o central.
+
+ 
+
+Dosis recomendada
+
+ 
+
+En monoterapia (en pacientes previamente tratados)
+
+La dosis recomendada de irinotecán es de 350 mg/m2 administrada en perfusión intravenosa, durante un periodo de 30 a 90 minutos cada tres semanas (ver secciones 4.4 y 6.6).
+
+ 
+
+En terapia combinada (en pacientes no tratados previamente)
+
+La seguridad y eficacia de irinotecán en combinación con 5-fluorouracilo (5FU) y ácido folínico (AF) ha sido estudiada, con la siguiente pauta de administración (ver sección 5.1):
+
+ 
+
+Irinotecán más 5FU/AF cada 2 semanas
+ 
+
+La dosis recomendada de irinotecán es de 180 mg/m2, administrada en perfusión intravenosa cada 2 semanas durante un periodo de 30 a 90 minutos, seguida de perfusión con ácido folínico y 5-fluorouracilo.
+
+ 
+
+Para la posología y forma de administración concomitante de cetuximab, ver la ficha técnica de este medicamento.
+
+ 
+
+Normalmente, se usa la misma dosis de irinotecán que la administrada en los últimos ciclos del régimen anterior de irinotecán. Irinotecán no debe administrarse antes de que haya transcurrido 1 hora desde la finalización de la perfusión con cetuximab.
+
+
+Para la posología y forma de administración de bevacizumab, ver la ficha técnica de bevacizumab.
+ 
+
+Para la posología y forma de administración de la combinación con capecitabina, ver sección 5.1 y las secciones correspondientes de la ficha técnica de capecitabina.
+
+ 
+
+Ajustes de dosis
+
+ 
+
+Irinotecán debe ser administrado después de una recuperación adecuada de todos los acontecimientos adversos de Grado 0 o 1 en la clasificación NCI-CTC (National Cancer Institute Common Toxicity Criteria) y cuando la recuperación de la diarrea relacionada con el tratamiento sea completa.
+
+ 
+
+Al comienzo de la siguiente perfusión, la dosis de irinotecán y 5FU cuando proceda, debe reducirse de acuerdo con el peor grado de acontecimiento adverso observado en la perfusión previa. El tratamiento deber retrasarse de 1 a 2 semanas para permitir la recuperación completa de los efectos adversos relacionados con el tratamiento.
+
+ 
+
+En el caso de las siguientes reacciones adversas, debe aplicarse una reducción del 15 al 20 % en la dosis de irinotecán  y/o 5FU, cuando sea aplicable:
+
+ 
+
+toxicidad hematológica (neutropenia Grado 4, neutropenia febril (neutropenia Grado 3-4 y fiebre Grado 2-4), trombocitopenia y leucopenia (Grado 4)), 
+toxicidad no hematológica (Grado 3-4).
+ 
+
+Las recomendaciones para la modificación de la dosis de cetuximab cuando se administra en combinación con irinotecán se deben seguir de acuerdo a la ficha técnica de este medicamento.
+
+ 
+
+En combinación con capecitabina, para pacientes de 65 años o más, se recomienda una reducción de la dosis inicial de capecitabina a 800 mg/m2 dos veces al día, de acuerdo con la ficha técnica de capecitabina. Ver también las recomendaciones de modificaciones de dosis para regímenes combinados indicados en la ficha técnica de capecitabina.
+
+ 
+
+Duración del tratamiento:
+
+ 
+
+El tratamiento con irinotecán debe continuar hasta que haya una progresión objetiva de la enfermedad o una toxicidad inaceptable.
+
+ 
+
+Poblaciones especiales
+
+ 
+
+Pacientes con insuficiencia hepática:
+
+ 
+
+En monoterapia
+
+Los niveles de bilirrubina (hasta 3 veces el límite superior del rango normal (LSR)) en pacientes con estado general  ≤2 deben determinar la dosis inicial de irinotecán. En estos pacientes con hiperbilirrubinemia y tiempo de protrombina superior al 50%,  se reduce el aclaramiento de irinotecán (ver sección 5.2), elevándose el riesgo de toxicidad hepática. Por ello, en este grupo de población se deben realizar semanalmente recuentos sanguíneos completos.
+
+ 
+
+En pacientes con un nivel de bilirrubina  hasta 1,5 veces el LSR, la dosis recomendada de irinotecán es de 350 mg/ m2,
+En pacientes con un nivel de bilirrubina de entre 1,5 a 3 veces el LSR,  la dosis recomendada de irinotecán es de 200 mg/ m2,
+Pacientes con un nivel de bilirrubina por encima de 3 veces el LSR, no deben ser tratados con irinotecán (ver secciones 4.3 y 4.4).
+ 
+
+No existen datos disponibles en pacientes con insuficiencia hepática tratados con irinotecán en terapia de combinación.
+
+ 
+
+Pacientes con insuficiencia renal:
+
+ 
+
+No se recomienda el uso de irinotecán en pacientes con insuficiencia renal, dado que no se han llevado a cabo estudios en esta población de pacientes (ver secciones 4.4 y 5.2).
+
+ 
+
+Personas de edad avanzada:
+
+ 
+
+No se han realizado estudios farmacocinéticos específicos en personas de edad avanzada. Sin embargo, se debe elegir con precaución la dosis en esta población, debido a la mayor frecuencia de disminución de la función de órganos vitales. Este grupo de población necesitará una vigilancia más intensa  (ver sección 4.4).
+
+ 
+
+Población pediátrica
+
+ 
+
+No se ha establecido todavía la seguridad y eficacia de irinotecán en niños. No se dispone de datos.
+
+ 
+
+Forma de administración
+
+ 
+
+El concentrado debe ser diluido antes de la administración. 
+
+ 
+
+Precauciones que se deben tomar antes de manipular o administrar el medicamento:
+
+Para consultar las instrucciones de dilución del medicamento antes de la administración, ver sección 6.6.  
+
+4.3. Contraindicaciones
+ 
+
+Enfermedad inflamatoria crónica del intestino y/o obstrucción intestinal (ver sección 4.4).
+Hipersensibilidad al principio activo o a alguno de los excipientes incluidos en la sección 6.1.
+Lactancia (ver secciones 4.4 y 4.6).
+Nivel de bilirrubina > 3 veces el límite superior del rango normal (ver sección 4.4).
+Pacientes con insuficiencia grave de la médula ósea.
+Pacientes con estado general de la O.M.S. > 2.
+Uso concomitante con hierba de San Juan (ver sección 4.5)
+Vacunas vivas atenuadas (ver sección 4.5).
+ 
+
+En caso de contraindicaciones adicionales de cetuximab, bevacizumab o capecitabina consultar las fichas técnicas de estos medicamentos.
+
+4.4. Advertencias y precauciones especiales de empleo
+ 
+
+El uso de irinotecán debe restringirse a servicios especializados en la administración de quimioterapia y debe administrarse solamente bajo la supervisión de un médico especializado en el empleo de quimioterapia antineoplásica.
+
+ 
+
+Dada la naturaleza e incidencia de efectos adversos, irinotecán se prescribirá en los siguientes casos solo tras haber analizado el beneficio esperado frente a los posibles riesgos terapéuticos:
+
+ 
+
+en pacientes con un factor de riesgo, en especial aquellos con un estado general de la O.M.S. = 2.
+en los pocos casos en los que se prevea que los pacientes no van a seguir adecuadamente las recomendaciones para el manejo de las reacciones adversas (necesidad de tratamiento antidiarreico inmediato y prolongado, junto con ingestión abundante de líquidos al aparecer la diarrea tardía). Se recomienda un estricto seguimiento hospitalario de dichos pacientes.
+ 
+
+Habitualmente, cuando se administra irinotecán en monoterapia, se prescribe en régimen de administración cada 3 semanas. Sin embargo, puede considerarse la pauta semanal (ver sección 5) en pacientes que pudieran necesitar un mayor seguimiento o en aquellos que presenten un particular riesgo de neutropenia grave.
+
+ 
+
+Diarrea tardía
+
+ 
+
+Los pacientes deben ser advertidos del riesgo de presentar diarrea tardía trascurridas más de 24 horas desde la administración de irinotecán y en cualquier momento antes del ciclo siguiente. La mediana del tiempo de aparición de las primeras deposiciones líquidas en el caso de la administración en monoterapia, fue el 5º día trás la perfusión de irinotecán. Los pacientes deben informar rápidamente a su médico si esto sucede y debe instaurarse un tratamiento adecuado inmediatamente.
+
+ 
+
+Los pacientes con un riesgo superior de padecer diarrea son aquellos que se hayan sometido previamente a radioterapia abdominal o pélvica, pacientes con hiperleucocitosis basal, pacientes con estado general de grado ≥ 2 y mujeres. Si la diarrea no se trata adecuadamente, puede poner en riesgo la vida del paciente, especialmente si el paciente tiene una neutropenia concomitante.
+
+ 
+
+Tan pronto aparezca la primera deposición líquida, el paciente debe comenzar la ingesta de grandes volúmenes de bebidas que contengan electrolitos y se debe iniciar un tratamiento antidiarreico adecuado de inmediato. La unidad en la que se haya administrado el irinotecán será la que prescriba el tratamiento antidiarreico. Después del alta hospitalaria, los pacientes deben obtener la medicación prescrita para que puedan tratar la diarrea tan pronto como aparezca. Además, deben informar inmediatamente a su médico o  la unidad que le administre irinotecán cuando aparezca la diarrea.
+
+ 
+
+El tratamiento antidiarreico actualmente recomendado consiste en dosis elevadas de loperamida (4 mg en la primera toma seguida de 2 mg cada 2 horas). Este tratamiento debe continuarse durante 12 horas después de la última deposición líquida y no se debe modificar. Bajo ningún concepto se administrará loperamida durante más de 48 horas seguidas con estas dosis, debido al riesgo de íleo paralítico, ni durante menos de 12 horas.
+
+ 
+
+Además del tratamiento antidiarreico, cuando la diarrea se asocie a una neutropenia grave (recuento de neutrófilos<500 células/mm3), se debe administrar un antibiótico profiláctico de amplio espectro.
+
+ 
+
+Además del tratamiento antibiótico, se recomienda la hospitalización para el tratamiento de la diarrea en los siguientes casos:
+
+ 
+
+Diarrea acompañada con fiebre,
+Diarrea grave (que precise hidratación por vía intravenosa),
+Diarrea persistente durante más de 48 horas tras el comienzo del tratamiento de dosis elevadas de loperamida.
+ 
+
+No se debe administrar loperamida como medida profiláctica, incluso en pacientes que hayan experimentado diarrea tardía en ciclos previos del medicamento.
+
+ 
+
+En el caso de los pacientes que padecieron una diarrea grave, se recomienda una reducción de la dosis en los siguientes ciclos (ver sección 4.2).
+
+ 
+
+Hematología
+
+ 
+
+En estudios clínicos, la frecuencia de neutropenia de Grado 3 y 4 del NCI CTC ha sido significativamente mayor en pacientes que recibieron previamente irradiación pélvica/abdominal que en aquellos que no habían recibido tal irradiación. Los pacientes con niveles basales de bilirrubina total en suero de 1,0 mg/dl o superiores también tuvieron una probabilidad significativamente mayor de experimentar neutropenia de grado 3 o 4 en el primer ciclo que aquellos con niveles de bilirrubina inferiores a 1,0 mg/dl.
+
+ 
+
+Durante el tratamiento con irinotecán, se recomienda la monitorización semanal de los recuentos sanguíneos. Los pacientes deben ser advertidos del riesgo de neutropenia y la importancia de la fiebre. La neutropenia febril (temperatura > 38ºC y recuento de neutrófilos ≤1.000 células/mm3) se debe tratar urgentemente en el hospital con antibióticos de amplio espectro por vía intravenosa. 
+
+ 
+
+En pacientes que experimentaron reacciones adversas graves de tipo hematológico, se recomienda una reducción de la dosis en las siguientes administraciones (ver sección 4.2).
+
+ 
+
+Existe un aumento del riesgo de infección y de toxicidad hematológica en pacientes que padezcan una diarrea grave. En estos pacientes debe realizarse un recuento completo de las células sanguíneas.
+
+ 
+
+Pacientes con actividad reducida de UGT1A1
+
+ 
+
+Los pacientes que son metabolizadores lentos de los sustratos de la UGT1A1, como los pacientes con síndrome de Gilbert (por ej., homocigotos para las variantes UGT1A1 * 28 o * 6) tienen mayor riesgo de neutropenia y diarrea graves después del tratamiento con irinotecán. Este riesgo aumenta con la dosis de irinotecán.
+
+ 
+
+Aunque no se ha establecido una reducción precisa en la dosis inicial, se debe considerar una dosis inicial reducida de irinotecán para pacientes que son metabolizadores lentos de los sustratos de la UGT1A1, especialmente en pacientes a los que se les administran dosis > 180 mg / m² o pacientes debilitados. Se deben tener en cuenta las guías clínicas aplicables para las recomendaciones posológicas en esta población de pacientes. Las dosis posteriores se pueden aumentar en función de la tolerancia individual del paciente al tratamiento.
+
+ 
+
+La genotipificación de la UGT1A1 se puede utilizar para identificar a los pacientes con mayor riesgo de neutropenia y diarrea graves; sin embargo, se desconoce la utilidad clínica de la genotipificación previa al tratamiento, ya que el polimorfismo de la UGT1A1 no explica toda la toxicidad observada en el tratamiento con irinotecán (ver sección 5.2).
+
+ 
+
+Insuficiencia hepática
+
+ 
+
+Se deben realizar pruebas de la función hepática al inicio y antes de cada ciclo.
+
+ 
+
+Es preciso efectuar una monitorización semanal de los recuentos de sangre completos en pacientes que presenten niveles de bilirrubina entre 1,5 a 3 veces el límite superior del rango normal, debido al descenso del aclaramiento de irinotecán (ver sección 5.2) y consecuencia de ello, el aumento del riesgo de hepatotoxicidad en esta población. En el caso de pacientes con un valor de bilirrubina >3 veces el LSR, ver sección 4.3.
+
+ 
+
+Náuseas y vómitos
+
+ 
+
+Se recomienda el tratamiento profiláctico con antieméticos antes de cada tratamiento con irinotecán. Las náuseas y vómitos se han notificado con frecuencia. Los pacientes que presenten vómitos asociados a una diarrea tardía deberán ser hospitalizados inmediatamente para su tratamiento.
+
+ 
+
+Síndrome colinérgico agudo
+
+ 
+
+Si aparece un síndrome colinérgico agudo (que se define como una diarrea temprana y ciertos signos y síntomas más como sudoración, espasmos abdominales, miosis y salivación), se debe administrar sulfato de atropina (0,25 mg por vía subcutánea) a menos que esté contraindicado clínicamente (ver sección 4.8).
+
+ 
+
+Se cree que estos síntomas, que se pueden observar durante o poco después de la perfusión de irinotecán, están relacionados con la actividad anticolinesterasa del irinotecán inalterado y se espera que ocurran más frecuentemente con las dosis más altas de irinotecán
+
+ 
+
+Se debe extremar la precaución en pacientes con asma. Si el paciente experimenta un síndrome colinérgico grave y agudo, se recomienda el uso de sulfato de atropina como medida profiláctica en las siguientes dosis de irinotecán.
+
+ 
+
+Trastornos respiratorios
+
+ 
+
+Durante el tratamiento con irinotecán es poco frecuente la aparición de enfermedad pulmonar intersticial en forma de infiltrados pulmonares. La enfermedad pulmonar intersticial puede ser mortal. Los factores de riesgo que pueden estar relacionados con el desarrollo de enfermedad pulmonar intersticial incluyen el uso de medicamentos neumotóxicos, radioterapia y factores estimulantes de colonias. Aquellos pacientes que presentan factores de riesgo deberán someterse a una vigilancia extrecha para detectar síntomas respiratorios antes y durante el tratamiento con irinotecán.
+
+ 
+
+Extravasación
+
+ 
+
+Aunque irinotecán no es un vesicante conocido, se debe tener precaución para evitar la extravasación, y se debe vigilar el punto de perfusión en busca de signos de inflamación. En el caso de que se produzca la extravasación, se recomienda lavar bien la zona y aplicar hielo.
+
+
+Población de edad avanzada
+
+ 
+
+Debido a la mayor frecuencia de una disminución de las funciones biológicas, y en particular la función hepática, la elección de la dosis de irinotecán en los pacientes de edad avanzada se debe realizar con precaución (ver sección 4.2).
+
+ 
+
+Pacientes con enfermedad intestinal inflamatoria crónica y/u obstrucción intestinal
+
+ 
+
+Estos pacientes no deben ser tratados con irinotecán hasta que no se haya resuelto la obstrucción intestinal (ver sección 4.3).
+
+ 
+
+Función renal
+
+ 
+
+Se han observado aumentos en los niveles de creatinina sérica o del nitrógeno ureico en sangre. Se han dado casos de insuficiencia renal aguda. Estas reacciones se han atribuido generalmente a complicaciones de infecciones o a la deshidratación relacionada con las náuseas, vómitos o diarrea. También se han notificado casos raros de disfunción renal, debido al síndrome de lisis tumoral.
+
+ 
+
+Radioterapia
+
+ 
+
+Los pacientes que han recibido previamente irradiación pélvica/abdominal, tienen un mayor riesgo de mielosupresión después de la administración de irinotecán. Los médicos deben tener precaución al tratar a pacientes que hayan recibido irradiación extensa previa (p.ej. >25% de la médula ósea irradiada y en las 6 semanas antes del inicio del tratamiento con irinotecán). Para esta población se puede aplicar un ajuste de la dosis (ver sección 4.2).
+
+ 
+
+Trastornos cardíacos
+
+Se han observado eventos de isquemia miocárdica después de la terapia con irinotecán predominantemente en pacientes con enfermedad cardiaca subyacente, otros factores de riesgo conocidos para enfermedades cardíacas, o quimioterapia citotóxica previa (ver sección 4.8).
+
+En consecuencia, los pacientes con factores de riesgo conocidos deben ser estrechamente controlados, y se deben tomar las medidas oportunas para tratar de minimizar todos los factores de riesgo modificables (por ejemplo, fumar, hipertensión e hiperlipidemia)
+ 
+
+Trastornos vasculares
+
+ 
+
+Irinotecán se ha asociado en raras ocasiones con eventos tromboembólicos (embolia pulmonar, trombosis venosa y tromboembolismo arterial) en pacientes con múltiples factores de riesgo, además de neoplasias subyacentes.
+
+ 
+
+Otros
+
+ 
+
+Raramente se han observado casos de insuficiencia renal, hipotensión o colapso circulatorio en pacientes que habían sufrido episodios de deshidratación asociada a diarrea y/o vómitos, o sepsis.
+
+ 
+
+Anticoncepción en mujeres en edad fértil/hombres
+
+Debido a la potencial genotoxicidad, se recomiendaa las pacientes femeninas en edad fértil que utilicen métodos anticonceptivos altamente eficaces durante el tratamiento y en los 6 meses posteriores a la última dosis de irinotecán. Debido a la potencial genotoxicidad, se aconseja a los pacientes masculinos con parejas femeninas en edad fértil que utilicen métodos anticonceptivos eficaces durante el tratamiento y en los 3 meses posteriores a la última dosis de irinotecán (ver sección 4.6).
+
+ 
+
+Lactancia
+
+Debido al potencial de reacciones adversas en lactantes, se debe interrumpir la lactancia mientras dure l tratamiento con irinotecán (ver secciones 4.3 y 4.6).
+
+ 
+
+La administración concomitante de irinotecán con un potente inhibidor (por ejemplo, ketoconazol) o inductor (por ejemplo, rifampicina, carbamazepina, fenobarbital, fenitoína, apalutamida) del CYP3A4 puede alterar el metabolismo de irinotecán y se debe evitar (ver sección 4.5).
+
+ 
+
+Excipientes
+
+ 
+
+Este medicamento contiene sorbitol (ver sección 2). El sorbitol es una fuente de fructosa. Los pacientes con intolerancia hereditaria a la fructosa (IHF) no deben recibir este medicamento a menos que sea estrictamente necesario.
+
+ 
+
+Los bebés y los niños (menores de 2 años de edad) prodrían no estar diagnosticados de intoleracia hereditaria a la fructosa (IHF). Los medicamentos (que contienen sorbitol/fructosa) que se administran por vía intravenosa pueden resultar potencialmente mortales y deben estar contraindicados para esta población a menos que exista una necesidad clínica absoluta y no exista ninguna otra alternativa disponible.
+
+ 
+
+Antes de recibir este medicamento, se debe revisar detalladamente la historia clínica del paciente en cuanto a los síntomas de IHF .
+
+ 
+
+Este medicamento contiene menos de 1 mmol de sodio (23 mg) por dosis; esto es, esencialmente “exento de sodio”.
+
+4.5. Interacción con otros medicamentos y otras formas de interacción
+Uso concomitante contraindicado (ver sección 4.3)
+
+ 
+
+Hierba de San Juan: disminuye los niveles plasmáticos del metabolito activo de irinotecán, SN-38. En un pequeño estudio farmacocinético (n = 5) en el cual se administraron 350 mg/m2 de irinotecán de forma concomitante con 900 mg de la hierba de San Juan (Hypericum perforatum), se observó un descenso del 42% en la concentración plasmática del metabolito activo de irinotecán, SN-38. Por lo tanto, la hierba de San Juan no se debe administrar con irinotecán.
+
+ 
+
+Vacunas vivas atenuadas (por ejemplo, vacuna antiamarílica): riesgo de reacción sistémica a vacunas, posiblemente mortal. El uso concomitante está contraindicado durante el tratamiento con irinotecán y durante los 6 meses siguientes a la interrupción de la quimioterapia. Las vacunas muertas o inactivadas se pueden administrar; sin embargo, la respuesta a estas vacunas puede verse disminuida.
+
+ 
+
+Uso concomitante no recomendado (ver sección 4.4)
+
+ 
+
+La administración simultánea de irinotecán con inhibidores o inductores potentes del citocromo P450 3A4 (CYP3A4) puede alterar el metabolismo del irinotecán y se debe evitar (ver sección 4.4).
+
+ 
+
+Medicamentos inductores potentes del CYP3A4 y/o UGT1A1 (p. ej., rifampicina, carbamazepina, fenobarbital, fenitoína o apalutamida): Riesgo de exposición reducida a irinotecán, SN-38 y glucurónido del SN-38 y reducción de sus efectos farmacodinámicos. Varios estudios han demostrado que la administración concomitante de medicamentos anticonvulsivantes inductores del CYP3A4 provoca una reducción de la exposición a irinotecán, SN-38 y glucurónido del SN-38 y una reducción de sus efectos farmacodinámicos. Los efectos de dichos medicamentos anticonvulsivantes se reflejaron en una disminución del AUC del SN-38 y del SN-38G en un 50% o más. Además de la inducción de las enzimas del CYP3A4, el aumento de la glucuronidación y el aumento de la excreción biliar pueden desempeñar un papel importante en la reducción de la exposición a irinotecán y sus metabolitos. Adicionalmente con fenitoína: riesgo de exacerbación de las convulsiones debido a la disminución de la absorción gastrointestinal de la fenitoína por medicamentos citotóxicos.
+
+ 
+
+Inhibidores potentes del CYP3A4 (p. ej., ketoconazol, itraconazol, voriconazol, posaconazol, inhibidores de la proteasa, claritromicina, eritromicina, telitromicina): Un estudio ha mostrado que la administración conjunta de ketoconazol dio lugar a una disminución del 87% en el AUC del metabolito APC (derivado del ácido aminopentanoico) y un aumento del 109% en el AUC del SN-38, en comparación con irinotecán administrado solo.
+
+ 
+
+Inhibidores de la UGT1A1 (p. ej., atazanavir, ketoconazol, regorafenib): Riesgo de aumento de la exposición sistémica al SN-38, el metabolito activo de irinotecán. Los médicos deben tenerlo en cuenta si la combinación es inevitable.
+
+ 
+
+Otros inhibidores del CYP3A4 (p. ej., crizotinib, idelalisib): Riesgo de aumento de la toxicidad de irinotecán debido a la disminución del metabolismo de irinotecán producida por crizotinib o idelalisib.
+
+ 
+
+Uso con precaución
+
+ 
+
+Antagonistas de la vitamina K: Aumento del riesgo de hemorragia y eventos trombóticos en enfermedades tumorales. Si está indicado el uso de un antagonista de la vitamina K, es necesario aumentar la frecuencia de la supervisión del índice internacional normalizado (INR, International Normalised Ratio).
+
+ 
+
+Uso concomitante a tener en cuenta
+
+ 
+
+Medicamentos inmunosupresores (p. ej., ciclosporina, tacrolimus): Inmunosupresión excesiva con riesgo de proliferación linfocitaria.
+
+ 
+
+Agentes bloqueantes neuromusculares: No se puede descartar la interacción entre irinotecán y agentes bloqueantes neuromusculares. Dado que irinotecán tiene actividad anticolinesterasa, los medicamentos con este tipo de actividad pueden prolongar el efecto bloqueante neuromuscular de suxametonio y antagonizar el bloqueo neuromuscular de medicamentos no despolarizantes.
+
+ 
+
+Otras combinaciones
+
+ 
+
+5-Fluoruracilo/ácido folínico: La administración concomitante de 5-fluorouracilo/ácido folínico en régimen combinado no altera la farmacocinética de irinotecán.
+
+ 
+
+Bevacizumab: los resultados de un estudio específico de interacciones farmacológicas demostraron que no existe ningún efecto significativo de bevacizumab en la farmacocinética de irinotecán y su metabolito activo SN-38. No obstante, esto no excluye la posibilidad de un aumento de toxicidades debidas a sus propiedades farmacológicas.
+
+ 
+
+Cetuximab: no hay evidencias de que el perfil de seguridad del irinotecán este influenciado por cetuximab o viceversa.
+
+ 
+
+Agentes antineoplásicos (incluida la flucitosina como profármaco del 5-fluorouracilo): Las reacciones adversas de irinotecán, como la mielosupresión, pueden verse agravadas por otros agentes antineoplásicos con un perfil similar de reacciones adversas.
+
+4.6. Fertilidad, embarazo y lactancia
+Anticoncepción
+
+ 
+
+Debido a la potencial genotoxicidad, se recomiendaa las pacientes femeninas en edad fértil que utilicen métodos anticonceptivos altamenteeficaces durante el tratamiento y en los 6 meses posteriores a la última dosis de irinotecán (ver sección 4.4).
+
+ 
+
+Debido a la potencial genotoxicidad, hay que aconsejara los pacientes masculinos con parejas femeninas en edad fértil que utilicen un método anticonceptivo eficaz durante el tratamiento y en los 3 meses posteriores a la última dosis de irinotecán (ver sección 4.4).
+
+ 
+
+Embarazo
+
+ 
+
+Existen datos limitados del uso de irinotecán en mujeres embarazadas. Irinotecán ha demostrado ser embriotóxico y teratógeno en animales (ver sección 5.3). En consecuencia, de acuerdo a los resultados de los estudios en animales y al mecanismo de acción de irinotecán, no se debe utilizar irinotecán durante el embarazo a menos que sea estrictamente necesario.
+
+ 
+
+Las mujeres en edad fértil no deben iniciar el tratamiento con irinotecán hasta que se descarte el embarazo. Se debe evitar el embarazo si algún miembro de la pareja está recibiendo irinotecán.
+
+ 
+
+Lactancia
+
+ 
+
+Los datos disponibles son limitados, pero sugieren que irinotecán y su metabolito se excretan en la leche materna. Por lo tanto, debido a las posibles reacciones adversas en lactantes, debe interrumpirse la lactancia durante el tratamiento con irinotecán (ver secciones 4.3 y 4.4). 
+
+ 
+
+Fertilidad
+
+ 
+
+No hay datos del efecto de irinotecán sobre la fertilidad en humanos. Los efectos adversos de irinotecán sobre la fertilidad de la descendencia se han documentado en animales (ver sección 5.3). Antes de comenzar el tratamiento con irinotecán, se debe considerar aconsejar a los pacientes sobre la preservación de gametos.
+
+4.7. Efectos sobre la capacidad para conducir y utilizar máquinas
+La influencia de irinotecán sobre la capacidad para conducir y utilizar máquinas es moderada.Los pacientes deben ser advertidos de la posibilidad de experimentar mareos o alteraciones visuales que pueden producirse en las 24 horas posteriores a la administración de irinotecán y de que no conduzcan vehículos ni utilicen máquinas si aparecen estos síntomas.
+
+4.8. Reacciones adversas
+Estudios clínicos
+
+ 
+
+Los datos de reacciones adversas se han recogido en gran parte de estudios en cáncer colorrectal metastásico; las frecuencias se presentan a continuación. Se espera que las reacciones adversas para otras indicaciones sean similares a las del cáncer colorrectal.
+
+ 
+
+Las reacciones adversas limitantes de dosis más frecuentes de irinotecán (≥1/10), son diarrea tardía (que se produce más de 24 horas después de la administración) y trastornos hematológicos, que incluyen neutropenia, anemia y trombocitopenia.
+
+ 
+
+La neutropenia es un efecto tóxico limitante de dosis. La neutropenia fue reversible y no acumulativa; la mediana de días hasta el nadir fue de 8 días tanto en monoterapia como en terapia combinada.
+
+ 
+
+Se observó muy frecuentemente síndrome colinérgico agudo transitorio grave.
+
+ 
+
+Los principales síntomas se definieron como diarrea temprana y otros síntomas como dolor abdominal, sudoración, miosis y aumento de la salivación, que se producen durante o en las primeras 24 horas después de la perfusión de irinotecán. Estos síntomas desaparecen después de la administración de atropina (ver sección 4.4).
+
+ 
+
+Monoterapia
+
+ 
+
+Se han notificado las siguientes reacciones adversas consideradas como posible o probablemente relacionadas con la administración de irinotecán en 765 pacientes a la dosis recomendada de 350 mg/m2 en monoterapia. Dentro de cada grupo de frecuencia, las reacciones adversas se presentan en orden decreciente de gravedad. Las frecuencias se definen como: muy frecuentes (≥1/10), frecuentes (≥1/100 a<1/10), poco frecuentes (≥1/1.000 a<1/100), raras (≥1/10.000 a<1/1.000), muy raras (<1/10.000) y frecuencia no conocida (no puede estimarse a partir de los datos disponibles).
+
+ 
+
+Reacciones adversas notificadas con irinotecán en monoterapia (350 mg/m2 cada 3 semanas)
+
+Clasificación por grupos y sistemas (SOC) de MedDRA
+
+Frecuencia
+
+ 
+
+Término preferido (PT)
+
+ 
+
+Infecciones e infestaciones
+
+Frecuente
+
+Infección
+
+Trastornos de la sangre y del sistema linfático
+
+Muy frecuente
+
+Neutropenia
+
+Muy frecuente
+
+Anemia
+
+Frecuente
+
+Trombocitopenia
+
+Frecuente
+
+Neutropenia febril
+
+Trastornos del metabolismo y de la nutrición
+
+Muy frecuente
+
+Disminución del apetito
+
+Trastornos del sistema nervioso
+
+Muy frecuente
+
+Síndrome colinérgico
+
+Trastornos gastrointestinales
+
+Muy frecuente
+
+Diarrea
+
+Muy frecuente
+
+Vómitos
+
+Muy frecuente
+
+Náuseas
+
+Muy frecuente
+
+Dolor abdominal
+
+Frecuente
+
+Estreñimiento
+
+Trastornos de la piel y del tejido subcutáneo
+
+Muy frecuente
+
+Alopecia (reversible)
+
+Trastornos generales y alteraciones en el lugar de administración
+
+Muy frecuente
+
+Inflamación de las mucosas
+
+Muy frecuente
+
+Pirexia
+
+Muy frecuente
+
+Astenia
+
+Exploraciones complementarias
+
+Frecuente
+
+Aumento de la creatinina en sangre
+
+Frecuente
+
+Aumento de las transaminasas (ALT y AST)
+
+Frecuente
+
+Aumento de la bilirrubina en sangre
+
+Frecuente
+
+Aumento de la fosfatasa alcalina en sangre
+
+ 
+
+Descripción de reacciones adversas seleccionadas (monoterapia)
+
+ 
+
+Se observó diarrea grave en el 20% de los pacientes que siguen las recomendaciones para el tratamiento de la diarrea. De los ciclos evaluables, el 14% tiene diarrea grave. La mediana del tiempo de aparición de las primeras heces líquidas fue el día 5 tras la perfusión de irinotecán.
+
+ 
+
+Las náuseas y los vómitos fueron graves en aproximadamente el 10% de pacientes tratados con antieméticos.
+
+ 
+
+Se ha observado estreñimiento en menos del 10% de los pacientes.
+
+ 
+
+Se observó neutropenia en el 78,7% de los pacientes y fue grave (recuento de neutrófilos <500 células/mm3) en el 22,6% de los pacientes. De los ciclos evaluables, el 18% tenían un recuento de neutrófilos inferior a 1.000 células/mm3 incluyendo un 7,6% con un recuento de neutrófilos <500 células/mm3.
+
+ 
+
+La recuperación total normalmente se alcanzó en 22 días.
+
+ 
+
+Se notificó neutropenia febril en el 6,2% de los pacientes y en el 1,7% de los ciclos.
+
+ 
+
+Aparecieron infecciones en aproximadamente el 10,3% de los pacientes (2,5% de los ciclos) y se asociaron con neutropenia grave en aproximadamente el 5,3% de los pacientes (1,1% de los ciclos), resultando en muerte en 2 casos.
+
+ 
+
+Se notificó anemia en aproximadamente el 58,7% de los pacientes (8% con hemoglobina <8 g/dl y 0,9% con hemoglobina <6,5 g/dl).
+
+ 
+
+Se observó trombocitopenia (≤100.000 células/mm3) en el 7,4% de los pacientes y el 1,8% de los ciclos con recuentos de plaquetas ≤50.000/mm3 en el 0,9% de los pacientes y en el 0,2% de los ciclos.
+
+ 
+
+Casi todos los pacientes mostraron una recuperación el día 22.
+
+ 
+
+Síndrome colinérgico agudo
+
+Se observó síndrome colinérgico agudo transitorio grave en el 9% de los pacientes tratados en monoterapia
+
+ 
+
+La astenia fue grave en menos del 10% de los pacientes tratados en monoterapia. No se ha establecido claramente una relación causal con irinotecán.
+
+ 
+
+Se produjo pirexia en ausencia de infección y sin neutropenia grave concomitante, en el 12% de los pacientes tratados en monoterapia.
+
+ 
+
+Pruebas de laboratorio
+
+Se observaron aumentos de leves a moderados y transitorios en los niveles séricos de transaminasas, fosfatasa alcalina o bilirrubina en el 9,2%, 8,1% y 1,8% de los pacientes, respectivamente, en ausencia de metástasis hepática progresiva.
+
+ 
+
+Se han observado aumentos de leves a moderados y transitorios en los niveles séricos de creatinina en el 7,3% de los pacientes.
+
+ 
+
+Terapia combinada
+
+ 
+
+Las reacciones adversas que se detallan en esta sección se refieren a irinotecán.
+
+ 
+
+No hay evidencia de que el perfil de seguridad de irinotecán esté influenciado por cetuximab o viceversa. En combinación con cetuximab, las reacciones adversas adicionales notificadas fueron las esperadas con cetuximab (como dermatitis acneiforme 88%). Para más información sobre las reacciones adversas de irinotecán en combinación con cetuximab, ver también la ficha técnica de este medicamento.
+
+ 
+
+Las reacciones adversas notificadas en pacientes tratados con capecitabina en combinación con irinotecán, además de las observadas con capecitabina en monoterapia u observadas con mayor frecuencia en comparación con capecitabina en monoterapia, incluyen: reacciones adversas muy frecuentes de todos los grados: trombosis/embolia; reacciones adversas frecuentes de todos los grados: hipersensibilidad, isquemia miocárdica/infarto; reacciones adversas frecuentes de Grado 3 y 4: neutropenia febril. Para la información completa sobre las reacciones adversas de capecitabina, consultar la ficha técnica de capecitabina.
+
+ 
+
+Las reacciones adversas de Grado 3 y 4 notificadas en pacientes tratados con capecitabina en combinación con irinotecán y bevacizumab, además de los observados en la monoterapia con capecitabina u observados con una mayor frecuencia en comparación con capecitabina en monoterapia incluyen: reacciones adversas frecuentes de Grado 3 y 4: neutropenia, trombosis/embolia, hipertensión e isquemia miocárdica/infarto. Para obtener información completa sobre las reacciones adversas de capecitabina y bevacizumab, consulte las correspondientes fichas técnicas de capecitabina y bevacizumab.
+
+ 
+
+Hipertensión de Grado 3 fue el principal riesgo significativo asociado con la adición de bevacizumab al bolo de irinotecán/5FU/AF. Además, se produjo un ligero aumento de reacciones adversas de quimioterapia de Grado 3/4 de diarrea y leucopenia con este régimen en comparación con los pacientes que recibieron un bolo de irinotecán/5FU/AF solo. Para más información sobre las reacciones adversas en combinación con bevacizumab, consultar la ficha técnica de bevacizumab.
+
+ 
+
+Se ha estudiado irinotecán en combinación con 5FU y FA para el cáncer colorrectal metastásico.
+
+ 
+
+Los datos de seguridad de las reacciones adversas de los estudios clínicos demuestran que se observaron muy frecuentemente acontecimientos adversos de Grado 3 o 4 del NCI posible o probablemente relacionados con trastornos de la sangre y del sistema linfático, gastrointestinales y de la piel y del tejido subcutáneo según la clasificación por grupos y sistemas de MedDRA.
+
+ 
+
+Se han notificado las siguientes reacciones adversas consideradas como posible o probablemente relacionadas con la administración de irinotecán en 145 pacientes tratados con irinotecán en terapia combinada con 5FU/AF cada 2 semanas a la dosis recomendada de 180 mg/m2.
+
+ 
+
+Reacciones adversas notificadas con irinotecán en terapia combinada (180 mg/m2 cada 2 semanas)
+
+Clasificación por grupos y sistemas (SOC) de MedDRA
+
+Frecuencia
+
+Término preferido (PT)
+
+Infecciones e infestaciones
+
+Frecuente
+
+Infección
+
+Trastornos de la sangre y del sistema linfático
+
+Muy frecuente
+
+Trombocitopenia
+
+Muy frecuente
+
+Neutropenia
+
+Muy frecuente
+
+Anemia
+
+Frecuente
+
+Neutropenia febril
+
+Trastornos del metabolismo y de la nutrición
+
+Muy frecuente
+
+Disminución del apetito
+
+Trastornos del sistema nervioso
+
+Muy frecuente
+
+Síndrome colinérgico
+
+Trastornos gastrointestinales
+
+Muy frecuente
+
+Diarrea
+
+Muy frecuente
+
+Vómitos
+
+Muy frecuente
+
+Náuseas
+
+Frecuente
+
+Dolor abdominal
+
+Frecuente
+
+Estreñimiento
+
+Trastornos de la piel y del tejido subcutáneo
+
+Muy frecuente
+
+Alopecia (reversible)
+
+Trastornos generales y alteraciones en el lugar de administración
+
+Muy frecuente
+
+Inflamación de las mucosas
+
+Muy frecuente
+
+Astenia
+
+Frecuente
+
+Pirexia
+
+Exploraciones complementarias
+
+Muy frecuente
+
+Aumento de las transaminasas (ALT y AST)
+
+Muy frecuente
+
+Aumento de la bilirrubina en sangre
+
+Muy frecuente
+
+Aumento de la fosfatasa alcalina en sangre
+
+ 
+
+Descripción de reacciones adversas seleccionadas (terapia combinada)
+
+ 
+
+Se observó diarrea grave en el 13,1% de los pacientes que siguen las recomendaciones para el tratamiento de la diarrea. De los ciclos evaluables, el 3,9% tuvieron diarrea grave.
+
+ 
+
+Se observó una menor incidencia de náuseas y vómitos graves (2,1% y 2,8% de los pacientes, respectivamente).
+
+ 
+
+Se observó estreñimiento relacionado con irinotecán y/o loperamida en el 3,4% de los pacientes.
+
+ 
+
+Se observó neutropenia en el 82,5% de los pacientes y fue grave (recuento de neutrófilos <500 células/mm3) en el 9,8% de los pacientes. De los ciclos evaluables, el 67,3% tuvo un recuento de neutrófilos por debajo de 1.000 células/mm3 incluyendo un 2,7% con un recuento de neutrófilos <500 células/mm3. La recuperación total se alcanza generalmente en 7-8 días.
+
+ 
+
+Se notificó neutropenia febril en el 3,4% de los pacientes y en el 0,9% de los ciclos.
+
+ 
+
+Se produjeron infecciones en aproximadamente el 2% de los pacientes (0,5% de los ciclos) y se asociaron con neutropenia grave en aproximadamente el 2,1% de los pacientes (0,5% de los ciclos), y fue mortal en 1 caso.
+
+ 
+
+Se notificó anemia en el 97,2% de los pacientes (2,1% con hemoglobina <8 g/dl).
+
+ 
+
+Se observó trombocitopenia (<100.000 células/mm3) en el 32,6% de los pacientes y el 21,8% de los ciclos. No se observó trombocitopenia grave (<50.000 células/mm3).
+
+ 
+
+Síndrome colinérgico agudo
+
+Se observó síndrome colinérgico agudo transitorio grave en el 1,4% de los pacientes tratados en terapia combinada.
+
+ 
+
+La astenia fue grave en el 6,2% de los pacientes tratados en terapia combinada. La relación causal con irinotecán no se ha establecido claramente.
+
+ 
+
+Se produjo pirexia sin infección y sin neutropenia grave concomitante, en el 6,2% de los pacientes tratados en terapia combinada.
+
+ 
+
+Pruebas de laboratorio
+
+Se observaron niveles séricos transitorios (grados 1 y 2) de SGPT, SGOT, fosfatasa alcalina o bilirrubina en 15%, 11%, 11% y 10% de los pacientes, respectivamente, en ausencia de metástasis hepática progresiva. De grado 3 transitorios se observaron en 0%, 0%, 0% y el 1% de los pacientes, respectivamente. No se observó ningún Grado 4.
+
+ 
+
+Se notificaron muy raramente aumentos de amilasa y/o lipasa.
+
+Se han notificado casos raros de hipopotasemia e hiponatremia, en su mayoría relacionados con diarrea y vómitos.
+
+ 
+
+Otras reacciones adversas notificadas en estudios clínicos con régimen semanal para irinotecán
+
+ 
+
+En estudios clínicos con irinotecán se han notificado las siguientes reacciones adversas adicionales relacionados con el medicamento: dolor, sepsis, trastornos anorrectales, candidiasis gastrointestinal, hipomagnesemia, erupción cutánea, manifestaciones en la piel, alteración de la marcha, confusión, cefalea, síncope, enrojecimiento, bradicardia, infección del tracto urinario, dolor de pecho, aumento de la gamma glutamil transferasa, extravasación, síndrome de lisis tumoral, trastornos cardiovasculares (angina de pecho, parada cardiaca, infarto de miocardio, isquemia de miocardio, trastorno vascular periférico, trastorno vascular) y eventos tromboembólicos (trombosis arterial, infarto cerebral, accidente cerebrovascular, trombosis venosa profunda, embolia periférica, embolia pulmonar, tromboflebitis, trombosis y muerte súbita) (ver sección 4.4).
+
+ 
+
+Vigilancia postautorización
+
+ 
+
+No se conocen las frecuencias de la vigilancia postcomercialización (no pueden estimarse a partir de los datos disponibles).
+
+ 
+
+Clasificación por grupos y sistemas (SOC) de MedDRA
+
+Término preferido (PT)
+
+Infecciones e infestaciones
+
+Colitis pseudomembranosa una de las cuales se ha documentado bacteriológicamente (Clostridium difficile)
+Sepsis
+Infecciones por hongosa
+Infecciones víricasb
+Trastornos de la sangre y del sistema linfático
+
+Trombocitopenia con anticuerpos antiplaquetarios
+Trastornos del metabolismo y de la nutrición
+
+Deshidratación (debida a diarrea y vómitos)
+Hipovolemia
+Trastornos del sistema inmunológico
+
+Hipersensibilidad
+Reacción anafiláctica
+Trastornos del sistema nervioso
+
+Trastornos del habla generalmente transitorios; en algunos casos, este efecto se atribuyó al síndrome colinérgico observado durante o poco después de la perfusión de irinotecán
+Parestesia
+Contracciones musculares involuntarias
+Trastornos cardiacos
+
+Hipertensión (durante o después de la perfusión)
+Insuficiencia cardiocirculatoria*
+Trastornos respiratorios, torácicos y mediastínicos
+
+Enfermedad pulmonar intersticial, que se presenta como infiltrados pulmonares, es poco frecuente durante el tratamiento con irinotecán; se han notificados efectos tempranos como disnea (ver sección 4.4).
+Disnea (ver sección 4.4)
+Hipo
+Trastornos gastrointestinales
+
+Obstrucción intestinal
+Íleo: se han notificado casos de íleo no precedidos de colitis
+Megacolon
+Hemorragia gastrointestinal
+Colitis; en algunos casos, la colitis se complicó por ulceración, hemorragias, íleo o infección
+Tiflitis
+Colitis isquémica
+Colitis ulcerosa
+Elevación sintomática o asintomática de las enzimas pancreáticas
+Perforación intestinal
+Trastornos hepatobiliares
+
+Esteatohepatitis
+Esteatosis hepática
+Trastornos de la piel y del tejido subcutáneo
+
+Reacción en la piel
+Trastornos generales y alteraciones en el lugar de administración
+
+Reacciones en el lugar de la perfusión
+Exploraciones complementarias
+
+Aumento de la amilasa
+Aumento de la lipasa
+Hipopotasemia
+Hiponatremia relacionada principalmente con diarrea y vómitos
+Muy raramente se han notificado aumentos de las transaminasas (AST y ALT) en ausencia de metástasis hepática progresiva
+Trastornos musculoesqueléticos y del tejido conjuntivo
+
+Calambres
+Trastornos renales y urinarios
+
+Insuficiencia renal e insuficiencia renal aguda generalmente en pacientes con infección y/o con pérdida de volumen por toxicidad gastrointestinal grave*
+Insuficiencia renal*
+Trastornos vasculares
+
+Hipotensión*
+* Se han observado casos poco frecuentes de insuficiencia renal, hipotensión o insuficiencia cardiocirculatoria en pacientes que experimentaron episodios de deshidratación asociada con diarrea y/o vómitos, o sepsis. 
+
+a por ej. neumonía por Pneumocystis jirovecii, aspergilosis broncopulmonar, cándida sistémica.
+
+b por ej. herpes zóster, gripe, reactivación de la hepatitis B, colitis por citomegalovirus.
+
+ 
+
+Notificación de sospechas de reacciones adversas
+
+Es importante notificar sospechas de reacciones adversas al medicamento tras su autorización. Ello permite una supervisión continuada de la relación beneficio/riesgo del medicamento. Se invita a los profesionales sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Español de Farmacovigilancia de Medicamentos de Uso Humano: www.notificaram.es
+
+ 
+
+4.9. Sobredosis
+Síntomas
+
+Se han notificado casos de sobredosis con dosis de hasta aproximadamente el doble de la dosis terapéutica recomendada, que podría ser mortal. Las reacciones adversas más destacadas que se han notificado fueron neutropenia grave y diarrea grave.
+
+ 
+
+Tratamiento
+
+No existe antídoto conocido para irinotecán. Debe iniciarse un tratamiento de soporte para prevenir la deshidratación producida por la diarrea y para tratar cualquier complicación infecciosa.
+
+ 
+
+5. PROPIEDADES FARMACOLÓGICAS
+5.1. Propiedades farmacodinámicas
+Grupo farmacoterapéutico: inhibidor de la topoisomerasa I citostático, código ATC: L01CE02
+
+ 
+
+Mecanismo de acción
+
+ 
+
+Datos experimentales
+
+ 
+
+El irinotecán es un derivado semisintético de la camptotecina. Se trata de un agente antineoplásico que actúa como inhibidor específico de la ADN topoisomerasa I. Se metaboliza en la mayoría de los tejidos por la carboxilesterasa a SN-38, que se ha revelado más activo que el irinotecán sobre la topoisomerasa I purificada y más citotóxico que irinotecán sobre varias líneas de células tumorales murinas y humanas. La inhibición de la ADN topoisomerasa I por irinotecán o SN-38 induce lesiones en las cadenas simples del ADN que bloquean la replicación del ADN y son responsables de citotoxicidad. Esta actividad citotóxica fue dependiente del tiempo y específica de la fase S.
+
+ 
+
+In vitro, no se observó que irinotecán y SN-38 fuesen reconocidos significativamente por la glicoproteina-P MDR, y muestran una actividad citotóxica frente a líneas celulares resistentes a doxorubicina y vinblastina.
+
+ 
+
+Además, irinotecán posee un amplio espectro de actividad antitumoral in vivo frente a modelos tumorales murinos (adenocarcinoma ductal pancreático P03, adenocarcinoma mamario MA16/C , adenocarcinomas de colon C38 y C51) y frente a xenoinjertos humanos (adenocarcinoma de colon Co-4, adenocarcinoma mamario MX-1, adenocarcinomas gástricos ST-15 y SC-16). Irinotecán es activo frente a tumores que expresan la glicoproteína P-MDR (leucemias P388 resistentes a vincristina y doxorubicina).
+
+ 
+
+Además de la actividad antitumoral de irinotecán, el efecto farmacológico más relevante de irinotecán es la inhibición de la acetilcolinesterasa.
+
+ 
+
+Datos clínicos
+
+ 
+
+En terapia combinada para primera línea de tratamiento en carcinoma metastásico colorrectal
+
+ 
+
+En terapia combinada con ácido folínico y 5-fluorouracilo:
+
+Se realizó un ensayo clínico en fase III en 385 pacientes con cáncer colorrectal metastásico que no habían sido tratados previamente, a los que se trató con una pauta posológica cada 2 semanas (ver sección 4.2) o semanalmente. En el tratamiento cada 2 semanas, el día 1 se administraron 180 mg/m2 de irinotecán una vez cada 2 semanas, seguido de una perfusión con ácido folínico (200 mg/m2 en perfusión intravenosa de 2 horas) y 5-fluorouracilo (400 mg/m2 administrado en bolus intravenoso, seguido de 600 mg/m2 en perfusión intravenosa de 22 horas). El día 2 se administró ácido folínico y 5-fluorouracilo con las mismas dosis y pautas posológicas. En la pauta posológica semanal, la administración de 80 mg/m2 de irinotecán fue seguida por una perfusión de ácido folínico (500 mg/m2 en perfusión intravenosa de 2 horas) y a continuación 5-fluorouracilo (2.300 mg/m2 en perfusión intravenosa de 24 horas) durante 6 semanas.
+
+ 
+
+En el ensayo de terapia combinada con las 2 pautas descritas anteriormente, la eficacia de irinotecán se evaluó en 198 pacientes:
+
+ 
+
+ 
+
+Regímenes combinados
+
+(n=198)
+
+Régimen semanal
+
+(n=50)
+
+Régimen cada 2 semanas
+
+(n=148)
+
+IRINOTECAN + 5FU/AF
+
+5FU/AF
+
+IRINOTECAN + 5FU/AF
+
+5FU/AF
+
+IRINOTECAN + 5FU/AF
+
+5FU/AF
+
+Tasa de respuesta (%)
+
+40,8 *
+
+23,1 *
+
+51,2 *
+
+28,6 *
+
+37,5 *
+
+21,6 *
+
+valor de p
+
+p < 0,001
+
+p = 0,045
+
+p = 0,005
+
+Mediana del tiempo hasta la progresión (meses)
+
+6,7
+
+4,4
+
+7,2
+
+6,5
+
+6,5
+
+3,7
+
+valor de p
+
+p < 0,001
+
+NS
+
+p = 0,001
+
+Mediana de la duración de la respuesta (meses)
+
+9,3
+
+8,8
+
+8,9
+
+6,7
+
+9,3
+
+9,5
+
+valor de p
+
+NS
+
+p = 0,043
+
+NS
+
+Mediana de la duración de la respuesta y estabilización (meses)
+
+8,6
+
+6,2
+
+8,3
+
+6,7
+
+8,5
+
+5,6
+
+valor de p
+
+p < 0,001
+
+NS
+
+p = 0,003
+
+Mediana del tiempo hasta el fracaso del tratamiento (meses)
+
+5,3
+
+3,8
+
+5,4
+
+5,0
+
+5,1
+
+3,0
+
+valor de p
+
+p = 0,0014
+
+NS
+
+p < 0,001
+
+Mediana de la supervivencia (meses)
+
+16,8
+
+14,0
+
+19,2
+
+14,1
+
+15,6
+
+13,0
+
+valor de p
+
+p = 0,028
+
+NS
+
+p = 0,041
+
+5FU: 5-fluorouracilo
+
+AF: ácido folínico
+
+NS: no significativo
+
+*: Análisis de población por protocolo
+
+ 
+
+En la pauta posológica semanal, la incidencia de diarrea grave fue del 44,4 % en los pacientes tratados con irinotecán en combinación con 5-FU/AF y del 25,6% en los pacientes tratados con solo 5-FU/AF. La incidencia de neutropenia grave (recuento de neutrófilos < 500 células/mm3) fue del 5,8% en los pacientes tratados con irinotecán en combinación con 5-FU/AF y 2,4% en los pacientes tratados solo con 5-FU/AF.
+
+ 
+
+Además, la mediana del tiempo trascurrido hasta el estado de deterioro definitivo fue significativamente más larga en el grupo de tratamiento combinado con irinotecán que en el tratado solo con 5-FU/AF (p=0,046).
+
+ 
+
+En este estudio fase III se evaluó la calidad de vida utilizando el cuestionario QLQ-C30 de la EORTC (European Organization for Research and Treatment of Cancer- organización europea para la investigación y el tratamiento del cáncer). El tiempo hasta el deterioro definitivo tuvo lugar más tarde de forma constante en los grupos tratados con irinotecán. La evolución del Estado General de Salud/Calidad de vida fue ligeramente mejor en el grupo de tratamiento combinado con irinotecán, aunque este dato no fue significativo, lo que demostró que se podría obtener una eficacia del irinotecán en tratamiento combinado sin afectar a la calidad de vida.
+
+ 
+
+En terapia combinada con bevacizumab:
+
+Un ensayo clínico de fase III, aleatorizado, controlado, doble ciego, evaluó bevacizumab en combinación con irinotecán/5-FU/AF como tratamiento de primera línea del carcinoma metastásico de colon o recto (Estudio AVF2107g). La incorporación de bevacizumab a la combinación de irinotecán/5-FU/AF dio como resultado un aumento estadísticamente significativo en la supervivencia global. El beneficio clínico, medido por la supervivencia global, se observó en todos los subgrupos de pacientes pre-especificados, incluyendo los definidos por edad, sexo, estado general, localización del tumor primario, número de órganos afectados y duración de la enfermedad metastásica. Ver también la ficha técnica de bevacizumab. Los resultados de eficacia del estudio AVF2107g se resumen en la tabla siguiente:
+
+ 
+
+ 
+
+AVF2107g
+
+ 
+
+Brazo 1
+
+Irinotecán/5-FU/AF +placebo
+
+Brazo 2
+
+Irinotecán/5-FU/AF + Bevacizumaba
+
+Número de pacientes
+
+411
+
+402
+
+Supervivencia global
+
+ 
+
+ 
+
+Mediana del tiempo (meses)
+
+15,6
+
+20,3
+
+Intervalo de confianza del 95%
+
+14,29 – 16.99
+
+18,46 – 24,18
+
+Hazard ratiob
+
+ 
+
+0,660
+
+Valor de p
+
+ 
+
+0,00004
+
+Supervivencia libre de progresión
+
+ 
+
+ 
+
+Mediana del tiempo (meses)
+
+6,2
+
+10,6
+
+Hazard ratiob
+
+ 
+
+0,54
+
+Valor de p
+
+ 
+
+<0,0001
+
+Tasa de respuesta global
+
+ 
+
+ 
+
+Tasa (%)
+
+34,8
+
+44,8
+
+IC 95%
+
+30,2 – 39,6
+
+39,9 – 49,8
+
+Valor de p
+
+ 
+
+0,0036
+
+Duración de la respuesta
+
+ 
+
+ 
+
+Mediana del tiempo (meses)
+
+7,1
+
+10,4
+
+Percentil 25–75 (meses)
+
+4,7 – 11,8
+
+6,7 – 15,0
+
+a 5 mg/kg cada 2 semanas.
+
+b Relativo al brazo de control.
+
+ 
+
+En terapia combinada con cetuximab:
+
+EMR 62 202-013: En este estudio aleatorizado en pacientes con carcinoma colorrectal metastásico que no habían recibido tratamiento previo para la enfermedad metastásica se comparó la combinación de cetuximab e irinotecán más la perfusión de 5-fluorouracilo/ácido folínico (5-FU/AF) (599 pacientes) frente a la misma quimioterapia en monoterapia (599 pacientes). El porcentaje de pacientes con tumores con el gen KRAS no mutado respecto al total de la población de pacientes evaluables para el gen KRAS fue del 64%.
+
+ 
+
+Los datos de eficacia obtenidos en este estudio se resumen en la siguiente tabla:
+
+ 
+
+ 
+
+Población general
+
+Población tipo KRAS salvaje
+
+Variable/Estadística
+
+Cetuximab con FOLFIRI (N=599)
+
+FOLFIRI
+
+(N=599)
+
+Cetuximab con FOLFIRI (N=172)
+
+FOLFIRI
+
+(N=176)
+
+TRO
+
+ 
+
+ 
+
+ 
+
+ 
+
+% (95% IC)
+
+46,9
+
+(42,9, 51,0)
+
+38,7
+
+(34,8, 42,8)
+
+59,3
+
+(51,6, 66,7)
+
+43,2
+
+(35,8, 50,9)
+
+Valor de p
+
+0,0038
+
+0,0025
+
+SLP
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hazard ratio (95% CI)
+
+0,85 (0,726, 0,998)
+
+0,68 (0,501, 0,934)
+
+Valor de p
+
+0,0479
+
+0,0167
+
+IC = intervalo de confianza, FOLFIRI = irinotecán más perfusión de 5-FU/AF, TRO = tasa de respuesta objetiva (pacientes con respuesta completa o parcial), SLP = tiempo de supervivencia libre de progresión.
+
+ 
+
+En la terapia de combinada con capecitabina
+
+Los datos del estudio aleatorizado y controlado de fase III (CAIRO) apoyan el uso de capecitabina a una dosis inicial de 1.000 mg/m2 durante 2 semanas cada 3 semanas en combinación con irinotecán como tratamiento de primera línea de pacientes con cáncer colorrectal metastásico. Ochocientos veinte (820) pacientes fueron aleatorizados para recibir tratamiento secuencial (n=410) o tratamiento combinado (n=410). El tratamiento secuencial consistía en tratamiento de primera línea con capecitabina (1.250 mg/m2 dos veces al día durante 14 días), segunda línea con irinotecán (350 mg/m2 en el día 1), y tercera línea con una combinación de capecitabina (1.000 mg/m2 dos veces al día durante 14 días) con oxaliplatino (130 mg/m2 en el día 1). El tratamiento de combinación consistió en tratamiento de primera línea con capecitabina (1.000 mg/m2 dos veces al día durante 14 días) en combinación con irinotecán (250 mg/m2 en el día 1) (XELIRI) y el tratamiento de segunda línea con capecitabina (1.000 mg/m2 dos veces al día durante 14 días) más oxaliplatino (130 mg/m2 en el día 1). Todos los ciclos de tratamiento se administraron a intervalos de 3 semanas. En primera línea de tratamiento, la mediana de supervivencia libre de progresión en la población por intención de tratar fue de 5,8 meses (IC del 95%, 5,1-6,2 meses) para la monoterapia con capecitabina y 7,8 meses (IC 95%, 7,0-8,3 meses) para XELIRI (p=0,0002)
+
+ 
+
+Los datos de un análisis intermedio de un estudio multicéntrico, aleatorizado, controlado, de fase II (AIO KRK 0604) apoyan el uso de capecitabina a una dosis inicial de 800 mg/m2 durante 2 semanas cada 3 semanas en combinación con irinotecán y bevacizumab para la primera línea de tratamiento de pacientes con cáncer colorrectal metastásico. Ciento quince (115) pacientes fueron asignados al azar para tratamiento con capecitabina combinada con irinotecán (XELIRI) y bevacizumab: capecitabina (800 mg/m2 dos veces al día durante dos semanas, seguido de un periodo de descanso de 7 días), irinotecán (200 mg/m2 administrados en perfusión de 30 minutos en el día 1 cada 3 semanas), y bevacizumab (7,5 mg/kg administrados en perfusión de 30 a 90 minutos en el día 1 cada 3 semanas); un total de 118 pacientes fueron aleatorizados a recibir tratamiento con capecitabina en combinación con oxaliplatino y bevacizumab: capecitabina (1.000 mg/m2 dos veces al día durante dos semanas, seguido de un periodo de descanso de 7 días), oxaliplatino (130 mg/m2 administrado en perfusión de 2 horas en el día 1 cada 3 semanas), y bevacizumab (7,5 mg/kg administrados en perfusión de 30 a 90 minutos, el día 1 cada 3 semanas). La supervivencia libre de progresión a los 6 meses en la población prevista para el tratamiento fue del 80% (XELIRI más bevacizumab) frente al 74% (XELOX + bevacizumab). La tasa global de respuesta (respuesta completa más respuesta parcial) fue del 45% (XELOX más bevacizumab) frente al 47% (XELIRI más bevacizumab).
+
+ 
+
+En monoterapia como segunda línea de tratamiento en carcinoma metastásico colorrectal
+
+ 
+
+Se han realizado ensayos clínicos de fase II/III con pauta de administración cada 3 semanas en más de 980 pacientes con cáncer colorrectal metastásico que no respondieron a un tratamiento previo con 5-FU. La eficacia de irinotecán se evaluó en 765 pacientes con progresión documentada de la enfermedad durante el tratamiento con 5-FU al inicio del estudio.
+
+ 
+
+ 
+
+Fase III
+
+ 
+
+Irinotecán versus terapia de apoyo
+
+Irinotecán versus 5-FU
+
+ 
+
+Irinotecán
+
+ 
+
+n = 183
+
+Terapia de soporte
+
+n = 90
+
+Valores de p
+
+Irinotecán
+
+ 
+
+n = 127
+
+5-FU
+
+ 
+
+n = 129
+
+Valores de p
+
+Supervivencia a los 6 meses sin progresión (%)
+
+NA
+
+NA
+
+ 
+
+33,5*
+
+26,7
+
+p=0,03
+
+Supervivencia a los 12 meses (%)
+
+36,2*
+
+13,8
+
+p=0,0001
+
+44,8*
+
+32,4
+
+p=0,0351
+
+Mediana de la supervivencia (meses)
+
+9,2*
+
+6,5
+
+p=0,0001
+
+10,8*
+
+8,5
+
+p=0,0351
+
+NA: No aplicable
+
+*: Diferencia estadísticamente significativa.
+
+ 
+
+En los estudios fase II, realizados en 455 pacientes con la pauta de administración cada 3 semanas, la supervivencia sin progresión a los 6 meses fue del 30% y la mediana de la supervivencia fue de 9 meses. La mediana del tiempo para la progresión fue de 18 semanas.
+
+ 
+
+Adicionalmente, se llevaron a cabo estudios no comparativos en fase II en 304 pacientes con pauta de administración semanal de una dosis de 125 mg/m2 administrado en perfusión intravenosa de 90 minutos durante 4 semanas consecutivas seguido de 2 semanas de descanso. En estos estudios la mediana del tiempo para la progresión fue de 17 semanas y la mediana de supervivencia de 10 meses. Se ha observado un perfil de seguridad similar con el régimen de administración semanal en 193 pacientes con una dosis inicial de 125 mg/m2, comparado con el régimen de administración cada 3 semanas. La mediana del tiempo de aparición de las primeras heces líquidas fue el día 11.
+
+ 
+
+En combinación con cetuximab después del fracaso de un tratamiento que haya incluido irinotecán:
+
+ 
+
+Se investigó la eficacia de la combinación de cetuximab con irinotecán en dos estudios clínicos. Recibieron el tratamiento combinado un total de 356 pacientes con cáncer colorrectal metastásico con expresión del EGFR en los que previamente había fracasado recientemente a un tratamiento citotóxico que incluía irinotecán. Estos pacientes presentaban un estado funcional de Karnofsky mínimo del 60%  pero la mayoría de los que tenían una puntuación de Karnofsky ≥ 80 recibieron el tratamiento de combinación.
+
+ 
+
+EMR 62 202-007: Este estudio aleatorizado comparó la combinación de cetuximab e irinotecán (218 pacientes) con cetuximab en monoterapia (111 pacientes).
+
+ 
+
+IMCL CP02-9923: Este estudio abierto, de un solo brazo analizó el tratamiento combinado en 138 pacientes.
+
+ 
+
+En la tabla siguiente se resumen los datos de eficacia obtenidos en estos estudios:
+
+ 
+
+Estudio
+
+n
+
+TRO
+
+DCR
+
+SLP (meses)
+
+SG (meses)
+
+ 
+
+ 
+
+ 
+
+n
+
+(%)
+
+IC 95 %
+
+n
+
+(%)
+
+IC 95%
+
+Mediana
+
+IC 95%
+
+Mediana
+
+IC 95%
+
+ 
+
+ 
+
+Cetuximab + irinotecán
+
+EMR 62 202-007
+
+218
+
+50
+
+(22,9)
+
+17,5;
+
+29,1
+
+121
+
+(55,5)
+
+48,6;
+
+62,2
+
+4,1
+
+2,8;
+
+4,3
+
+8,6
+
+7,6;
+
+9,6
+
+ 
+
+ 
+
+IMCL CP02-9923
+
+138
+
+21 (15,2)
+
+9,7;
+
+22,3
+
+84
+
+(60,9)
+
+52,2;
+
+69,1
+
+2,9
+
+2,6;
+
+4,1
+
+8,4
+
+7,2;
+
+10,3
+
+ 
+
+ 
+
+Cetuximab
+
+EMR 62 202-007
+
+111
+
+ 
+
+12
+
+(10,8)
+
+5,7;
+
+18,1
+
+36
+
+(32,4)
+
+23,9;
+
+42,0
+
+1,5
+
+ 
+
+1,4;
+
+2,0
+
+6,9
+
+5,6;
+
+9,1
+
+ 
+
+ 
+
+IC = intervalo de confianza; TCE = tasa de control de la enfermedad (pacientes con respuesta completa, respuesta parcial o enfermedad estable durante al menos 6 semanas); TRO = tasa de respuesta objetiva (pacientes con respuesta completa o respuesta parcial); SG = tiempo de supervivencia global; SLP = supervivencia libre de progresión
+
+ 
+
+La eficacia de la combinación de cetuximab con irinotecán fue superior a la monoterapia con cetuximab, en términos de tasa de respuesta objetiva (TRO), tasa de control de la enfermedad (TCE) y supervivencia libre de progresión (SLP). En el estudio aleatorizado, no se observaron efectos sobre la supervivencia global (SG) (Hazard ratio 0,91; p=0,48).
+
+5.2. Propiedades farmacocinéticas
+Absorción
+
+ 
+
+Al final de la perfusión, las concentraciones plasmáticas máximas medias de irinotecán y de SN-38, con la dosis recomendada de 350 mg/m2, fueron de 7,7 μg/mL y 56 ng/mL, respectivamente, y los correspondientes valores del área bajo la curva (AUC) medios fueron 34 μg.h/mL y 451 ng.h/mL, respectivamente. En general, se observó una gran variabilidad interindividual en los parámetros farmacocinéticos del SN-38.
+
+ 
+
+Distribución
+
+ 
+
+El estudio de fase I en 60 pacientes con una pauta de administración de perfusión intravenosa de 30 minutos de 100 a 750 mg/m2 cada tres semanas, mostró un volumen de distribución en el estado estacionario (Vss) de 157 l/m2.
+
+In vitro, la unión a proteínas plasmáticas de irinotecán y del SN-38 fue aproximadamente del 65% y 95%, respectivamente.
+
+ 
+
+Metabolismo o Biotransformación
+
+ 
+
+Estudios metabólicos y de balance de masa efectuados con medicamento marcado con 14C han demostrado que más del 50% de la dosis de irinotecán administrada por vía intravenosa, se elimina de forma inalterada con un 33% en heces principalmente a través de la bilis, y un 22% en orina.
+
+ 
+
+Hay dos vías metabólicas que suponen, cada una de ellas, al menos un 12% de la dosis:
+
+Hidrólisis por carboxilesterasa para dar el metabolito activo SN-38. El SN-38 se elimina principalmente por glucuronidación y, posteriormente, por excreción biliar y renal (menos del 0,5 % de la dosis de irinotecán). Es probable que el glucurónido del SN-38 se hidrolice posteriormente en el intestino. 
+Oxidación dependiente de las enzimas del citocromo P450 3A resultando en una apertura del anillo piperidínico terminal con formación de un derivado del ácido aminopentanoico (APC) y un derivado amina primario (NPC) (ver sección 4.5).
+ 
+
+En plasma el compuesto mayoritario es el irinotecán inalterado, seguido por APC, SN-38-glucurónido y SN-38. Únicamente el SN-38 presenta una actividad citotóxica significativa.
+
+ 
+
+Eliminación
+
+ 
+
+En un estudio de fase I en 60 pacientes con una pauta de administración de perfusión intravenosa de 30 minutos de 100 a 750 mg/m2 cada tres semanas, irinotecán mostró un perfil de eliminación bifásico o trifásico. El aclaramiento plasmático medio fue de 15 l/h/m2. La semivida plasmática media de la primera fase del modelo trifásico fue de 12 minutos, la de la segunda fase de 2,5 horas y la semivida de la fase terminal fue de 14,2 horas. SN-38 mostró un perfil de eliminación bifásico, con una semivida de eliminación terminal media de 13,8 horas.
+
+ 
+
+El aclaramiento de irinotecán se reduce en aproximadamente un 40 % en pacientes con bilirrubinemia entre 1,5 a 3 veces por encima del límite superior del rango normal. En estos pacientes una dosis de irinotecán de 200 mg/m2 da lugar a una exposición plasmática del medicamento comparable a la observada con dosis de 350 mg/m2 en pacientes con cáncer con parámetros hepáticos normales.
+
+ 
+
+Linealidad/ No linealidad
+
+ 
+
+Se realizó un análisis farmacocinético poblacional de irinotecán en 148 pacientes con cáncer colorrectal metastásico, tratados con diversas pautas y distintas dosis en ensayos de fase II. Los parámetros farmacocinéticos estimados con un modelo tricompartimental fueron similares a los observados en los estudios de fase I. En todos los estudios se demostró que la exposición a irinotecán (CPT-11) y SN-38 aumenta de forma proporcional a la dosis administrada de CPT-11; la farmacocinética de ambos es independiente del número de ciclos previos y de la pauta de administración.
+
+ 
+
+Relación(es) farmacocinética(s)/ farmacodinámica(s)
+
+ 
+
+La intensidad de las toxicidades principales observadas con irinotecán (p.ej., leuconeutropenia y diarrea) está relacionada con la exposición (AUC) al medicamento precursor y al metabolito SN-38. Se observaron correlaciones significativas entre la intensidad de la toxicidad hematológica (disminución de glóbulos blancos y neutrófilos en el nadir) o intensidad de la diarrea, y los valores de AUC tanto de irinotecán como del metabolito SN-38 en monoterapia.
+
+ 
+
+Pacientes con actividad reducida de la UGT1A1:
+
+ 
+
+La uridina difosfo glucurononiltransferasa 1A1 (UGT1A1) participa en la desactivación metabólica del SN-38, el metabolito activo de irinotecán a glucurónido SN-38 inactivo (SN-38G). El gen UGT1A1 es altamente polimórfico, lo que da lugar a una gran variabilidad de capacidades metabólicas entre individuos. Las variantes genéticas de UGT1A1 mejor caracterizadas son UGT1A1 * 28 y UGT1A1 * 6. Estas variantes y otras deficiencias congénitas en la expresión de UGT1A1 (como el síndrome de Gilbert y Crigler-Najjar) se asocian a una reducción de la actividad de esta enzima.
+
+ 
+
+Los pacientes que son metabolizadores lentos de los sustratos de la UGT1A1 (por ej., homocigotos para las variantes UGT1A1 * 28 o * 6) tienen un mayor riesgo de reacciones adversas graves como neutropenia y diarrea tras la administración de irinotecán, como consecuencia de la acumulación de SN-38. Según los datos de varios metanálisis, el riesgo es mayor para los pacientes que reciben dosis de irinotecán > 180 mg / m² (ver sección 4.4).
+
+ 
+
+Para identificar a los pacientes con mayor riesgo de experimentar neutropenia y diarrea graves, se puede utilizar el genotipado UGT1A1. El homocigoto UGT1A1 * 28 aparece con una frecuencia del 8 al 20% en la población europea, africana, del Cercano Oriente y latina. La variante * 6 está casi ausente en estas poblaciones. En la población de Asia oriental, la frecuencia de *28/*28 es de aproximadamente 1-4%, 3-8% para *6/*28 y 2-6% para *6/*6. En la población de Asia central y meridional, la frecuencia de *28/*28 es de alrededor del 17%, el 4% para *6/*28 y el 0,2% para *6/*6.
+
+ 
+
+5.3. Datos preclínicos sobre seguridad
+Irinotecán y SN-38 han demostrado ser mutagénicos in vitro en el test de aberración cromosómica en las células CHO, así como en el test in vivo del micronúcleo en ratón. Sin embargo, se ha demostrado que carecen completamente de potencial mutagénico en el test de Ames.
+
+ 
+
+En ratas tratadas una vez por semana durante 13 semanas a la dosis máxima de 150 mg/m2 (inferior a la mitad de la dosis humana recomendada), no se notificaron tumores relacionados con el tratamiento 91 semanas después del final del tratamiento.
+
+ 
+
+Se han realizado estudios de toxicidad a dosis única y a dosis repetida en ratón, rata y perro. Los principales efectos tóxicos se observaron en el sistema hematopoyético y linfático. En perros, se notificó de diarrea tardía asociada con atrofia y necrosis focal de la mucosa intestinal. También se detectó alopecia en perros.
+
+ 
+
+La gravedad de estos efectos es reversible y dependiente de la dosis.
+
+ 
+
+Reproducción
+
+ 
+
+Irinotecán fue teratógeno en ratas y conejos a dosis inferiores a la dosis terapéutica humana. En ratas, las crías con anomalías externas nacidas de animales tratados sufrieron un descenso de la fertilidad. Esta reducción no se observó en crías morfológicamente normales. En las ratas preñadas se observó una reducción del peso de la placenta y, en la descendencia, una disminución de la viabilidad fetal y un aumento de las anomalías conductuales.
+
+ 
+
+6. DATOS FARMACÉUTICOS
+6.1. Lista de excipientes
+Sorbitol (E420)
+
+Ácido láctico (E270)
+
+Hidróxido de sodio (E524) (para ajuste del pH)
+
+Ácido clorhídrico (E507) (para ajuste del pH)
+
+Agua para preparaciones inyectables
+
+6.2. Incompatibilidades
+En ausencia de estudios de compatibilidad, este medicamento no debe mezclarse con otros, excepto con los mencionados en la sección 6.6.
+
+ 
+
+6.3. Periodo de validez
+El periodo de validez en el vial cerrado es de 2 años.
+
+ 
+
+Estabilidad tras la dilución:
+
+La estabilidad química y física tras la dilución del concentrado se ha demostrado de 28 días, conservado en envases de LDPE o PVC entre 2°C y 30°C, protegido de la luz. Si la dilución no se conservase protegida de la luz, la estabilidad química y física se ha demostrado de hasta 3 días a temperatura ambiente.
+
+Desde un punto de vista microbiológico, el producto debería emplearse inmediatamente. Si no es así, los tiempos de conservación y las condiciones previas al uso serán responsabilidad del usuario y normalmente no deberían exceder de 24 horas a 25°C, a menos que la dilución se haya efectuado en condiciones asépticas validadas y controladas.
+
+ 
+
+6.4. Precauciones especiales de conservación
+No requiere condiciones especiales de conservación. 
+
+ 
+
+Para las condiciones de conservación tras la dilución, ver sección 6.3.
+
+6.5. Naturaleza y contenido del envase
+40 mg/2 ml:
+
+Vial de vidrio topacio de tipo I flint, con cierre de goma (de caucho de bromobutilo omniflex plus) y sellado con cierre de aluminio flip-off the color azul oscuro.
+
+ 
+
+100 mg/5 ml:
+
+Vial de vidrio topacio de tipo I flint, con cierre de goma (de caucho de bromobutilo omniflex plus) y sellado con cierre de aluminio flip-off the color azul claro.
+
+ 
+
+300 mg/15 ml:
+
+Vial de vidrio topacio de tipo I flint, con cierre de goma (de caucho de bromobutilo omniflex plus) y sellado con cierre de aluminio flip-off the color azul oscuro.
+
+ 
+
+500 mg/25 ml:
+
+Vial de vidrio topacio de tipo I flint, con cierre de goma (de caucho de bromobutilo omniflex plus) y sellado con cierre de aluminio flip-off the color azul oscuro.
+
+ 
+
+Tamaños de envases:
+
+40 mg/2 ml: 1 vial, 5 viales, 10 viales
+
+100 mg/5 ml: 1 vial, 5 viales, 10 viales
+
+300 mg/15 ml: 1 vial
+
+500 mg/25 ml: 1 vial
+
+ 
+
+Puede que solamente estén comercializados algunos tamaños de envases.
+
+6.6. Precauciones especiales de eliminación y otras manipulaciones
+Como con otros agentes antineoplásicos, la perfusión de irinotecán debe ser preparada y manipulada con precaución. Es indispensable el empleo de gafas de protección, máscara y guantes.
+
+ 
+
+Si el concentrado para solución para perfusión de irinotecán entra en contacto con la piel, ésta debe enjuagarse inmediatamente y de forma intensiva con agua y jabón. Si el concentrado para solución para perfusión de irinotecán entrara en contacto con las membranas mucosas, se debe lavar inmediatamente con agua.
+
+ 
+
+Preparación de la solución intravenosa para perfusión:
+
+Al igual que cualquier otro medicamento inyectable, la solución de irinotecán debe prepararse asépticamente (ver sección 6.3).
+
+ 
+
+Si se observa cualquier precipitado en los viales o en la solución de perfusión, debe desecharse el producto de acuerdo con los procedimientos habituales para eliminación de agentes citotóxicos.  
+
+ 
+
+Extraer asépticamente la cantidad requerida de concentrado de irinotecán del vial con una jeringa calibrada e inyectar en una bolsa o frasco de perfusión de 250 mL conteniendo una solución o de cloruro sódico al 0,9% o de glucosa al 5%. Mezclar minuciosamente la solución a perfundir mediante rotación manual.
+
+ 
+
+Eliminación:
+
+La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto con él se realizará de acuerdo con la normativa local.
+
+ 
+
+7. TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+Glenmark Arzneimittel GmbH
+
+Industriestr. 31
+
+82194 Gröbenzell
+
+Alemania
+
+8. NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ 
+
+9. FECHA DE LA PRIMERA AUTORIZACIÓN/ RENOVACIÓN DE LA AUTORIZACIÓN
+Junio 2023
+
+10. FECHA DE LA REVISIÓN DEL TEXTO
+Febrero 2023
+
+ 
+
+La información detallada de este medicamento está disponible en la página web de la Agencia Española de Medicamentos y Productos Sanitarios (AEMPS) (http://www.aemps.gob.es/)
