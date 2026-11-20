@@ -1,0 +1,190 @@
+{
+  "doc_id": "NCT04953962",
+  "categoria": "03_ensayos",
+  "tripletas": [
+    {
+      "sujeto": "CBP501",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic Cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cisplatin",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic Cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nivolumab",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic Cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic Cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Stage IV",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CBP501",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Cisplatin",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CBP501",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Nivolumab",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CBP501/Cisplatin/Nivolumab Combinations",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CBP501/Cisplatin/Nivolumab Combinations",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Stage IV exocrine pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CBP501",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.98
+    },
+    {
+      "sujeto": "cisplatin",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.98
+    },
+    {
+      "sujeto": "nivolumab",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.98
+    },
+    {
+      "sujeto": "CBP501 25 mg/m2 + cisplatin 60 mg/m2",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.98
+    },
+    {
+      "sujeto": "cisplatin 60 mg/m2 + nivolumab 240 mg",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.98
+    },
+    {
+      "sujeto": "CBP501 (25)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Cisplatin",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CBP501 (25)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Nivolumab",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CBP501 (16)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Cisplatin",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CBP501 (16)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Nivolumab",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cisplatin",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Nivolumab",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nivolumab",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Cisplatin",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cisplatin",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Liver metastases",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cisplatin",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Creatinine clearance < 45 mL/min",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cisplatin",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Creatinine clearance < 60 mL/min",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CNS metastases",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic Cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    }
+  ]
+}

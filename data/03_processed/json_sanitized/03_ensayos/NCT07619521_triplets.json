@@ -1,0 +1,446 @@
+{
+  "doc_id": "NCT07619521",
+  "categoria": "03_ensayos",
+  "tripletas": [
+    {
+      "sujeto": "Selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic Ductal Adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Metastatic Pancreatic Ductal Adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Unresectable Pancreatic Ductal Adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Stage III Pancreatic Cancer AJCC v8",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Stage IV Pancreatic Cancer AJCC v8",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.98
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Metastatic Pancreatic Ductal Adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Unresectable Pancreatic Ductal Adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Stage III Pancreatic Cancer AJCC v8",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Stage IV Pancreatic Cancer AJCC v8",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic Ductal Adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "HER2",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic Ductal Adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "DS-8201a",
+      "tipo_objeto": "DRUG",
+      "score": 0.98
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Selumetinib",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Trastuzumab Deruxtecan",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Advanced Pancreatic Ductal Adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Advanced Pancreatic Ductal Adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.98
+    },
+    {
+      "sujeto": "Selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Procedure: Diagnostic Imaging Testing",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Procedure: Echocardiography Test",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Procedure: Multigated Acquisition Scan",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Procedure: Biospecimen Collection",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Procedure: Diagnostic Imaging Testing",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Procedure: Echocardiography Test",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Procedure: Multigated Acquisition Scan",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Procedure: Biospecimen Collection",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Adenocarcinoma de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS mutation",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Adenocarcinoma de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "HER2",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Adenocarcinoma de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CPK",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Hepatitis B virus (HBV) infection",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Hepatitis C virus (HCV) infection",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "HCV infection",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cardiac disease",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FSH",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.92
+    },
+    {
+      "sujeto": "Estradiol",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.92
+    },
+    {
+      "sujeto": "DS-8201a (trastuzumab deruxtecan)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Interstitial lung disease (ILD)",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a (trastuzumab deruxtecan)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Pneumonitis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Selumetinib (AZD6244 hydrogen sulfate)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Retinal adverse events",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Ocular toxicity",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Corneal disease",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Pneumonitis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Corticosteroids",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Anticonvulsants",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Live vaccines",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Intranasal influenza vaccines",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Systemic anticancer therapy",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Investigational agents",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Radiotherapy",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Cytopenias",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "selumetinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Gastrointestinal toxicity",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Systemic anticancer therapy",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Investigational agents",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Radiotherapy",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Cytopenias",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DS-8201a",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Gastrointestinal toxicity",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    }
+  ]
+}

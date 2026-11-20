@@ -1,0 +1,1158 @@
+{
+  "doc_id": "Irinotecan",
+  "categoria": "04_farmacos",
+  "tripletas": [
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer colorrectal avanzado",
+      "tipo_objeto": "DISEASE",
+      "score": 0.98
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "5-Fluorouracilo",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Ácido folínico",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Cetuximab",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Bevacizumab",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Capecitabina",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Hierba de San Juan",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Vacunas vivas atenuadas",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Irinotecán",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Vacunas vivas atenuadas",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Vacunas muertas o inactivadas",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Vacunas muertas o inactivadas",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Irinotecán",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Inhibidores o inductores potentes del citocromo P450 3A4",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Simultaneidad con inhibidores o inductores potentes del citocromo P450 3A4",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Atazanavir",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Ketoconazol",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Regorafenib",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Crizotinib",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Idelalisib",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Vitamina K antagonistas",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Ciclosporina",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Tacrolimus",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Agentes bloqueantes neuromusculares",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Hemorragia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Eventos trombóticos",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Bloqueo neuromuscular",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-Fluorouracil",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Ácido folínico",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Mielosupresión",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Diarrea tardía",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Neutropenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Anemia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Trombocitopenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Síndrome colinérgico agudo transitorio grave",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Diarrea temprana",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Dolor abdominal",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Sudoración",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Miosis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de la salivación",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Infección",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Neutropenia febril",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Disminución del apetito",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Síndrome colinérgico",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Diarrea",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Vómitos",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Náuseas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Estreñimiento",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Alopecia (reversible)",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Inflamación de las mucosas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Pirexia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Astenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de la creatinina en sangre",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de las transaminasas (ALT y AST)",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de la bilirrubina en sangre",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de la fosfatasa alcalina en sangre",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Neutropenia grave",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Infecciones",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Infecciones asociadas con neutropenia grave",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Muerte",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Síndrome colinérgico agudo",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de transaminasas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de fosfatasa alcalina",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de bilirrubina",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de creatinina",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Trombosis/embolia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Hipertensión",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Isquemia miocárdica/infarto",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cetuximab",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Irinotecán",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Dermatitis acneiforme",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Hipersensibilidad",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer colorrectal",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "5FU",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "FA",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Leucopenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Diarrea grave",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Náuseas graves",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Vómitos graves",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Astenia grave",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Pirexia sin infección",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Hipopotasemia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Hiponatremia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Dolor",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Sepsis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Candidiasis gastrointestinal",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Hipomagnesemia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Erupción cutánea",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Manifestaciones en la piel",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Alteración de la marcha",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Confusión",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Cefalea",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Síncope",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Enrojecimiento",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Bradicardia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Infección del tracto urinario",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Dolor de pecho",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de la gamma glutamil transferasa",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Extravasión",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Síndrome de lisis tumoral",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Trastornos cardiovasculares",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Angina de pecho",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Parada cardiaca",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Infarto de miocardio",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Isquemia de miocardio",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Colitis pseudomembranosa",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Infecciones por hongos",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Infecciones víricas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Trombocitopenia con anticuerpos antiplaquetarios",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Deshidratación",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Hipovolemia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Reacción anafiláctica",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Trastornos del habla generalmente transitorios",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Parestesia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Contracciones musculares involuntarias",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Insuficiencia cardiocirculatoria",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Enfermedad pulmonar intersticial",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Disnea",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Obstrucción intestinal",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Esteatohepatitis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Esteatosis hepática",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Reacción en la piel",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Reacciones en el lugar de la perfusión",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de la amilasa",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de la lipasa",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de las transaminasas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Calambres",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Insuficiencia renal",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Insuficiencia renal aguda",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Hipotensión",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Neumonía por Pneumocystis jirovecii",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aspergilosis broncopulmonar",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Cándida sistémica",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Herpes zóster",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Gripe",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Reactivación de la hepatitis B",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Colitis por citomegalovirus",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer colorrectal metastásico",
+      "tipo_objeto": "DISEASE",
+      "score": 0.98
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "5-Fluorouracil",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "5FU/AF",
+      "tipo_objeto": "REGIMEN",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Estado de deterioro definitivo",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "5-FU/AF",
+      "tipo_objeto": "REGIMEN",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Carcinoma metastásico de colon o recto",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Deterioro definitivo",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "5-FU",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Carcinoma colorrectal metastásico",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Oxaliplatino",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Heces líquidas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    }
+  ]
+}

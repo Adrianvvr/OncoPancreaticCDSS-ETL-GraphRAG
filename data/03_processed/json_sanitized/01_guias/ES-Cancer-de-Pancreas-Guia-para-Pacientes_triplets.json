@@ -1,0 +1,1518 @@
+{
+  "doc_id": "ES-Cancer-de-Pancreas-Guia-para-Pacientes",
+  "categoria": "01_guias",
+  "tripletas": [
+    {
+      "sujeto": "Cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Tabaquismo",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Mutaciones en ciertos genes",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Antecedentes familiares de cáncer de páncreas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "CAUSES",
+      "objeto": "Muerte por cáncer",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "resecabilidad",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "resecabilidad limítrofe",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "irresecable",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FOLFIRINOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas metastásico",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nab-paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Gemcitabina",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas metastásico",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nanoliposomal irinotecan",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas metastásico",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-FU/FA",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas metastásico",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "apoyo nutricional",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "diabetes",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "cuidados paliativos",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "insulina",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Adenocarcinoma",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cáncer de páncreas metastásico",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Metástasis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "diabetes de reciente aparición",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "fatiga",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "ictericia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "pérdida de peso",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "dolor abdominal",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "ictericia",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "tomografía computarizada",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Tomografía computarizada",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Ecografía endoscópica",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Ecografía endoscópica",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Ecografía endoscópica",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Biopsias",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "IRM",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Estadio IA",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Estadio IB",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Estadio IIA",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "T1",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Estadio IA",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "T2",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Estadio IB",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "T3",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Estadio IIA",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Estadio IIB",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Estadio III",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Estadio IV",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "equipo multidisciplinario",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cirugía",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Resección limítrofe",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Resección irresecable",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Resección limítrofe",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Resección irresecable",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "resección",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Cáncer de páncreas irresecable",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "ácido folínico",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FOLFIRINOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nab-paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-FU/FA",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nal-IRI",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Quimiorradioterapia",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Radioterapia",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Radioterapia",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Capecitabina",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Capecitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "resección",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "cáncer de páncreas resecable",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "quimioterapia adyuvante",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "COMBINES_WITH",
+      "objeto": "resección",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "resección",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "resección",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "tumor de cabeza del páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "resección",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "tumor del cuerpo o cola del páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "resección",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "tumores de cabeza del páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "resección",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "tumores del cuerpo o cola del páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "resección",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "tumores del bazo",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "capecitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "gemcitabina",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas de resecabilidad limítrofe",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FOLFIRINOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas de resecabilidad limítrofe",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Quimioterapia neoadyuvante",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas de resecabilidad limítrofe",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Quimiorradioterapia",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas de resecabilidad limítrofe",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "neoadyuvante",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "quimioterapia adyuvante",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Adenocarcinoma de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FOLFIRINOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nab-paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nal-IRI",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-FU/FA",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cuidados de apoyo",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Insuficiencia exocrina pancreática",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Diabetes",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cáncer de páncreas",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Insulina",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cirugía del cáncer de páncreas",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cirugía del cáncer de páncreas",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CAUSES",
+      "objeto": "Problemas de salud a largo plazo",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Radioterapia",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CAUSES",
+      "objeto": "Fatiga",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Radioterapia",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CAUSES",
+      "objeto": "Náuseas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Radioterapia",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CAUSES",
+      "objeto": "Diarrea",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Radioterapia",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CAUSES",
+      "objeto": "Indigestión",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Radioterapia",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CAUSES",
+      "objeto": "Infecciones",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Radioterapia",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CAUSES",
+      "objeto": "Dolor",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Agranulocitosis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Alopecia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Anemia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Anorexia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Astenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Broncoespasmo",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Diarrea",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Efectos cardíacos",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Fatiga",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Hemorragias nasales",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Hiperuricemia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Inmunosupresión",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Leucopenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Mucositis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Náuseas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Neutropenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Pancitopenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Síndrome mano-pie",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Trombocitopenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-fluorouracilo (5-FU)",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Vómitos",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Capecitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Anorexia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Alopecia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Anemia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de las enzimas hepáticas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Disnea",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Edema",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Erupción",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Leucopenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Náuseas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Proteínas en la orina",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Sangre en la orina",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Síntomas parecidos a los de la gripe",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Trombocitopenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Vómitos",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Alopecia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Anemia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de las enzimas hepáticas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de las infecciones",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Diarrea",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Fiebre",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Náuseas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Neutropenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Trombocitopenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Vómitos",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Alopecia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Anemia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Anorexia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Astenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Bajos niveles de potasio y magnesio en sangre",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Deshidratación",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Diarrea",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Disminución de peso",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Dolor abdominal",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Edema periférico",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Estomatitis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Fatiga",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Fiebre",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Leucopenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Linfopenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Mialgia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Náuseas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Neutropenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Trombocitopenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecan liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Vómitos",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "nab-paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Alopecia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "nab-paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Anemia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "nab-paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Anorexia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "nab-paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Artralgia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Alopecia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Alteraciones del gusto",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Altos niveles de glucosa en sangre",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Altos niveles de sodio en sangre",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Anemia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Anorexia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Astenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de las enzimas hepáticas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Aumento de las infecciones",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Bajos niveles de potasio en sangre",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Diarrea",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Disnea",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Dolor abdominal",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Dolor de cabeza",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Dolor de espalda",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Estomatitis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Estreñimiento",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Fatiga",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Fiebre",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Fiebre nasal",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Neuropatía periférica",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Neutropenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Reacción alérgica",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CA 19-9",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CA 19-9 aumentando",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Tomografía computarizada",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "cirugía",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CAUSES",
+      "objeto": "reducción de la producción de enzimas digestivas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "cirugía",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CAUSES",
+      "objeto": "reducción de la producción de insulina",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    }
+  ]
+}

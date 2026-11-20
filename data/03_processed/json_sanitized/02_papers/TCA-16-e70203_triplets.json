@@ -1,0 +1,582 @@
+{
+  "doc_id": "TCA-16-e70203",
+  "categoria": "02_papers",
+  "tripletas": [
+    {
+      "sujeto": "KRAS G12D",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Colorectal cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Non-small cell lung cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "RMC-9805",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PROTACs",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Monobodies",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Non-small cell lung cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Colorectal cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "NSCLC",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "PDAC",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D mutation",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Immune response",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D mutation",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Tumor microenvironment",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D mutation",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "CDKN2A/B loss",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D mutation",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "MET abnormalities",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D mutation",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Immunosuppressive immune cells",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D mutation",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Oligomer formation",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D mutation",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Aggregation",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D mutation",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Oligomers",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D mutation",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Drug sensitivity",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "BI2852",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "THZ835",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "INCB161734",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "QLC1101",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "GFH375",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "AZD0022",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "LY3962673",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "AC-4001",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "AC-4002",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "AC-4003",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "QLC1101",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "Phase I/II clinical trials",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "GFH375",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "Phase I/II trials",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "AZD0022",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "Phase I/IIa trials",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "LY3962673",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "Phase Ia/Ib trials",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KD-8",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "KRAS G12D mutant cells",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "Phase I/II trial",
+      "tipo_objeto": "TRIAL",
+      "score": 0.98
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "NCT05737706",
+      "tipo_objeto": "TRIAL",
+      "score": 0.98
+    },
+    {
+      "sujeto": "HRS-4642",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "Phase I trial",
+      "tipo_objeto": "TRIAL",
+      "score": 0.98
+    },
+    {
+      "sujeto": "HRS-4642",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "NCT05533463",
+      "tipo_objeto": "TRIAL",
+      "score": 0.98
+    },
+    {
+      "sujeto": "RMC-9805",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "Phase I/Ib trial",
+      "tipo_objeto": "TRIAL",
+      "score": 0.98
+    },
+    {
+      "sujeto": "RMC-9805",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "NCT06040541",
+      "tipo_objeto": "TRIAL",
+      "score": 0.98
+    },
+    {
+      "sujeto": "INCB161734",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "Phase 1/2 trial",
+      "tipo_objeto": "TRIAL",
+      "score": 0.98
+    },
+    {
+      "sujeto": "INCB161734",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "NCT06179160",
+      "tipo_objeto": "TRIAL",
+      "score": 0.98
+    },
+    {
+      "sujeto": "QLC1101",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "Phase I trial",
+      "tipo_objeto": "TRIAL",
+      "score": 0.98
+    },
+    {
+      "sujeto": "QLC1101",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "NCT06403735",
+      "tipo_objeto": "TRIAL",
+      "score": 0.98
+    },
+    {
+      "sujeto": "GFH375",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "Phase 1/2 trial",
+      "tipo_objeto": "TRIAL",
+      "score": 0.98
+    },
+    {
+      "sujeto": "LY3962673",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "Phase 1a/1b trial",
+      "tipo_objeto": "TRIAL",
+      "score": 0.98
+    },
+    {
+      "sujeto": "LY3962673",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "NCT06586515",
+      "tipo_objeto": "TRIAL",
+      "score": 0.98
+    },
+    {
+      "sujeto": "AC-4001/4002/4003",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "AC-4001/4002/4003",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "NCT06040541",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "AST2169 liposome",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Radiotherapy",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "AST2169 liposome",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Immunotherapy",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "AST2169 liposome",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Inhibitors of MEK",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "AST2169 liposome",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Inhibitors of PI3K",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "AST2169 liposome",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Inhibitors of CDK4/6",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "AST2169 liposome",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Down regulation of signaling pathways",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "AST2169 liposome",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Advanced solid tumors",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Peptide inhibitors",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "LUNA18",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "Phase 1 clinical trials",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "LUNA18",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Nanoparticle",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.9
+    },
+    {
+      "sujeto": "LUNA18",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Antibody delivery systems",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.9
+    },
+    {
+      "sujeto": "ASP3082",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "ASP3082",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "Phase 1 trials",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Advanced solid tumors",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D inhibitors",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "MEK inhibitors",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D inhibitors",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "SHP2 inhibitors",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D inhibitors",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "PROTAC degraders",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D inhibitors",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Adebrelimab (SHR-A1921)",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "BI-3406",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "SOS1",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "BI-3406",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12 and G13 variants",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    }
+  ]
+}

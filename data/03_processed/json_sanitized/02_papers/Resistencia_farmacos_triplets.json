@@ -1,0 +1,1038 @@
+{
+  "doc_id": "Resistencia_farmacos",
+  "categoria": "02_papers",
+  "tripletas": [
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Adenocarcinoma de páncreas ductal",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "5-Fluorouracil",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Capecitabine",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FOLFIRINOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Resectable tumors",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Chemo(radio)therapy",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Micrometastases",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Erlotinib",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Nab-paclitaxel",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Metastatic disease",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-Fluorouracil",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "(Nanoliposomal) Irinotecan",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-Fluorouracil",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Oxaliplatin",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-Fluorouracil",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Metastatic disease",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Other cytotoxic chemotherapies",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Hematological adverse events",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Nonhematological adverse events",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Thromboembolism",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Vomiting",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Fatigue",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Elevated levels of alanine aminotransferase",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "hENTs",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "hCNTs",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "hENT2",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "hCNT1",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "hCNT2",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "hCNT3",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "DNA",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "CDA",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "DCTD",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Resistance",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "NDPK",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "NMPK",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "5′NT",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "RR",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "Ribonucleotide reductase",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Apoptosis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Cell cycle arrest",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "hENT1",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "dCK",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "hENT1",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Gemcitabine resistance",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "dCK",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "RR",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "RRM1",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "RRM1",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "resected Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "RRM1",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "gemcitabine resistance",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "PPP",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CDA",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Poor clinical outcome",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CDA",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Gemcitabine toxicity",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "NT5C1A",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FASN",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Midkine (MK)",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "CAUSES",
+      "objeto": "Notch2 signaling",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CD44",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "CSCs",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CSCs",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Stemness",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CSCs",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "EMT",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CSCs",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Resistance to therapy",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "SOX2",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "CSCs",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CSCs",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Proliferation",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "EMT",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Stemness",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "EMT",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Resistance to therapy",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CSCs",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Self-renewal",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CSCs",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Differentiation",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CSCs",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Tumor relapse",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "HIF-1α",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MUC1",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "HIF-1α",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "MUC1",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "ICAM-1",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CCL2",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CCL5",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Arginase 1 (Arg1)",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Microbiome",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Microbiome",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Oncogenesis",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Microbiome",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "CAUSES",
+      "objeto": "Gemcitabine resistance",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Ciprofloxacin",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Gemcitabine",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Ciprofloxacin",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Colon cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "NGF",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "NGF",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Obesity",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "NGF",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Obesity-induced microbiota dysbiosis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "NGF",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Reduced blood flow",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "NGF",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Hypoxia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "NGF",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Inflammation",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PEGylation",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Gemcitabine",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine-squalene",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CP-4126",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Gemcitabine phosphoramidate prodrug",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine phosphoramidate prodrug",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "IPI-926",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Gemcitabine",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "IPI-926",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "VS-4718",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Gemcitabine",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "VS-4718",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Nab-paclitaxel",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "VS-4718",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Hyaluronan",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PEGPH20",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Gemcitabine",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PEGPH20",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Evofosfamide",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Evofosfamide",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Gemcitabine",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "AZD7507",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Gemcitabine",
+      "tipo_objeto": "DRUG",
+      "score": 0.98
+    },
+    {
+      "sujeto": "AZD7507",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.98
+    },
+    {
+      "sujeto": "anti-CSF1R",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "anti-PD-L1 monoclonal antibody",
+      "tipo_objeto": "DRUG",
+      "score": 0.98
+    },
+    {
+      "sujeto": "anti-CSF1R",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.98
+    },
+    {
+      "sujeto": "anti-CSF1R",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Advanced colorectal or pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.98
+    },
+    {
+      "sujeto": "GW2580",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Gemcitabine",
+      "tipo_objeto": "DRUG",
+      "score": 0.98
+    },
+    {
+      "sujeto": "GW2580",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.98
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Gemcitabine resistance",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "leflunomide",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "NCT04997993",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "LDH inhibitors",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "TP53 mutational status",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FX11",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "TP53 mutational status",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FX11",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "TIGAR expression levels",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PDA",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Loss of p53 function",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PDA",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "EMT phenotypes",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "p53",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "EMT phenotypes",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "zebularine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "decitabine",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "decitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "tetrahydrouridine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Advanced chemorefractory Pancreatic Ductal Adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Simvastatina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Gemcitabina",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Metabolic reprogramming",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Type 2 diabetes mellitus",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Metformin",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "NCT02336087",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Metformin",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "NCT02048384",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Metformin",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "NCT04245644",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Metformin",
+      "tipo_sujeto": "DRUG",
+      "relacion": "EVALUATED_IN",
+      "objeto": "NCT02978547",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Metformin",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    }
+  ]
+}

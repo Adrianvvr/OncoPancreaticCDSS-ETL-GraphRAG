@@ -1,0 +1,1246 @@
+{
+  "doc_id": "PIIS0923753423008244",
+  "categoria": "01_guias",
+  "tripletas": [
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Familial PC",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Familial syndromes",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "BRCA2",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Genetic abnormalities",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Germline mutations",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Somatic mutations",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Tobacco",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Helicobacter pylori infection",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Overweight/obesity",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Type 2 diabetes mellitus",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Chronic pancreatitis",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Annual EUS and/or pancreatic MRI",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "jaundice",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "abdominal pain",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "weight loss",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "steatorrhoea",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "new onset or worsening of pre-existing diabetes",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "duodenal obstruction",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Computed tomography (CT)",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Computed tomography (CT)",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Intravenous iodinated non-ionic contrast agent",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Computed tomography (CT)",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Multiphase thin-section images",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Computed tomography (CT)",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Pancreatic, arterial and portal venous phases",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Computed tomography (CT)",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Intravenous iodinated non-ionic contrast agent injection",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Computed tomography (CT)",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Multiphase contrast-enhanced sequences",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PET-CT",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PET-CT",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CAUSES",
+      "objeto": "False-positive rate",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.7
+    },
+    {
+      "sujeto": "PET-CT",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CAUSES",
+      "objeto": "False-negative rate",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.7
+    },
+    {
+      "sujeto": "EUS",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "EUS",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Benign chronic pancreatitis",
+      "tipo_objeto": "DISEASE",
+      "score": 0.7
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic acinar-cell carcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic neuroendocrine tumour",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic neuroendocrine carcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic intraepithelial neoplasia",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Intraductal papillary mucinous neoplasm",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Mucinous cystic neoplasm",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Serous cystadenoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "BRCA1",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Genomic instability",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "BRCA2",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Genomic instability",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PALB2",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Genomic instability",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "BRCA1",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "DDR deficiency",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "BRCA2",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "DDR deficiency",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PALB2",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "DDR deficiency",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PC",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Genomic instability",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PC",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "DDR deficiency",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PC",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "DDR/HRR pathways",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS-wild type",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Metastatic PDAC",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CA 19-9",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CA 19-9",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Lewis antigen-negative phenotype",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CA 19-9",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Worse prognosis after surgery",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Multiphasic contrast-enhanced thoracic-abdominal and pelvic CT",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Multiphasic contrast-enhanced thoracic-abdominal and pelvic CT",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "MRI",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Multiphasic contrast-enhanced thoracic-abdominal and pelvic CT",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "PET-CT",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Multiphasic contrast-enhanced thoracic-abdominal and pelvic CT",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Hepatic MRI",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Multiphasic contrast-enhanced thoracic-abdominal and pelvic CT",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "EUS",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CT",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRI",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Biopsy",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Hepatic MRI",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Biopsy by EUS",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Biopsy of metastasis or primary tumour",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "BRCA",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CA 19-9",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS-wt",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MSI",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "NTRK fusions",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "ECOG performance status (PS)",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "BRPC",
+      "tipo_objeto": "DISEASE",
+      "score": 0.92
+    },
+    {
+      "sujeto": "Impaired general condition (ECOG PS ≥2)",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Albumin <35 g/l",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Presence of synchronous metastases",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Liver metastases",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Number of metastatic sites",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "High serum CA 19-9",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "anatomical NCCN criteria",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "biological and conditional features",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Minimally invasive techniques",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "open surgery",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Surgical resection",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "mFOLFIRINOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "gemcitabine-capecitabine",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-FU-LV",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FOLFIRINOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CRT",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "GN",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FOLFIRINOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Endoscopic drainage",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Neoadjuvant ChT",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Neoadjuvant chemoradiotherapy (CRT)",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatectomy",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Adjuvant ChT",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "ChT",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "ChT",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "COMBINES_WITH",
+      "objeto": "CRT",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine-nab-paclitaxel (GN)",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CRT",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic resection",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "mFOLFIRINOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Locally advanced pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "mFOLFIRINOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Locoregional disease",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "LAPC",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Frozen section analysis",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Radical anterograde modular pancreatosplenectomy",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "UICC TNM eighth edition staging system",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Standard lymphadenectomy",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Neoadjuvant therapy",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "mFOLFIRINOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "gemcitabine-capecitabine",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-FU",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Induction ChT",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "BRPC",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CRT",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "BRPC",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Capecitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "BRPC",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Arterial resection",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Capecitabina",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Cisplatin",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "NALIRIFOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nanoliposomal irinotecan",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "5-FU-LV",
+      "tipo_objeto": "REGIMEN",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nanoliposomal irinotecan",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "poor nutritional status",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "poor PS",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "BRCA mutations",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nanoliposomal irinotecan-5-FU-LV",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "mFOLFOX6",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pembrolizumab",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Microsatellite instability high/mismatch repair deficient",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "pembrolizumab",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "pembrolizumab",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic acinar-cell carcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "pembrolizumab",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "RAF fusions",
+      "tipo_objeto": "MUTATION",
+      "score": 0.9
+    },
+    {
+      "sujeto": "pembrolizumab",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "DNA repair genes",
+      "tipo_objeto": "MUTATION",
+      "score": 0.9
+    },
+    {
+      "sujeto": "NTRK fusions",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "KRAS-wt tumours",
+      "tipo_objeto": "DISEASE",
+      "score": 0.9
+    },
+    {
+      "sujeto": "NTRK fusions",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.9
+    },
+    {
+      "sujeto": "Nanoliposomal irinotecane",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine-based regimen",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Olaparib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Larotrectinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Entrectinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatin-based second-line treatment",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Symptom-directed care",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "BSC",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "BRCA genetic testing",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "olaparib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Platinum-based ChT",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "olaparib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "pembrolizumab",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "MSI-H/dMMR pancreatic tumours",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "larotrectinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "NTRK fusion pancreatic tumours",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "entrectinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "NTRK fusion pancreatic tumours",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic cancer",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Recurrence",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Exercise",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Sarcopenia",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Exercise",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Cachexia",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Prehabilitation",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Resectable PC",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Primary prevention",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "VTE",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "LMWH therapy",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Major bleeding",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "LMWH therapy",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "VTE recurrence",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "LMWH therapy",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Major bleeding",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "ChT",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Primary thromboprophylaxis",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "ChT",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "CAUSES",
+      "objeto": "Thrombosis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    }
+  ]
+}

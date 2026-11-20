@@ -1,0 +1,502 @@
+{
+  "doc_id": "TRABAJO DE Cancer Pancreas",
+  "categoria": "02_papers",
+  "tripletas": [
+    {
+      "sujeto": "gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "nab-paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FOLFIRINOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "olaparib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "erlotinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "nimotuzumab",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "ascorbato farmacológico intravenoso",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "inmunoterapia con inhibidores de puntos de control",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "minociclina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Carcinoma ductal pancreático",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Nab-paclitaxel",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "oxaliplatino",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FOLFIRINOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Carcinoma ductal pancreático",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FOLFIRINOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "COMBINES_WITH",
+      "objeto": "irinotecán",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "oxaliplatino",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "erlotinib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Carcinoma ductal pancreático",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "olaparib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Carcinoma ductal pancreático",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nimotuzumab",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Gemcitabina",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nimotuzumab",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Oxaliplatino",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nimotuzumab",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Adenocarcinoma pancreático avanzado",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Ascorbato farmacológico intravenoso",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Gemcitabina",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Ascorbato farmacológico intravenoso",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Nab-paclitaxel",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Ascorbato farmacológico intravenoso",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer pancreático metastásico",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Olaparib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer pancreático metastásico con mutación germinal en BRCA1 o BRCA2",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán nanoliposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "5-Fluorouracilo",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán nanoliposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Leucovorina",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán nanoliposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Adenocarcinoma de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán nanoliposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Estadio IV de adenocarcinoma de páncreas",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán nanoliposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas resecable limítrofe",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán nanoliposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Ansiedad",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán nanoliposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Distensión abdominal",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán nanoliposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Diarrea",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán nanoliposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Sequedad de boca",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán nanoliposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Fatiga",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán nanoliposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Náuseas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán nanoliposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Dolor generalizado",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán nanoliposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Dolor abdominal",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán nanoliposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Alteraciones del gusto",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nab-paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Leucovorina simplificada",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nab-paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "5-Fluorouracilo",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nab-paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Adenocarcinoma de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nab-paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Estadio IV de adenocarcinoma de páncreas",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nab-paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas resecable limítrofe",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nab-paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Fatiga",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Nab-paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Dolor",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Radioterapia corporal estereotáctica (SBRT)",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Quimiorradioterapia",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Radioterapia corporal estereotáctica (SBRT)",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas localmente avanzado irresecable",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Radioterapia corporal estereotáctica (SBRT)",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas localmente avanzado",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Fisioterapia intensiva",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas localmente avanzado",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Seguimiento nutricional mediante aplicación móvil Noom",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas localmente avanzado",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Seguimiento nutricional mediante aplicación móvil Noom",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas localmente avanzado irresecable",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "nab-paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "carcinoma ductal pancreático",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "gemcitabina",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "irinotecán",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "irinotecán liposomal",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "carcinoma ductal pancreático",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "irinotecán liposomal",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "carcinoma ductal pancreático",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "nimotuzumab",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "carcinoma ductal pancreático",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "ascorbato intravenoso",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "carcinoma ductal pancreático",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "minociclina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "carcinoma ductal pancreático",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    }
+  ]
+}

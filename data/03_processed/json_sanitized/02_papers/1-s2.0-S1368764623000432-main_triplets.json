@@ -1,0 +1,198 @@
+{
+  "doc_id": "1-s2.0-S1368764623000432-main",
+  "categoria": "02_papers",
+  "tripletas": [
+    {
+      "sujeto": "pancreatic ductal adenocarcinoma",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Cancer-associated fibroblasts",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Drug resistance",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer cells",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "miR-3173-5p",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "miR-3173-5p",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "miR-3173-5p",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "TARGETS",
+      "objeto": "ACSL4",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "miR-3173-5p",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "CAUSES",
+      "objeto": "Ferroptosis resistance",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "miR-3173-5p",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "CAUSES",
+      "objeto": "GEM resistance",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "miR-3173-5p",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "CAUSES",
+      "objeto": "GEM sensitivity decrease",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "GEM",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "miR-3173-5p",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "ferroptosis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "miR-3173-5p",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "GEM resistance",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "miR-3173-5p",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "PDAC tumor",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "GEM",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "GEM",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Drug resistance",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "GEM",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "ACSL4",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "GEM",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Ferroptosis suppression",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "GEM",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Exosome-derived miR-3173–5p increase",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "miR-3173–5p",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "TARGETS",
+      "objeto": "ACSL4",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "miR-3173–5p",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "CAUSES",
+      "objeto": "GEM resistance",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Resistance",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer cells",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    }
+  ]
+}
