@@ -54,14 +54,6 @@
       "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Excipientes",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Oxaliplatino",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
       "objeto": "Pacientes en período de lactancia",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
@@ -103,7 +95,7 @@
       "tipo_sujeto": "DRUG",
       "relacion": "CONTRAINDICATED_IN",
       "objeto": "Vacunación con vacunas vivas o vivas atenuadas",
-      "tipo_objeto": "ADVERSE_EVENT",
+      "tipo_objeto": "PROCEDURE",
       "score": 0.95
     },
     {
@@ -614,54 +606,6 @@
       "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Gr 3",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Oxaliplatino",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Gr 4",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Oxaliplatino",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Todos los grados",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Oxaliplatino",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Adyuvante",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Oxaliplatino",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Gr 3 (Adyuvante)",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Oxaliplatino",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Gr 4 (Adyuvante)",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Oxaliplatino",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
       "objeto": "Neuropatía periférica",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
@@ -997,14 +941,6 @@
     {
       "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Efectos citotóxicos y antitumorales",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Oxaliplatino",
-      "tipo_sujeto": "DRUG",
       "relacion": "TREATS",
       "objeto": "Cáncer de colon colorrectal",
       "tipo_objeto": "DISEASE",
@@ -1023,7 +959,7 @@
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
       "objeto": "5-Fluorouracil/ácido folínico",
-      "tipo_objeto": "DRUG",
+      "tipo_objeto": "REGIMEN",
       "score": 0.95
     },
     {
@@ -1039,7 +975,7 @@
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
       "objeto": "5-FU/FA",
-      "tipo_objeto": "DRUG",
+      "tipo_objeto": "REGIMEN",
       "score": 0.95
     },
     {
@@ -1070,23 +1006,7 @@
       "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "TREATS",
-      "objeto": "Población pediátrica",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Oxaliplatino",
-      "tipo_sujeto": "DRUG",
-      "relacion": "TREATS",
       "objeto": "Tumores sólidos",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Oxaliplatino",
-      "tipo_sujeto": "DRUG",
-      "relacion": "TREATS",
-      "objeto": "Paciente de 7 meses a 22 años de edad",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     }

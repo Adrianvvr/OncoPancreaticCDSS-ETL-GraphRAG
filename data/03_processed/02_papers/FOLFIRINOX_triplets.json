@@ -67,30 +67,6 @@
       "score": 0.95
     },
     {
-      "sujeto": "NALIRIFOX",
-      "tipo_sujeto": "REGIMEN",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Pancreatic ductal adenocarcinoma",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "FOLFIRINOX",
-      "tipo_sujeto": "REGIMEN",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Pancreatic ductal adenocarcinoma",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "GEM-NABP",
-      "tipo_sujeto": "REGIMEN",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Pancreatic ductal adenocarcinoma",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
       "sujeto": "FOLFIRINOX",
       "tipo_sujeto": "REGIMEN",
       "relacion": "TREATS",
@@ -135,38 +111,6 @@
       "tipo_sujeto": "REGIMEN",
       "relacion": "CAUSES",
       "objeto": "Peripheral neuropathy",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "NALIRIFOX",
-      "tipo_sujeto": "REGIMEN",
-      "relacion": "CAUSES",
-      "objeto": "Overall efficacy",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "FOLFIRINOX",
-      "tipo_sujeto": "REGIMEN",
-      "relacion": "CAUSES",
-      "objeto": "Overall efficacy",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "NALIRIFOX",
-      "tipo_sujeto": "REGIMEN",
-      "relacion": "CAUSES",
-      "objeto": "Median OS",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "FOLFIRINOX",
-      "tipo_sujeto": "REGIMEN",
-      "relacion": "CAUSES",
-      "objeto": "Median OS",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },

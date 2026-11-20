@@ -244,15 +244,7 @@
     },
     {
       "sujeto": "FOLFOX",
-      "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
-      "objeto": "FOLFIRINOX",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "FOLFOX",
-      "tipo_sujeto": "DRUG",
+      "tipo_sujeto": "REGIMEN",
       "relacion": "TREATS",
       "objeto": "Pancreatic cancer",
       "tipo_objeto": "DISEASE",
@@ -273,46 +265,6 @@
       "objeto": "Pancreatic cancer",
       "tipo_objeto": "DISEASE",
       "score": 0.95
-    },
-    {
-      "sujeto": "gemfibrozil",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Pancreatic Cancer",
-      "tipo_objeto": "DISEASE",
-      "score": 0.98
-    },
-    {
-      "sujeto": "rifampin",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Pancreatic Cancer",
-      "tipo_objeto": "DISEASE",
-      "score": 0.98
-    },
-    {
-      "sujeto": "testosterone-lowering therapy",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Prostate Cancer",
-      "tipo_objeto": "DISEASE",
-      "score": 0.98
-    },
-    {
-      "sujeto": "gemcitabine",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Pancreatic Cancer",
-      "tipo_objeto": "DISEASE",
-      "score": 0.98
-    },
-    {
-      "sujeto": "nab-paclitaxel",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Pancreatic Cancer",
-      "tipo_objeto": "DISEASE",
-      "score": 0.98
     }
   ]
 }

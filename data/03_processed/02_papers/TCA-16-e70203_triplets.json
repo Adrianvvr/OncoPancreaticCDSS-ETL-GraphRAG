@@ -44,24 +44,16 @@
     },
     {
       "sujeto": "PROTACs",
-      "tipo_sujeto": "ADVERSE_EVENT",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "KRAS G12D",
-      "tipo_objeto": "MUTATION",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Peptide inhibitors",
-      "tipo_sujeto": "ADVERSE_EVENT",
-      "relacion": "ASSOCIATED_WITH",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
       "objeto": "KRAS G12D",
       "tipo_objeto": "MUTATION",
       "score": 0.95
     },
     {
       "sujeto": "Monobodies",
-      "tipo_sujeto": "ADVERSE_EVENT",
-      "relacion": "ASSOCIATED_WITH",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
       "objeto": "KRAS G12D",
       "tipo_objeto": "MUTATION",
       "score": 0.95
@@ -118,14 +110,6 @@
       "sujeto": "KRAS G12D mutation",
       "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
-      "objeto": "Survival time",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "KRAS G12D mutation",
-      "tipo_sujeto": "MUTATION",
-      "relacion": "ASSOCIATED_WITH",
       "objeto": "Tumor microenvironment",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
@@ -174,14 +158,6 @@
       "sujeto": "KRAS G12D mutation",
       "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
-      "objeto": "Targeted therapy",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "KRAS G12D mutation",
-      "tipo_sujeto": "MUTATION",
-      "relacion": "ASSOCIATED_WITH",
       "objeto": "Oligomers",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
@@ -193,30 +169,6 @@
       "objeto": "Drug sensitivity",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
-    },
-    {
-      "sujeto": "MRTX1133",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Allosteric changes",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.9
-    },
-    {
-      "sujeto": "MRTX1133",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Occupying certain regions",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.9
-    },
-    {
-      "sujeto": "MRTX1133",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Regulation",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.9
     },
     {
       "sujeto": "MRTX1133",
@@ -244,14 +196,6 @@
     },
     {
       "sujeto": "INCB161734",
-      "tipo_sujeto": "DRUG",
-      "relacion": "TARGETS",
-      "objeto": "KRAS G12D",
-      "tipo_objeto": "MUTATION",
-      "score": 0.95
-    },
-    {
-      "sujeto": "AL",
       "tipo_sujeto": "DRUG",
       "relacion": "TARGETS",
       "objeto": "KRAS G12D",
@@ -357,9 +301,9 @@
     {
       "sujeto": "MRTX1133",
       "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
+      "relacion": "EVALUATED_IN",
       "objeto": "Phase I/II trial",
-      "tipo_objeto": "STAGE",
+      "tipo_objeto": "TRIAL",
       "score": 0.98
     },
     {
@@ -373,9 +317,9 @@
     {
       "sujeto": "HRS-4642",
       "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
+      "relacion": "EVALUATED_IN",
       "objeto": "Phase I trial",
-      "tipo_objeto": "STAGE",
+      "tipo_objeto": "TRIAL",
       "score": 0.98
     },
     {
@@ -389,9 +333,9 @@
     {
       "sujeto": "RMC-9805",
       "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
+      "relacion": "EVALUATED_IN",
       "objeto": "Phase I/Ib trial",
-      "tipo_objeto": "STAGE",
+      "tipo_objeto": "TRIAL",
       "score": 0.98
     },
     {
@@ -405,9 +349,9 @@
     {
       "sujeto": "INCB161734",
       "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
+      "relacion": "EVALUATED_IN",
       "objeto": "Phase 1/2 trial",
-      "tipo_objeto": "STAGE",
+      "tipo_objeto": "TRIAL",
       "score": 0.98
     },
     {
@@ -421,9 +365,9 @@
     {
       "sujeto": "QLC1101",
       "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
+      "relacion": "EVALUATED_IN",
       "objeto": "Phase I trial",
-      "tipo_objeto": "STAGE",
+      "tipo_objeto": "TRIAL",
       "score": 0.98
     },
     {
@@ -437,17 +381,17 @@
     {
       "sujeto": "GFH375",
       "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
+      "relacion": "EVALUATED_IN",
       "objeto": "Phase 1/2 trial",
-      "tipo_objeto": "STAGE",
+      "tipo_objeto": "TRIAL",
       "score": 0.98
     },
     {
       "sujeto": "LY3962673",
       "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
+      "relacion": "EVALUATED_IN",
       "objeto": "Phase 1a/1b trial",
-      "tipo_objeto": "STAGE",
+      "tipo_objeto": "TRIAL",
       "score": 0.98
     },
     {
@@ -479,7 +423,7 @@
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
       "objeto": "Radiotherapy",
-      "tipo_objeto": "DRUG",
+      "tipo_objeto": "PROCEDURE",
       "score": 0.95
     },
     {

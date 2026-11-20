@@ -111,23 +111,7 @@
       "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Hereditary syndromes",
-      "tipo_objeto": "MUTATION",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Pancreatic ductal adenocarcinoma",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Primary and secondary prevention programs",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Pancreatic ductal adenocarcinoma",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Effective medical treatments",
-      "tipo_objeto": "ADVERSE_EVENT",
+      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
@@ -237,15 +221,7 @@
     {
       "sujeto": "PDAC-oriented CT scan",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "EVALUATED_IN",
-      "objeto": "SEOM clinical guidelines for pancreatic and biliary tract cancer (2020)",
-      "tipo_objeto": "TRIAL",
-      "score": 0.95
-    },
-    {
-      "sujeto": "PDAC-oriented CT scan",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Pancreatic cancer",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -253,7 +229,7 @@
     {
       "sujeto": "PDAC-oriented CT scan",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "CAUSES",
+      "relacion": "DIAGNOSES",
       "objeto": "Pancreatic mass",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -326,38 +302,6 @@
       "sujeto": "CES2",
       "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
-      "objeto": "Serine hydrolase carboxylesterase 2 (CES2)",
-      "tipo_objeto": "MUTATION",
-      "score": 0.95
-    },
-    {
-      "sujeto": "CES2",
-      "tipo_sujeto": "MUTATION",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Intracellular bacteria",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "CES2",
-      "tipo_sujeto": "MUTATION",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Different phenotypes",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "CES2",
-      "tipo_sujeto": "MUTATION",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Interaction with immune system",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "CES2",
-      "tipo_sujeto": "MUTATION",
-      "relacion": "ASSOCIATED_WITH",
       "objeto": "Type 2 diabetes",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
@@ -411,17 +355,9 @@
       "score": 0.95
     },
     {
-      "sujeto": "frailty assessment",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Pancreatic cancer",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
       "sujeto": "pathologic diagnosis",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Pancreatic cancer",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -437,7 +373,7 @@
     {
       "sujeto": "EUS",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Pancreatic cancer",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -445,7 +381,7 @@
     {
       "sujeto": "MDCT",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Pancreatic cancer",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -453,7 +389,7 @@
     {
       "sujeto": "PETCT",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Pancreatic cancer",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -461,7 +397,7 @@
     {
       "sujeto": "liver MRI",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Pancreatic cancer",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -517,7 +453,7 @@
     {
       "sujeto": "EUS",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -533,7 +469,7 @@
     {
       "sujeto": "MDCT",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -549,7 +485,7 @@
     {
       "sujeto": "EUS-FNA",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -563,58 +499,10 @@
       "score": 0.95
     },
     {
-      "sujeto": "SMV/PV",
-      "tipo_sujeto": "STAGE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Pancreatic cancer",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "SMA",
-      "tipo_sujeto": "STAGE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Pancreatic cancer",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "CHA",
-      "tipo_sujeto": "STAGE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Pancreatic cancer",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "IVC",
-      "tipo_sujeto": "STAGE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Pancreatic cancer",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
       "sujeto": "BR-PV",
       "tipo_sujeto": "STAGE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic cancer",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "SMV/PV",
-      "tipo_sujeto": "STAGE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Pancreatic ductal adenocarcinoma",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "SMA, CA",
-      "tipo_sujeto": "STAGE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     },
@@ -740,7 +628,7 @@
     },
     {
       "sujeto": "BR",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "STAGE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic cancer",
       "tipo_objeto": "DISEASE",
@@ -768,22 +656,6 @@
       "relacion": "TREATS",
       "objeto": "Pancreatic cancer",
       "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "FOLFIRINOX",
-      "tipo_sujeto": "REGIMEN",
-      "relacion": "COMBINES_WITH",
-      "objeto": "gemcitabine",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "FOLFIRINOX",
-      "tipo_sujeto": "REGIMEN",
-      "relacion": "COMBINES_WITH",
-      "objeto": "albumin-bound paclitaxel",
-      "tipo_objeto": "DRUG",
       "score": 0.95
     },
     {
@@ -840,14 +712,6 @@
       "relacion": "TREATS",
       "objeto": "Metastatic disease",
       "tipo_objeto": "STAGE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "ne and albumin-bound paclitaxel",
-      "tipo_sujeto": "DRUG",
-      "relacion": "TREATS",
-      "objeto": "Metastatic disease",
-      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
@@ -947,51 +811,11 @@
       "score": 0.95
     },
     {
-      "sujeto": "Gemcitabine",
-      "tipo_sujeto": "DRUG",
-      "relacion": "TREATS",
-      "objeto": "ECOG/PS 0-1",
-      "tipo_objeto": "STAGE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Gemcitabine",
-      "tipo_sujeto": "DRUG",
-      "relacion": "TREATS",
-      "objeto": "ECOG 2",
-      "tipo_objeto": "STAGE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Gemcitabine",
-      "tipo_sujeto": "DRUG",
-      "relacion": "TREATS",
-      "objeto": "Fit patient",
-      "tipo_objeto": "STAGE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Gemcitabine",
-      "tipo_sujeto": "DRUG",
-      "relacion": "TREATS",
-      "objeto": "5-fluorouracil-based chemotherapy",
-      "tipo_objeto": "STAGE",
-      "score": 0.95
-    },
-    {
       "sujeto": "Gastric outlet obstruction",
       "tipo_sujeto": "ADVERSE_EVENT",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic cancer",
       "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Elastase-1 stool test",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "EVALUATED_IN",
-      "objeto": "SEOM clinical guidelines for pancreatic and biliary tract cancer (2020)",
-      "tipo_objeto": "TRIAL",
       "score": 0.95
     },
     {
@@ -1008,14 +832,6 @@
       "relacion": "COMBINES_WITH",
       "objeto": "Positron emission tomography",
       "tipo_objeto": "PROCEDURE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Regular follow-up",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
-      "objeto": "Pancreatic cancer",
-      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
@@ -1052,7 +868,7 @@
     },
     {
       "sujeto": "Gallstones",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Gallbladder cancer",
       "tipo_objeto": "DISEASE",
@@ -1060,7 +876,7 @@
     },
     {
       "sujeto": "Salmonella",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Gallbladder cancer",
       "tipo_objeto": "DISEASE",
@@ -1068,7 +884,7 @@
     },
     {
       "sujeto": "Hepatitis B virus",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Intrahepatic cholangiocarcinoma",
       "tipo_objeto": "DISEASE",
@@ -1076,7 +892,7 @@
     },
     {
       "sujeto": "Hepatitis C virus",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Intrahepatic cholangiocarcinoma",
       "tipo_objeto": "DISEASE",
@@ -1084,7 +900,7 @@
     },
     {
       "sujeto": "Liver flukes",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Intrahepatic cholangiocarcinoma",
       "tipo_objeto": "DISEASE",
@@ -1092,7 +908,7 @@
     },
     {
       "sujeto": "Autoimmune diseases",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Intrahepatic cholangiocarcinoma",
       "tipo_objeto": "DISEASE",
@@ -1100,7 +916,7 @@
     },
     {
       "sujeto": "Obesity",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Intrahepatic cholangiocarcinoma",
       "tipo_objeto": "DISEASE",
@@ -1108,7 +924,7 @@
     },
     {
       "sujeto": "Diabetes",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Intrahepatic cholangiocarcinoma",
       "tipo_objeto": "DISEASE",
@@ -1116,23 +932,15 @@
     },
     {
       "sujeto": "Smoking",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "ADVERSE_EVENT",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Intrahepatic cholangiocarcinoma",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
-      "sujeto": "ary stones",
-      "tipo_sujeto": "MUTATION",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Pancreatic and biliary tract cancer",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
       "sujeto": "hepatitis B and C viruses",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic and biliary tract cancer",
       "tipo_objeto": "DISEASE",
@@ -1140,7 +948,7 @@
     },
     {
       "sujeto": "liver flukes",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic and biliary tract cancer",
       "tipo_objeto": "DISEASE",
@@ -1148,7 +956,7 @@
     },
     {
       "sujeto": "bile duct anomalies",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic and biliary tract cancer",
       "tipo_objeto": "DISEASE",
@@ -1156,7 +964,7 @@
     },
     {
       "sujeto": "some autoimmune diseases",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic and biliary tract cancer",
       "tipo_objeto": "DISEASE",
@@ -1164,7 +972,7 @@
     },
     {
       "sujeto": "obesity",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic and biliary tract cancer",
       "tipo_objeto": "DISEASE",
@@ -1172,7 +980,7 @@
     },
     {
       "sujeto": "diabetes",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic and biliary tract cancer",
       "tipo_objeto": "DISEASE",
@@ -1180,31 +988,15 @@
     },
     {
       "sujeto": "smoking",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "ADVERSE_EVENT",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic and biliary tract cancer",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
-      "sujeto": "ECC",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Common bile duct",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "ECC",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Small ducts within the liver",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
       "sujeto": "pECC",
-      "tipo_sujeto": "STAGE",
+      "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "ECC",
       "tipo_objeto": "DISEASE",
@@ -1212,49 +1004,9 @@
     },
     {
       "sujeto": "dECC",
-      "tipo_sujeto": "STAGE",
+      "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "ECC",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "BTCs",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Common bile duct",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "BTCs",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Small ducts within the liver",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "BTCs",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Cystic duct",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "BTCs",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Ampulla of Vater",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "BTCs",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Common hepatic duct",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     },
@@ -1277,7 +1029,7 @@
     {
       "sujeto": "MR-CP",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -1285,23 +1037,23 @@
     {
       "sujeto": "PET scan",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
       "sujeto": "LI-RADS",
-      "tipo_sujeto": "MUTATION",
-      "relacion": "ASSOCIATED_WITH",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
       "objeto": "ICC",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
       "sujeto": "LI-RADS",
-      "tipo_sujeto": "MUTATION",
-      "relacion": "ASSOCIATED_WITH",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "DIAGNOSES",
       "objeto": "HCC",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -1309,7 +1061,7 @@
     {
       "sujeto": "ERCP",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -1509,14 +1261,6 @@
     {
       "sujeto": "capecitabine",
       "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
-      "objeto": "observation",
-      "tipo_objeto": "PROCEDURE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "capecitabine",
-      "tipo_sujeto": "DRUG",
       "relacion": "TREATS",
       "objeto": "BTC",
       "tipo_objeto": "DISEASE",
@@ -1556,7 +1300,7 @@
     },
     {
       "sujeto": "Systemic chemotherapy",
-      "tipo_sujeto": "DRUG",
+      "tipo_sujeto": "REGIMEN",
       "relacion": "TREATS",
       "objeto": "BTC",
       "tipo_objeto": "DISEASE",
@@ -1611,22 +1355,6 @@
       "score": 0.95
     },
     {
-      "sujeto": "gemcitabine-cisplatin",
-      "tipo_sujeto": "REGIMEN",
-      "relacion": "TREATS",
-      "objeto": "primary tumor site (intra- vs. extra-hepatic vs. gallbladder vs. ampullary)",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "ra-hepatic",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Metastatic disease",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
       "sujeto": "ampullary",
       "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
@@ -1664,14 +1392,6 @@
       "relacion": "TREATS",
       "objeto": "Metastatic disease",
       "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "mFOLFOX",
-      "tipo_sujeto": "REGIMEN",
-      "relacion": "COMBINES_WITH",
-      "objeto": "gemcitabine",
-      "tipo_objeto": "DRUG",
       "score": 0.95
     },
     {
@@ -1811,14 +1531,6 @@
       "score": 0.95
     },
     {
-      "sujeto": "Oxaliplatin",
-      "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
-      "objeto": "Cisplatin",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
       "sujeto": "mFOLFOX",
       "tipo_sujeto": "REGIMEN",
       "relacion": "TREATS",
@@ -1885,23 +1597,7 @@
     {
       "sujeto": "Supportive care",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "CAUSES",
-      "objeto": "Patient's quality of life",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Supportive care",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "CAUSES",
-      "objeto": "Survival",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Supportive care",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "CAUSES",
+      "relacion": "TREATS",
       "objeto": "Cholangitis",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
@@ -1909,7 +1605,7 @@
     {
       "sujeto": "Supportive care",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "CAUSES",
+      "relacion": "TREATS",
       "objeto": "Biliary or duodenal obstruction",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
@@ -1917,7 +1613,7 @@
     {
       "sujeto": "Supportive care",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "CAUSES",
+      "relacion": "TREATS",
       "objeto": "Pain",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
@@ -1925,7 +1621,7 @@
     {
       "sujeto": "Supportive care",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "CAUSES",
+      "relacion": "TREATS",
       "objeto": "Nausea",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
@@ -1933,7 +1629,7 @@
     {
       "sujeto": "Supportive care",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "CAUSES",
+      "relacion": "TREATS",
       "objeto": "Constipation",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
@@ -1941,7 +1637,7 @@
     {
       "sujeto": "Supportive care",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "CAUSES",
+      "relacion": "TREATS",
       "objeto": "Diarrhea",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
@@ -1949,7 +1645,7 @@
     {
       "sujeto": "Supportive care",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "CAUSES",
+      "relacion": "TREATS",
       "objeto": "Anorexia",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
@@ -1957,7 +1653,7 @@
     {
       "sujeto": "Supportive care",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "CAUSES",
+      "relacion": "TREATS",
       "objeto": "Weight loss",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
@@ -1965,7 +1661,7 @@
     {
       "sujeto": "Supportive care",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "CAUSES",
+      "relacion": "TREATS",
       "objeto": "Anxiety",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
@@ -1973,39 +1669,15 @@
     {
       "sujeto": "Supportive care",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "CAUSES",
+      "relacion": "TREATS",
       "objeto": "Depression",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "3-monthly visits",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "COMBINES_WITH",
-      "objeto": "6-monthly visits",
-      "tipo_objeto": "PROCEDURE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "3-monthly visits",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
-      "objeto": "Biliary tract cancer",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "6-monthly visits",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
-      "objeto": "Biliary tract cancer",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
       "sujeto": "Clinical examination",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Biliary tract cancer",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -2013,7 +1685,7 @@
     {
       "sujeto": "Laboratory tests",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Biliary tract cancer",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -2021,31 +1693,31 @@
     {
       "sujeto": "LFTs",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Biliary tract cancer",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
       "sujeto": "Lactate dehydrogenase",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
       "objeto": "Biliary tract cancer",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
       "sujeto": "CEA",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
       "objeto": "Biliary tract cancer",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
       "sujeto": "CA19-9",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
       "objeto": "Biliary tract cancer",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -2053,7 +1725,7 @@
     {
       "sujeto": "Body CT scan",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Biliary tract cancer",
       "tipo_objeto": "DISEASE",
       "score": 0.95

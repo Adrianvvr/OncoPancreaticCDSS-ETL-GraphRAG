@@ -35,30 +35,6 @@
       "score": 0.95
     },
     {
-      "sujeto": "Cáncer de páncreas",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Edad",
-      "tipo_objeto": "STAGE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "cáncer de páncreas",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "tamaño",
-      "tipo_objeto": "STAGE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "cáncer de páncreas",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "ubicación",
-      "tipo_objeto": "STAGE",
-      "score": 0.95
-    },
-    {
       "sujeto": "cáncer de páncreas",
       "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
@@ -116,7 +92,7 @@
     },
     {
       "sujeto": "5-FU/FA",
-      "tipo_sujeto": "DRUG",
+      "tipo_sujeto": "REGIMEN",
       "relacion": "TREATS",
       "objeto": "Cáncer de páncreas metastásico",
       "tipo_objeto": "DISEASE",
@@ -147,30 +123,6 @@
       "score": 0.95
     },
     {
-      "sujeto": "planificación anticipada de la atención médica",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
-      "objeto": "cáncer de páncreas",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "enzimas",
-      "tipo_sujeto": "DRUG",
-      "relacion": "TREATS",
-      "objeto": "Cáncer de páncreas",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "tomografía computarizada",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "COMBINES_WITH",
-      "objeto": "TC",
-      "tipo_objeto": "PROCEDURE",
-      "score": 0.95
-    },
-    {
       "sujeto": "insulina",
       "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
@@ -179,74 +131,10 @@
       "score": 0.95
     },
     {
-      "sujeto": "páncreas",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "cáncer de páncreas",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "páncreas",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "páncreas exocrino",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "páncreas",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "páncreas endocrino",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "páncreas exocrino",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "cáncer de páncreas",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "páncreas exocrino",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "cáncer de páncreas exocrino",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
       "sujeto": "Adenocarcinoma",
       "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Cáncer de páncreas",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Células acinares",
-      "tipo_sujeto": "MUTATION",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Cáncer de páncreas",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Células acinares",
-      "tipo_sujeto": "MUTATION",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Cáncer de células acinares del páncreas",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Cáncer de páncreas localizado",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "páncreas",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     },
@@ -317,7 +205,7 @@
     {
       "sujeto": "tomografía computarizada",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "cáncer de páncreas",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -333,7 +221,7 @@
     {
       "sujeto": "Ecografía endoscópica",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Cáncer de páncreas",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -347,50 +235,10 @@
       "score": 0.95
     },
     {
-      "sujeto": "Ecografía endoscópica",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
-      "objeto": "Ganglios linfáticos",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Ecografía endoscópica",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
-      "objeto": "Órganos cercanos",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Ecografía endoscópica",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
-      "objeto": "Pulmones",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Ecografía endoscópica",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
-      "objeto": "Hígado",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
       "sujeto": "IRM",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Cáncer de páncreas",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "IRM",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
-      "objeto": "Hígado",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     },
@@ -483,35 +331,11 @@
       "score": 0.95
     },
     {
-      "sujeto": "Cirugía",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
-      "objeto": "Resección",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Cirugía",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
-      "objeto": "Principal vasos sanguíneos",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Cáncer de páncreas",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Resección",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
       "sujeto": "Cáncer de páncreas",
       "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Resección limítrofe",
-      "tipo_objeto": "DISEASE",
+      "tipo_objeto": "STAGE",
       "score": 0.95
     },
     {
@@ -519,20 +343,12 @@
       "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Resección irresecable",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Resección",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "Cáncer de páncreas",
-      "tipo_objeto": "DISEASE",
+      "tipo_objeto": "STAGE",
       "score": 0.95
     },
     {
       "sujeto": "Resección limítrofe",
-      "tipo_sujeto": "DISEASE",
+      "tipo_sujeto": "STAGE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Cáncer de páncreas",
       "tipo_objeto": "DISEASE",
@@ -540,7 +356,7 @@
     },
     {
       "sujeto": "Resección irresecable",
-      "tipo_sujeto": "DISEASE",
+      "tipo_sujeto": "STAGE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Cáncer de páncreas",
       "tipo_objeto": "DISEASE",
@@ -549,15 +365,7 @@
     {
       "sujeto": "resección",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
-      "objeto": "Cáncer de páncreas irresecable",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "resección",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "CAUSES",
+      "relacion": "CONTRAINDICATED_IN",
       "objeto": "Cáncer de páncreas irresecable",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -628,7 +436,7 @@
     },
     {
       "sujeto": "Nal-IRI",
-      "tipo_sujeto": "REGIMEN",
+      "tipo_sujeto": "DRUG",
       "relacion": "TREATS",
       "objeto": "Cáncer de páncreas",
       "tipo_objeto": "DISEASE",
@@ -684,7 +492,7 @@
     },
     {
       "sujeto": "quimioterapia adyuvante",
-      "tipo_sujeto": "DRUG",
+      "tipo_sujeto": "REGIMEN",
       "relacion": "COMBINES_WITH",
       "objeto": "resección",
       "tipo_objeto": "PROCEDURE",
@@ -718,22 +526,6 @@
       "sujeto": "resección",
       "tipo_sujeto": "PROCEDURE",
       "relacion": "TREATS",
-      "objeto": "bazo",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "resección",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
-      "objeto": "ganglios linfáticos",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "resección",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
       "objeto": "tumores de cabeza del páncreas",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -752,22 +544,6 @@
       "relacion": "TREATS",
       "objeto": "tumores del bazo",
       "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "gemcitabina",
-      "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
-      "objeto": "5-FU/FA",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "FOLFIRINOX",
-      "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
-      "objeto": "gemcitabina",
-      "tipo_objeto": "DRUG",
       "score": 0.95
     },
     {
@@ -868,7 +644,7 @@
     },
     {
       "sujeto": "5-FU/FA",
-      "tipo_sujeto": "DRUG",
+      "tipo_sujeto": "REGIMEN",
       "relacion": "TREATS",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
@@ -879,22 +655,6 @@
       "tipo_sujeto": "PROCEDURE",
       "relacion": "TREATS",
       "objeto": "Pancreatic ductal adenocarcinoma",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "páncreas",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "cáncer de páncreas metastásico",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "páncreas",
-      "tipo_sujeto": "DISEASE",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "cáncer de páncreas localmente avanzado",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     },
@@ -920,30 +680,6 @@
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Insulina",
       "tipo_objeto": "MUTATION",
-      "score": 0.95
-    },
-    {
-      "sujeto": "cuidados paliativos",
-      "tipo_sujeto": "ADVERSE_EVENT",
-      "relacion": "ASSOCIATED_WITH",
-      "objeto": "cáncer de páncreas",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Anestesia local",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "COMBINES_WITH",
-      "objeto": "Plexo celíaco",
-      "tipo_objeto": "PROCEDURE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Planificación anticipada de la atención médica",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Cáncer incurable",
-      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
@@ -1747,22 +1483,6 @@
       "score": 0.95
     },
     {
-      "sujeto": "CA 19-9",
-      "tipo_sujeto": "MUTATION",
-      "relacion": "CAUSES",
-      "objeto": "Pancreatic ductal adenocarcinoma",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "CA 19-9",
-      "tipo_sujeto": "MUTATION",
-      "relacion": "CAUSES",
-      "objeto": "CA 19-9 aumentando",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
       "sujeto": "CA 19-9 aumentando",
       "tipo_sujeto": "ADVERSE_EVENT",
       "relacion": "ASSOCIATED_WITH",
@@ -1773,7 +1493,7 @@
     {
       "sujeto": "Tomografía computarizada",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "TREATS",
+      "relacion": "DIAGNOSES",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
       "score": 0.95

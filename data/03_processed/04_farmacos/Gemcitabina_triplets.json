@@ -119,7 +119,7 @@
       "tipo_sujeto": "DRUG",
       "relacion": "CONTRAINDICATED_IN",
       "objeto": "Vacunas vivas atenuadas",
-      "tipo_objeto": "ADVERSE_EVENT",
+      "tipo_objeto": "DRUG",
       "score": 0.95
     },
     {
@@ -127,7 +127,7 @@
       "tipo_sujeto": "DRUG",
       "relacion": "CONTRAINDICATED_IN",
       "objeto": "Vacunas contra la fiebre amarilla",
-      "tipo_objeto": "ADVERSE_EVENT",
+      "tipo_objeto": "DRUG",
       "score": 0.95
     },
     {
@@ -863,7 +863,7 @@
       "tipo_sujeto": "DRUG",
       "relacion": "TARGETS",
       "objeto": "ADN",
-      "tipo_objeto": "DISEASE",
+      "tipo_objeto": "MUTATION",
       "score": 0.95
     },
     {
@@ -889,22 +889,6 @@
       "objeto": "5-Fluorouracilo",
       "tipo_objeto": "DRUG",
       "score": 0.98
-    },
-    {
-      "sujeto": "Gemcitabina",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Prolongación del tiempo hasta la progresión",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Gemcitabina",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Prolongación de la mediana de supervivencia",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
     }
   ]
 }

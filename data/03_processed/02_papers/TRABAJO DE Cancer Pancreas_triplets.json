@@ -484,7 +484,7 @@
     },
     {
       "sujeto": "ascorbato intravenoso",
-      "tipo_sujeto": "PROCEDURE",
+      "tipo_sujeto": "DRUG",
       "relacion": "TREATS",
       "objeto": "carcinoma ductal pancreático",
       "tipo_objeto": "DISEASE",

@@ -1,17 +1,17 @@
 {
-  "doc_id": "Irinotecan",
+  "doc_id": "Oxaliplatino",
   "categoria": "04_farmacos",
   "tripletas": [
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "TREATS",
-      "objeto": "Cáncer colorrectal avanzado",
+      "objeto": "Cáncer de colon",
       "tipo_objeto": "DISEASE",
-      "score": 0.98
+      "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
       "objeto": "5-Fluorouracilo",
@@ -19,7 +19,7 @@
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
       "objeto": "Ácido folínico",
@@ -27,207 +27,103 @@
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
-      "objeto": "Cetuximab",
-      "tipo_objeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de colorrectal metastásico",
+      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
-      "objeto": "Bevacizumab",
-      "tipo_objeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de colon de estadio III (C de Duke)",
+      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
-      "objeto": "Capecitabina",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Hierba de San Juan",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Vacunas vivas atenuadas",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Irinotecán",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Vacunas vivas atenuadas",
-      "tipo_objeto": "PROCEDURE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Vacunas muertas o inactivadas",
-      "tipo_objeto": "PROCEDURE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Vacunas muertas o inactivadas",
-      "tipo_sujeto": "PROCEDURE",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Irinotecán",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Inhibidores o inductores potentes del citocromo P450 3A4",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Simultaneidad con inhibidores o inductores potentes del citocromo P450 3A4",
-      "tipo_objeto": "PROCEDURE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Atazanavir",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Ketoconazol",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Regorafenib",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Crizotinib",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Idelalisib",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Vitamina K antagonistas",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Ciclosporina",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Tacrolimus",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "Agentes bloqueantes neuromusculares",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Hemorragia",
+      "objeto": "Hipersensibilidad al oxaliplatino",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Eventos trombóticos",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Excipientes",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Bloqueo neuromuscular",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Pacientes en período de lactancia",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "5-Fluorouracil",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
-      "objeto": "Ácido folínico",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Mielosupresión",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Mielosupresión antes del comienzo del primer ciclo",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Diarrea tardía",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Neuropatía sensorial periférica con deterioro funcional antes del primer ciclo",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Insuficiencia renal grave (aclaramiento de creatinina inferior a 30 ml/min)",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Prolongación del intervalo QT",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Vacunación con vacunas vivas o vivas atenuadas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Nausea",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Mucositis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
       "objeto": "Neutropenia",
@@ -235,7 +131,47 @@
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Neuropathy",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-FU/FA",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "CAUSES",
+      "objeto": "Nausea",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-FU/FA",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "CAUSES",
+      "objeto": "Mucositis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-FU/FA",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "CAUSES",
+      "objeto": "Neutropenia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "5-FU/FA",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "CAUSES",
+      "objeto": "Neuropathy",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
       "objeto": "Anemia",
@@ -243,7 +179,7 @@
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
       "objeto": "Trombocitopenia",
@@ -251,327 +187,7 @@
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Síndrome colinérgico agudo transitorio grave",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Diarrea temprana",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Dolor abdominal",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Sudoración",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Miosis",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Aumento de la salivación",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Infección",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Neutropenia febril",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Disminución del apetito",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Síndrome colinérgico",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Diarrea",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Vómitos",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Náuseas",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Estreñimiento",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Alopecia (reversible)",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Inflamación de las mucosas",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Pirexia",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Astenia",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Aumento de la creatinina en sangre",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Aumento de las transaminasas (ALT y AST)",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Aumento de la bilirrubina en sangre",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Aumento de la fosfatasa alcalina en sangre",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Neutropenia grave",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Infecciones",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Infecciones asociadas con neutropenia grave",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Muerte",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Síndrome colinérgico agudo",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Aumento de transaminasas",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Aumento de fosfatasa alcalina",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Aumento de bilirrubina",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Aumento de creatinina",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Trombosis/embolia",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Hipertensión",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Isquemia miocárdica/infarto",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Cetuximab",
-      "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
-      "objeto": "Irinotecán",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Dermatitis acneiforme",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Hipersensibilidad",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "TREATS",
-      "objeto": "Cáncer colorrectal",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
-      "objeto": "5FU",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
-      "objeto": "FA",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
       "objeto": "Leucopenia",
@@ -579,551 +195,207 @@
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Diarrea grave",
+      "objeto": "Linfocitopenia",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Náuseas graves",
+      "objeto": "Neutropenia febril+",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Vómitos graves",
+      "objeto": "Trombocitopenia inmunoalérgica",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Astenia grave",
+      "objeto": "Anemia Hemolítica",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Pirexia sin infección",
+      "objeto": "Coagulación diseminada intravascular (CDI)",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Hipopotasemia",
+      "objeto": "Síndrome urémico hemolítico",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Hiponatremia",
+      "objeto": "Pancitopenia autoinmune",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Dolor",
+      "objeto": "Pancitopenia",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Sepsis",
+      "objeto": "Leucemia secundaria",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Candidiasis gastrointestinal",
+      "objeto": "Conjuntivitis",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Hipomagnesemia",
+      "objeto": "Trastorno visual",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Erupción cutánea",
+      "objeto": "Reducción pasajera de la agudeza visual",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Manifestaciones en la piel",
+      "objeto": "Trastornos del campo visual",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Alteración de la marcha",
+      "objeto": "Neuritis óptica",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Confusión",
+      "objeto": "Pérdida pasajera de la visión",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Cefalea",
+      "objeto": "Trastornos del oído y del laberinto",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Síncope",
+      "objeto": "Ototoxicidad",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Enrojecimiento",
+      "objeto": "Síndrome de obstrucción sinusoidal hepática",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Bradicardia",
+      "objeto": "Hipertensión portal",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Infección del tracto urinario",
+      "objeto": "Aumento de transaminasas",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Dolor de pecho",
+      "objeto": "Hiperplasia nodular regenerativa",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Aumento de la gamma glutamil transferasa",
+      "objeto": "Fibrosis perisinusoidal",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Extravasión",
+      "objeto": "Peliosis hepática",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Síndrome de lisis tumoral",
+      "objeto": "Trastornos de la piel y del tejido subcutáneo",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Trastornos cardiovasculares",
+      "objeto": "Trastornos cardíacos",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Angina de pecho",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Parada cardiaca",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Infarto de miocardio",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Isquemia de miocardio",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Colitis pseudomembranosa",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Infecciones por hongos",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Infecciones víricas",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Trombocitopenia con anticuerpos antiplaquetarios",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Deshidratación",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Hipovolemia",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Reacción anafiláctica",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Trastornos del habla generalmente transitorios",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Parestesia",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Contracciones musculares involuntarias",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Insuficiencia cardiocirculatoria",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Enfermedad pulmonar intersticial",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Disnea",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Obstrucción intestinal",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Esteatohepatitis",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Esteatosis hepática",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Reacción en la piel",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Reacciones en el lugar de la perfusión",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Aumento de la amilasa",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Aumento de la lipasa",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Aumento de las transaminasas",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Calambres",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Insuficiencia renal",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Insuficiencia renal aguda",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Hipotensión",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Neumonía por Pneumocystis jirovecii",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Aspergilosis broncopulmonar",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Cándida sistémica",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Herpes zóster",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Gripe",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Reactivación de la hepatitis B",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Colitis por citomegalovirus",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "TREATS",
-      "objeto": "Cáncer colorrectal metastásico",
-      "tipo_objeto": "DISEASE",
-      "score": 0.98
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
-      "objeto": "5-Fluorouracil",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
-      "objeto": "5FU/AF",
-      "tipo_objeto": "REGIMEN",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Estado de deterioro definitivo",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
-      "objeto": "5-FU/AF",
-      "tipo_objeto": "REGIMEN",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "TREATS",
-      "objeto": "Carcinoma metastásico de colon o recto",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Deterioro definitivo",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
       "objeto": "5-FU",
@@ -1131,27 +403,691 @@
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "TREATS",
-      "objeto": "Carcinoma colorrectal metastásico",
-      "tipo_objeto": "DISEASE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
-      "objeto": "Oxaliplatino",
+      "objeto": "Bevacizumab",
       "tipo_objeto": "DRUG",
       "score": 0.95
     },
     {
-      "sujeto": "Irinotecán",
+      "sujeto": "Oxaliplatino",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
-      "objeto": "Heces líquidas",
+      "objeto": "Arritmias ventriculares",
       "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Torsade de Pointes",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Infarto de miocardio",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Arterioespasmo coronario",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Angina de pecho",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Hemorragias",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Rubor",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Trombosis venosa profunda",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Hipertensión",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Alergia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Reacción alérgica",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Sepsis neutropénica",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Alergias o reacciones alérgicas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Reacciones anafilácticas o anafilactoides",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Hipersensibilidad retardada",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Fiebre",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Temblores",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Hipotensión",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Sensación de dolor torácico",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Choque anafiláctico",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Neutropenia febril",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Infecciones e infestaciones",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Sepsis (incluyendo sepsis y sepsis neutropénica)",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Sepsis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Reacciones alérgicas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Gr 3",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Gr 4",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Todos los grados",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Adyuvante",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Gr 3 (Adyuvante)",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Gr 4 (Adyuvante)",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Neuropatía periférica",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Dificultades para llevar a cabo movimientos delicados",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Parestesia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Calambres",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Disestesia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Deterioro sensorial",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Síntomas persistentes",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Parestesia localizada persistente",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Parestesia que puede interferir en las actividades funcionales",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Trastornos del sistema nervioso",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Parestesias",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Hipoestesia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Síndrome agudo de disestesia faringolaríngea",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Espasmos mandibulares",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Alteración de la coordinación",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Trastorno de la marcha",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Ataxia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Trastornos del equilibro",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Tirantez/opresión/molestia/dolor en la garganta o en el pecho",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Alteración de la función de los nervios craneales",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Parálisis de las cuerdas vocales",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Sensación anómala en la lengua",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Afasia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Neuralgia del trigémino",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Dolor facial",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Dolor ocular",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Reducción de la agudeza visual",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Disartria",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Pérdida del reflejo del tendón profundo",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Signo de Lhermitte",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Diarrea",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Vómitos",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Estomatitis / Mucositis",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Deshidratación",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Ileo paralítico",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Obstrucción intestinal",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Hipopotasemia",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Acidosis metabólica",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Insuficiencia renal",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer colorrectal",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "5-Fluorouracil",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Alteración de la síntesis del ADN",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Efectos citotóxicos y antitumorales",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de colon colorrectal",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de colon colorrectal metastásico",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "5-Fluorouracil/ácido folínico",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de colon colorrectal previamente tratado",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "5-FU/FA",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FOLFOX4",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de colon",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FOLFOX4",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Estadio II (B2 de Duke)",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FOLFOX4",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Estadio III (C de Duke)",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Población pediátrica",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Tumores sólidos",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oxaliplatino",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Paciente de 7 meses a 22 años de edad",
+      "tipo_objeto": "DISEASE",
       "score": 0.95
     }
   ]

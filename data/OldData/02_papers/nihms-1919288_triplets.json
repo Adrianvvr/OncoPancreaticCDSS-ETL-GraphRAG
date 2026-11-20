@@ -37,9 +37,57 @@
     {
       "sujeto": "MRTX1133",
       "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Regression of established PanINs",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Regression of advanced PDAC",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
       "objeto": "Immune checkpoint blockade (ICB)",
       "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Eradication of PDAC",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Prolong overall survival",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRASG12D",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "CAUSES",
+      "objeto": "FAS expression in cancer cells",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRASG12D",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "CAUSES",
+      "objeto": "CD8+ T cell-mediated death",
+      "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
@@ -253,6 +301,94 @@
     {
       "sujeto": "MRTX1133",
       "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Proportional distribution similar to healthy pancreas",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Intermediate state between fibroblasts of healthy and tumor bearing tissue",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "CD3+ T cells",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "CD8+ T cells",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "CD19+ cells",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "NK cells",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "CD4+ T cells",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "CD8+ effector T cells",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "CD11b+ myeloid cells",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "CD11c+ myeloid cells",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "CD3− NK1.1+ cells",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
       "relacion": "TREATS",
       "objeto": "Pancreatic cancer",
       "tipo_objeto": "DISEASE",
@@ -263,7 +399,7 @@
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
       "objeto": "α CTLA-4",
-      "tipo_objeto": "DRUG",
+      "tipo_objeto": "PROCEDURE",
       "score": 0.95
     },
     {
@@ -271,7 +407,23 @@
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
       "objeto": "α PD-1",
-      "tipo_objeto": "DRUG",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CD8+ T cells",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "CD19+ B cells",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Mice",
+      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
@@ -326,7 +478,47 @@
       "sujeto": "MRTX1133",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
+      "objeto": "CD8+ T cell mediated cancer cell clearance",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRASG12C",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
       "objeto": "FAS expression increase",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Tumor growth increase",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Survival decrease",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Histological analysis",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
@@ -371,6 +563,30 @@
       "score": 0.95
     },
     {
+      "sujeto": "CD8+ T cells",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CD4+ T cells",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CD8+ cells",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
       "sujeto": "MRTX1133",
       "tipo_sujeto": "DRUG",
       "relacion": "TREATS",
@@ -384,6 +600,30 @@
       "relacion": "TREATS",
       "objeto": "Orthotopic models of PDAC",
       "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "T cells",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Tumor inhibition",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Long term survival",
+      "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     }
   ]

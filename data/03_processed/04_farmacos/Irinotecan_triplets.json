@@ -55,7 +55,7 @@
       "tipo_sujeto": "DRUG",
       "relacion": "CONTRAINDICATED_IN",
       "objeto": "Hierba de San Juan",
-      "tipo_objeto": "ADVERSE_EVENT",
+      "tipo_objeto": "DRUG",
       "score": 0.95
     },
     {
@@ -72,14 +72,6 @@
       "relacion": "CONTRAINDICATED_IN",
       "objeto": "Vacunas vivas atenuadas",
       "tipo_objeto": "PROCEDURE",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CONTRAINDICATED_IN",
-      "objeto": "6 meses siguientes a la interrupción de la quimioterapia",
-      "tipo_objeto": "STAGE",
       "score": 0.95
     },
     {
@@ -117,23 +109,7 @@
     {
       "sujeto": "Irinotecán",
       "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
-      "objeto": "UC del metabolito APC",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
-      "objeto": "SN-38",
-      "tipo_objeto": "DRUG",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
+      "relacion": "CONTRAINDICATED_IN",
       "objeto": "Atazanavir",
       "tipo_objeto": "DRUG",
       "score": 0.95
@@ -141,7 +117,7 @@
     {
       "sujeto": "Irinotecán",
       "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
+      "relacion": "CONTRAINDICATED_IN",
       "objeto": "Ketoconazol",
       "tipo_objeto": "DRUG",
       "score": 0.95
@@ -149,7 +125,7 @@
     {
       "sujeto": "Irinotecán",
       "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
+      "relacion": "CONTRAINDICATED_IN",
       "objeto": "Regorafenib",
       "tipo_objeto": "DRUG",
       "score": 0.95
@@ -157,7 +133,7 @@
     {
       "sujeto": "Irinotecán",
       "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
+      "relacion": "CONTRAINDICATED_IN",
       "objeto": "Crizotinib",
       "tipo_objeto": "DRUG",
       "score": 0.95
@@ -165,7 +141,7 @@
     {
       "sujeto": "Irinotecán",
       "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
+      "relacion": "CONTRAINDICATED_IN",
       "objeto": "Idelalisib",
       "tipo_objeto": "DRUG",
       "score": 0.95
@@ -173,7 +149,7 @@
     {
       "sujeto": "Irinotecán",
       "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
+      "relacion": "CONTRAINDICATED_IN",
       "objeto": "Vitamina K antagonistas",
       "tipo_objeto": "DRUG",
       "score": 0.95
@@ -181,7 +157,7 @@
     {
       "sujeto": "Irinotecán",
       "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
+      "relacion": "CONTRAINDICATED_IN",
       "objeto": "Ciclosporina",
       "tipo_objeto": "DRUG",
       "score": 0.95
@@ -189,7 +165,7 @@
     {
       "sujeto": "Irinotecán",
       "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
+      "relacion": "CONTRAINDICATED_IN",
       "objeto": "Tacrolimus",
       "tipo_objeto": "DRUG",
       "score": 0.95
@@ -197,7 +173,7 @@
     {
       "sujeto": "Irinotecán",
       "tipo_sujeto": "DRUG",
-      "relacion": "COMBINES_WITH",
+      "relacion": "CONTRAINDICATED_IN",
       "objeto": "Agentes bloqueantes neuromusculares",
       "tipo_objeto": "DRUG",
       "score": 0.95
@@ -1111,7 +1087,7 @@
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
       "objeto": "5FU/AF",
-      "tipo_objeto": "DRUG",
+      "tipo_objeto": "REGIMEN",
       "score": 0.95
     },
     {
@@ -1127,7 +1103,7 @@
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
       "objeto": "5-FU/AF",
-      "tipo_objeto": "DRUG",
+      "tipo_objeto": "REGIMEN",
       "score": 0.95
     },
     {
@@ -1143,14 +1119,6 @@
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
       "objeto": "Deterioro definitivo",
-      "tipo_objeto": "ADVERSE_EVENT",
-      "score": 0.95
-    },
-    {
-      "sujeto": "Irinotecán",
-      "tipo_sujeto": "DRUG",
-      "relacion": "CAUSES",
-      "objeto": "Supervivencia global",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },

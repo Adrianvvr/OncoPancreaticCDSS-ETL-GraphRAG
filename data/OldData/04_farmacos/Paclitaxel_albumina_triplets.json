@@ -63,7 +63,7 @@
       "tipo_sujeto": "DRUG",
       "relacion": "CONTRAINDICATED_IN",
       "objeto": "Recuento basal de neutrófilos < 1.500 células/mm3",
-      "tipo_objeto": "ADVERSE_EVENT",
+      "tipo_objeto": "STAGE",
       "score": 0.95
     },
     {
@@ -1549,10 +1549,130 @@
     {
       "sujeto": "Paclitaxel",
       "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Solventes",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Paclitaxel",
+      "tipo_sujeto": "DRUG",
       "relacion": "TREATS",
       "objeto": "Metástasis viscerales",
       "tipo_objeto": "DISEASE",
       "score": 0.95
+    },
+    {
+      "sujeto": "Paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Quimioterapia previa",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Quimioterapia adyuvante",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Quimioterapia de enfermedad metastásica",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Quimioterapia adyuvante y metastásica",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Quimioterapia en segunda línea o posterior",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Quimioterapia previa con antraciclinas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Quimioterapia previa con quimioterapia adyuvante",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Quimioterapia previa con quimioterapia de enfermedad metastásica",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Quimioterapia previa con quimioterapia adyuvante y metastásica",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Quimioterapia previa con quimioterapia en segunda línea o posterior",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Quimioterapia previa con quimioterapia previa con antraciclinas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Quimioterapia previa con quimioterapia previa con quimioterapia adyuvante",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Enfermedad arterial periférica",
+      "tipo_objeto": "DISEASE",
+      "score": 0.9
+    },
+    {
+      "sujeto": "Paclitaxel",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Enfermedad pulmonar intersticial",
+      "tipo_objeto": "DISEASE",
+      "score": 0.9
     },
     {
       "sujeto": "Paclitaxel",
@@ -1647,6 +1767,14 @@
       "tipo_sujeto": "DRUG",
       "relacion": "TREATS",
       "objeto": "Rabdomiosarcoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Paclitaxel Albumina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pacientes pediátricos con edades ≥ 6 meses a ≤24 años",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     },

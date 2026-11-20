@@ -173,7 +173,7 @@
     {
       "sujeto": "MRI",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -181,7 +181,7 @@
     {
       "sujeto": "CT",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -189,7 +189,7 @@
     {
       "sujeto": "MRI",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
       "objeto": "Pancreatic cancer",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -197,7 +197,7 @@
     {
       "sujeto": "Biospecimen Collection",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
       "objeto": "Pancreatic cancer",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -331,8 +331,16 @@
       "score": 0.95
     },
     {
+      "sujeto": "gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
       "sujeto": "HCV infection",
-      "tipo_sujeto": "DISEASE",
+      "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic cancer",
       "tipo_objeto": "DISEASE",

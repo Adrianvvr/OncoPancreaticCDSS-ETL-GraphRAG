@@ -205,33 +205,49 @@
     {
       "sujeto": "Gemcitabine",
       "tipo_sujeto": "DRUG",
-      "relacion": "TARGETS",
+      "relacion": "COMBINES_WITH",
+      "objeto": "dCK",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "hENT1",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
       "objeto": "hENT2",
-      "tipo_objeto": "MUTATION",
+      "tipo_objeto": "DRUG",
       "score": 0.95
     },
     {
       "sujeto": "Gemcitabine",
       "tipo_sujeto": "DRUG",
-      "relacion": "TARGETS",
+      "relacion": "COMBINES_WITH",
       "objeto": "hCNT1",
-      "tipo_objeto": "MUTATION",
+      "tipo_objeto": "DRUG",
       "score": 0.95
     },
     {
       "sujeto": "Gemcitabine",
       "tipo_sujeto": "DRUG",
-      "relacion": "TARGETS",
+      "relacion": "COMBINES_WITH",
       "objeto": "hCNT2",
-      "tipo_objeto": "MUTATION",
+      "tipo_objeto": "DRUG",
       "score": 0.95
     },
     {
       "sujeto": "Gemcitabine",
       "tipo_sujeto": "DRUG",
-      "relacion": "TARGETS",
+      "relacion": "COMBINES_WITH",
       "objeto": "hCNT3",
-      "tipo_objeto": "MUTATION",
+      "tipo_objeto": "DRUG",
       "score": 0.95
     },
     {
@@ -239,23 +255,23 @@
       "tipo_sujeto": "DRUG",
       "relacion": "TARGETS",
       "objeto": "DNA",
-      "tipo_objeto": "MUTATION",
+      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
       "sujeto": "Gemcitabina",
       "tipo_sujeto": "DRUG",
-      "relacion": "TARGETS",
+      "relacion": "COMBINES_WITH",
       "objeto": "CDA",
-      "tipo_objeto": "MUTATION",
+      "tipo_objeto": "DRUG",
       "score": 0.95
     },
     {
       "sujeto": "Gemcitabina",
       "tipo_sujeto": "DRUG",
-      "relacion": "TARGETS",
+      "relacion": "COMBINES_WITH",
       "objeto": "DCTD",
-      "tipo_objeto": "MUTATION",
+      "tipo_objeto": "DRUG",
       "score": 0.95
     },
     {
@@ -301,9 +317,9 @@
     {
       "sujeto": "Gemcitabine",
       "tipo_sujeto": "DRUG",
-      "relacion": "TARGETS",
+      "relacion": "COMBINES_WITH",
       "objeto": "Ribonucleotide reductase",
-      "tipo_objeto": "MUTATION",
+      "tipo_objeto": "PROCEDURE",
       "score": 0.95
     },
     {
@@ -347,11 +363,27 @@
       "score": 0.95
     },
     {
+      "sujeto": "hENT1",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Survival",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
       "sujeto": "dCK",
       "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "dCK",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "survival",
+      "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
@@ -374,8 +406,24 @@
       "sujeto": "RRM1",
       "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
+      "objeto": "overall survival",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "RRM1",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
       "objeto": "resected Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "RRM1",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "adjuvant gemcitabine",
+      "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
@@ -424,6 +472,22 @@
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Nucleoside transporters",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Midkine (MK)",
+      "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
@@ -523,6 +587,30 @@
       "score": 0.95
     },
     {
+      "sujeto": "CSCs",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Reservoir",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CSCs",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Survival",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "ng leucocytes",
+      "tipo_sujeto": "ADVERSE_EVENT",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
       "sujeto": "HIF-1α",
       "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
@@ -542,6 +630,14 @@
       "sujeto": "Pancreatic ductal adenocarcinoma",
       "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
+      "objeto": "ng leucocytes",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
       "objeto": "HIF-1α",
       "tipo_objeto": "MUTATION",
       "score": 0.95
@@ -551,6 +647,14 @@
       "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "MUC1",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS",
       "tipo_objeto": "MUTATION",
       "score": 0.95
     },
@@ -613,6 +717,14 @@
     {
       "sujeto": "Microbiome",
       "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Patient outcome",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Microbiome",
+      "tipo_sujeto": "DISEASE",
       "relacion": "CAUSES",
       "objeto": "Gemcitabine resistance",
       "tipo_objeto": "ADVERSE_EVENT",
@@ -632,6 +744,14 @@
       "relacion": "TREATS",
       "objeto": "Colon cancer",
       "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "NGF",
+      "tipo_objeto": "MUTATION",
       "score": 0.95
     },
     {
@@ -679,6 +799,14 @@
       "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Inflammation",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabine",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Metástasis",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
@@ -747,6 +875,14 @@
       "score": 0.95
     },
     {
+      "sujeto": "IPI-926",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Desmoplasia formation",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
       "sujeto": "VS-4718",
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
@@ -768,6 +904,14 @@
       "relacion": "TREATS",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "VS-4718",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Longer survival",
+      "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
@@ -880,6 +1024,14 @@
       "relacion": "EVALUATED_IN",
       "objeto": "NCT04997993",
       "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "LDH inhibitors",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "FX11",
+      "tipo_objeto": "DRUG",
       "score": 0.95
     },
     {

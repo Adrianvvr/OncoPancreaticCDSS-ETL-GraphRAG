@@ -3,6 +3,14 @@
   "categoria": "01_guias",
   "tripletas": [
     {
+      "sujeto": "Cáncer pancreático",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
       "sujeto": "cirugía pancreática",
       "tipo_sujeto": "PROCEDURE",
       "relacion": "TREATS",
@@ -13,7 +21,7 @@
     {
       "sujeto": "Estudios de diagnóstico por imágenes",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
       "objeto": "Cáncer pancreático",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -29,7 +37,15 @@
     {
       "sujeto": "Exploraciones con protocolo pancreático",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "EVALUATED_IN",
+      "objeto": "Guía 1",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Exploraciones con protocolo pancreático",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
       "objeto": "Cáncer pancreático",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -37,7 +53,15 @@
     {
       "sujeto": "Exploraciones con protocolo pancreático",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "CAUSES",
+      "objeto": "Cáncer pancreático",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Exploraciones con protocolo pancreático",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CAUSES",
       "objeto": "Cáncer de hígado",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -45,7 +69,7 @@
     {
       "sujeto": "Exploraciones con protocolo pancreático",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "CAUSES",
       "objeto": "Cáncer de revestimiento del abdomen",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -53,7 +77,7 @@
     {
       "sujeto": "Exploraciones con protocolo pancreático",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "CAUSES",
       "objeto": "Cáncer de pulmones",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -61,7 +85,39 @@
     {
       "sujeto": "Exploraciones con protocolo pancreático",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "CAUSES",
+      "objeto": "Cáncer de otros órganos",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Exploraciones con protocolo pancreático",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de hígado",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Exploraciones con protocolo pancreático",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de revestimiento del abdomen",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Exploraciones con protocolo pancreático",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de pulmones",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Exploraciones con protocolo pancreático",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
       "objeto": "Cáncer de otros órganos",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -69,7 +125,23 @@
     {
       "sujeto": "Endoscopio",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "CAUSES",
+      "objeto": "Menos traumatismos en el cuerpo",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Endoscopio",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Cirugía abierta",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Endoscopio",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
       "objeto": "Cáncer pancreático",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -77,8 +149,16 @@
     {
       "sujeto": "Ecografía endoscópica",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
       "objeto": "Cáncer pancreático",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CPRE",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Afecciones médicas",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     },
@@ -93,7 +173,7 @@
     {
       "sujeto": "Laparoscopía",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
       "objeto": "Cáncer pancreático",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -101,7 +181,7 @@
     {
       "sujeto": "Pruebas de función hepática",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "CAUSES",
       "objeto": "Cáncer de páncreas",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -117,15 +197,47 @@
     {
       "sujeto": "CA 19-9",
       "tipo_sujeto": "MUTATION",
-      "relacion": "ASSOCIATED_WITH",
+      "relacion": "CAUSES",
       "objeto": "Obstrucción de un conducto biliar",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CA 19-9",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "CAUSES",
+      "objeto": "Uso de ciertos medicamentos",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CA 19-9",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Niveles normales de CA 19-9",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CA 19-9",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Niveles no presentan este marcador",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "CA 19-9",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Niveles disminuyen o aumentan",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
       "sujeto": "Biopsia",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
       "objeto": "Cáncer de páncreas",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -141,7 +253,15 @@
     {
       "sujeto": "Biopsia por punción con aguja gruesa",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
+      "objeto": "Cáncer de páncreas",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Biopsia por punción con aguja gruesa",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CAUSES",
       "objeto": "Cáncer de páncreas",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -195,6 +315,22 @@
       "score": 0.95
     },
     {
+      "sujeto": "Asesor genético",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Cáncer pancreático",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Asesor genético",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CAUSES",
+      "objeto": "Cáncer pancreático",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
       "sujeto": "mutación de la línea germinal causante de cáncer",
       "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
@@ -204,7 +340,7 @@
     },
     {
       "sujeto": "antecedentes familiares de cáncer",
-      "tipo_sujeto": "ADVERSE_EVENT",
+      "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Cáncer pancreático",
       "tipo_objeto": "DISEASE",
@@ -283,11 +419,43 @@
       "score": 0.95
     },
     {
+      "sujeto": "Guía 3",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Guía de NCCN para pacientes",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
       "sujeto": "Pancreatic ductal adenocarcinoma",
       "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "CA 19-9",
       "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Guía 3",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "NCCN",
+      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
@@ -376,6 +544,22 @@
       "relacion": "TREATS",
       "objeto": "Cáncer pancreático",
       "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Fluorouracilo",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Inyección más rápida",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Fluorouracilo",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Píldora que se puede tomar en casa",
+      "tipo_objeto": "PROCEDURE",
       "score": 0.95
     },
     {
@@ -579,6 +763,14 @@
       "score": 0.95
     },
     {
+      "sujeto": "Inhibidores del punto de control inmunitario",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "Células T inmunitarias",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
       "sujeto": "Pembrolizumab",
       "tipo_sujeto": "DRUG",
       "relacion": "TREATS",
@@ -635,6 +827,14 @@
       "score": 0.95
     },
     {
+      "sujeto": "Radiooncólogo",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Cáncer pancreático",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
       "sujeto": "Radioterapia de haz externo (RTHE)",
       "tipo_sujeto": "PROCEDURE",
       "relacion": "TREATS",
@@ -675,6 +875,14 @@
       "score": 0.95
     },
     {
+      "sujeto": "Stent",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Apertura de la obstrucción",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
       "sujeto": "Insuficiencia pancreática exocrina",
       "tipo_sujeto": "DISEASE",
       "relacion": "CAUSES",
@@ -701,9 +909,17 @@
     {
       "sujeto": "Olanzapina",
       "tipo_sujeto": "DRUG",
-      "relacion": "TREATS",
+      "relacion": "CAUSES",
       "objeto": "Anorexia",
       "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Olanzapina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Cáncer pancreático avanzado",
+      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
@@ -715,11 +931,27 @@
       "score": 0.95
     },
     {
+      "sujeto": "Warfarina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Bloqueadores de la vitamina K",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
       "sujeto": "Heparina de bajo peso molecular (HBPM)",
       "tipo_sujeto": "DRUG",
       "relacion": "CONTRAINDICATED_IN",
       "objeto": "Warfarina",
       "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Anticoagulantes orales directos",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Tumor pancreático",
+      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
@@ -760,6 +992,14 @@
       "relacion": "COMBINES_WITH",
       "objeto": "Cirugía",
       "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Tratamiento primario",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CAUSES",
+      "objeto": "Cáncer pancreático",
+      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
@@ -843,8 +1083,40 @@
       "score": 0.95
     },
     {
-      "sujeto": "Quimiorradiación",
+      "sujeto": "Basándose en parte en su estado funcional",
       "tipo_sujeto": "PROCEDURE",
+      "relacion": "EVALUATED_IN",
+      "objeto": "Guía 4",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Basándose en parte en su estado funcional",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "TREATS",
+      "objeto": "Tratamiento oncológico",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Basándose en parte en su estado funcional",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CAUSES",
+      "objeto": "Tratamiento oncológico",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Basándose en parte en su estado funcional",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Tratamiento oncológico",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Quimiorradiación",
+      "tipo_sujeto": "DRUG",
       "relacion": "TREATS",
       "objeto": "Cáncer pancreático",
       "tipo_objeto": "DISEASE",
@@ -932,7 +1204,7 @@
     },
     {
       "sujeto": "Paclitaxel unido a albúmina",
-      "tipo_sujeto": "DRUG",
+      "tipo_sujeto": "REGIMEN",
       "relacion": "TREATS",
       "objeto": "Cáncer pancreático",
       "tipo_objeto": "DISEASE",
@@ -1348,7 +1620,7 @@
     },
     {
       "sujeto": "fluoropirimidina",
-      "tipo_sujeto": "DRUG",
+      "tipo_sujeto": "REGIMEN",
       "relacion": "TREATS",
       "objeto": "Adenocarcinoma de páncreas",
       "tipo_objeto": "DISEASE",
@@ -1387,6 +1659,46 @@
       "score": 0.95
     },
     {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "CAPEOX",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "FOLFIRI",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "FOLFIRINOX",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "FOLFOX",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "OFF",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
       "sujeto": "Fluorouracilo",
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
@@ -1403,6 +1715,38 @@
       "score": 0.95
     },
     {
+      "sujeto": "Fluorouracilo",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "FOLFIRI",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Fluorouracilo",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "FOLFIRINOX",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Fluorouracilo",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "FOLFOX",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Fluorouracilo",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "OFF",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
       "sujeto": "Irinotecán",
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
@@ -1415,6 +1759,22 @@
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
       "objeto": "Leucovorina",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "FOLFIRI",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Irinotecán",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "FOLFIRINOX",
       "tipo_objeto": "DRUG",
       "score": 0.95
     },
@@ -1467,11 +1827,35 @@
       "score": 0.95
     },
     {
+      "sujeto": "Cirugía",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Otros tipos de tratamiento",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
       "sujeto": "cirugía",
       "tipo_sujeto": "PROCEDURE",
       "relacion": "TREATS",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Regímen terapéutico",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Cáncer pancreático",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FOLFIRINOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Gemcitabina",
+      "tipo_objeto": "DRUG",
       "score": 0.95
     },
     {
@@ -1539,6 +1923,14 @@
       "score": 0.95
     },
     {
+      "sujeto": "PAXG",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Albúmina",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
       "sujeto": "Quimioterapia neoadyuvante",
       "tipo_sujeto": "PROCEDURE",
       "relacion": "TREATS",
@@ -1559,6 +1951,14 @@
       "tipo_sujeto": "PROCEDURE",
       "relacion": "COMBINES_WITH",
       "objeto": "TC de tórax",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "TC",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "COMBINES_WITH",
+      "objeto": "pelvis",
       "tipo_objeto": "PROCEDURE",
       "score": 0.95
     },
@@ -1597,7 +1997,7 @@
     {
       "sujeto": "TEP",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -1707,9 +2107,33 @@
       "score": 0.95
     },
     {
+      "sujeto": "TC con medio de contraste de tórax, pelvis y abdomen",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "EVALUATED_IN",
+      "objeto": "Capítulo 6: Tratamiento sistémico",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Análisis de sangre de CA 19-9",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "EVALUATED_IN",
+      "objeto": "Capítulo 6: Tratamiento sistémico",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "TC de tórax",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "EVALUATED_IN",
+      "objeto": "NCCN",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
       "sujeto": "biopsia",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
       "objeto": "cáncer pancreático",
       "tipo_objeto": "DISEASE",
       "score": 0.95

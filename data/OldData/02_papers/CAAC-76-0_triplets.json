@@ -11,6 +11,54 @@
       "score": 0.99
     },
     {
+      "sujeto": "PDAC",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Incidence",
+      "tipo_objeto": "STAGE",
+      "score": 0.99
+    },
+    {
+      "sujeto": "PDAC",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Mortality",
+      "tipo_objeto": "STAGE",
+      "score": 0.99
+    },
+    {
+      "sujeto": "PDAC",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Incidence and mortality rates",
+      "tipo_objeto": "STAGE",
+      "score": 0.99
+    },
+    {
+      "sujeto": "Age",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Male biological sex",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Black race",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
       "sujeto": "Smoking",
       "tipo_sujeto": "ADVERSE_EVENT",
       "relacion": "ASSOCIATED_WITH",
@@ -36,7 +84,7 @@
     },
     {
       "sujeto": "Cigarette smoking",
-      "tipo_sujeto": "ADVERSE_EVENT",
+      "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic Ductal Adenocarcinoma",
       "tipo_objeto": "DISEASE",
@@ -44,7 +92,7 @@
     },
     {
       "sujeto": "Cigarette smoking",
-      "tipo_sujeto": "ADVERSE_EVENT",
+      "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Diabetes",
       "tipo_objeto": "DISEASE",
@@ -52,7 +100,7 @@
     },
     {
       "sujeto": "Cigarette smoking",
-      "tipo_sujeto": "ADVERSE_EVENT",
+      "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Family history of Pancreatic Ductal Adenocarcinoma",
       "tipo_objeto": "DISEASE",
@@ -60,7 +108,7 @@
     },
     {
       "sujeto": "Cigarette smoking",
-      "tipo_sujeto": "ADVERSE_EVENT",
+      "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatitis",
       "tipo_objeto": "DISEASE",
@@ -68,7 +116,7 @@
     },
     {
       "sujeto": "diabetes",
-      "tipo_sujeto": "DISEASE",
+      "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "PDAC",
       "tipo_objeto": "DISEASE",
@@ -84,10 +132,90 @@
     },
     {
       "sujeto": "high-density lipoprotein cholesterol",
-      "tipo_sujeto": "MUTATION",
+      "tipo_sujeto": "ADVERSE_EVENT",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Glucagon-like peptide-1 receptor agonists",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic Ductal Adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Red and processed meat",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic Ductal Adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Fried foods",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic Ductal Adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Dyes",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic Ductal Adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pigments",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic Ductal Adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Industrial solvents",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic Ductal Adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PDAC",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Age",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PDAC",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "First-degree relatives affected by PDAC",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PDAC",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Second-degree relatives affected by PDAC",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PDAC",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Third-degree and more distant relatives affected by PDAC",
+      "tipo_objeto": "STAGE",
       "score": 0.95
     },
     {
@@ -95,7 +223,23 @@
       "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Inherited pathogenic variants in cancer susceptibility genes",
-      "tipo_objeto": "MUTATION",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PDAC",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Shared environmental exposures and epigenetic influences",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PDAC",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Inherited predisposition",
+      "tipo_objeto": "STAGE",
       "score": 0.95
     },
     {
@@ -103,7 +247,7 @@
       "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Germline pathogenic variant in a cancer susceptibility gene",
-      "tipo_objeto": "MUTATION",
+      "tipo_objeto": "STAGE",
       "score": 0.95
     },
     {
@@ -111,7 +255,7 @@
       "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Hereditary pancreatic cancer (HPC)",
-      "tipo_objeto": "DISEASE",
+      "tipo_objeto": "STAGE",
       "score": 0.95
     },
     {
@@ -119,7 +263,31 @@
       "tipo_sujeto": "DISEASE",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Familial pancreatic cancer (FPC)",
-      "tipo_objeto": "DISEASE",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PDAC",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Germline genetic testing",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PDAC",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Twin studies",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PDAC",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Smoking cessation",
+      "tipo_objeto": "STAGE",
       "score": 0.95
     },
     {
@@ -275,6 +443,150 @@
       "score": 0.95
     },
     {
+      "sujeto": "PRECEDE",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Cancer of the Pancreas Screening Study",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "American Gastroenterology Association",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "American Society of Gastrointestinal Endoscopy",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "European Society of Gastrointestinal Endoscopy",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "European Registry of Familial Pancreatic Cancer and Hereditary Pancreatitis",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "National Comprehensive Cancer Network",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Pancreatic Detection Consortium",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "UK Early Detection Initiative for Pancreatic Cancer",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "ADEPTS",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "DETECT",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "EUROPAC",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "METAPAC",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "GENESEEQ",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PANDA",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "STAGE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Familial clustering",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Multiple affected family members",
+      "tipo_sujeto": "STAGE",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "National Comprehensive Cancer Network",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "EVALUATED_IN",
+      "objeto": "National Comprehensive Cancer Network guidelines",
+      "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
       "sujeto": "_BRCA1_",
       "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
@@ -308,7 +620,7 @@
     },
     {
       "sujeto": "Peutz–Jeghers syndrome",
-      "tipo_sujeto": "DISEASE",
+      "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
@@ -396,7 +708,7 @@
     },
     {
       "sujeto": "PanINs",
-      "tipo_sujeto": "DISEASE",
+      "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
@@ -412,7 +724,7 @@
     },
     {
       "sujeto": "MCNs",
-      "tipo_sujeto": "DISEASE",
+      "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
@@ -420,7 +732,7 @@
     },
     {
       "sujeto": "IPMNs",
-      "tipo_sujeto": "DISEASE",
+      "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
@@ -533,7 +845,7 @@
     {
       "sujeto": "Computed tomography",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -541,7 +853,7 @@
     {
       "sujeto": "Computed tomography",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
       "objeto": "Liver metastases",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -549,7 +861,7 @@
     {
       "sujeto": "Computed tomography",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
       "objeto": "Poorly defined lesions",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -557,7 +869,7 @@
     {
       "sujeto": "Computed tomography",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
       "objeto": "Benign lesions",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -565,7 +877,7 @@
     {
       "sujeto": "Computed tomography",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
       "objeto": "Malignant lesions",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -573,7 +885,7 @@
     {
       "sujeto": "Computed tomography",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
       "objeto": "Biliary obstruction",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -620,7 +932,7 @@
     },
     {
       "sujeto": "regional lymph node metastases",
-      "tipo_sujeto": "STAGE",
+      "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
@@ -629,7 +941,7 @@
     {
       "sujeto": "anatomic staging",
       "tipo_sujeto": "PROCEDURE",
-      "relacion": "DIAGNOSES",
+      "relacion": "TREATS",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
       "score": 0.95
@@ -655,7 +967,7 @@
       "tipo_sujeto": "ADVERSE_EVENT",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "PDAC resection",
-      "tipo_objeto": "PROCEDURE",
+      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
@@ -663,7 +975,7 @@
       "tipo_sujeto": "ADVERSE_EVENT",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic cancer resection",
-      "tipo_objeto": "PROCEDURE",
+      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
@@ -671,7 +983,7 @@
       "tipo_sujeto": "ADVERSE_EVENT",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic cancer resection",
-      "tipo_objeto": "PROCEDURE",
+      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
@@ -679,7 +991,7 @@
       "tipo_sujeto": "ADVERSE_EVENT",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic cancer resection",
-      "tipo_objeto": "PROCEDURE",
+      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
@@ -687,7 +999,7 @@
       "tipo_sujeto": "ADVERSE_EVENT",
       "relacion": "ASSOCIATED_WITH",
       "objeto": "Pancreatic cancer resection",
-      "tipo_objeto": "PROCEDURE",
+      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {
@@ -795,6 +1107,14 @@
       "score": 0.95
     },
     {
+      "sujeto": "mFOLFIRINOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Gemcitabine",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
       "sujeto": "GnP",
       "tipo_sujeto": "REGIMEN",
       "relacion": "TREATS",
@@ -816,6 +1136,14 @@
       "relacion": "TREATS",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "gemcitabina",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "CA 19-9",
+      "tipo_objeto": "MUTATION",
       "score": 0.95
     },
     {
@@ -847,6 +1175,14 @@
       "tipo_sujeto": "REGIMEN",
       "relacion": "TREATS",
       "objeto": "node-positive Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "adjuvant radiation therapy",
+      "tipo_sujeto": "PROCEDURE",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     },
@@ -1094,8 +1430,16 @@
       "sujeto": "neoadjuvant FOLFIRINOX",
       "tipo_sujeto": "REGIMEN",
       "relacion": "COMBINES_WITH",
+      "objeto": "upfront surgery",
+      "tipo_objeto": "PROCEDURE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "neoadjuvant FOLFIRINOX",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "COMBINES_WITH",
       "objeto": "adjuvant FOLFIRINOX",
-      "tipo_objeto": "REGIMEN",
+      "tipo_objeto": "PROCEDURE",
       "score": 0.95
     },
     {
@@ -1144,6 +1488,14 @@
       "relacion": "COMBINES_WITH",
       "objeto": "Paclitaxel",
       "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Oligometastatic Pancreatic Ductal Adenocarcinoma",
+      "tipo_sujeto": "DISEASE",
+      "relacion": "CAUSES",
+      "objeto": "Progression-free survival",
+      "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
     },
     {
@@ -1331,8 +1683,48 @@
       "score": 0.95
     },
     {
+      "sujeto": "FOLFIRI",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Gemcitabine",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "FOLFIRI",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Nab-paclitaxel",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Modified FFX",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Gemcitabine",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Modified FFX",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Nab-paclitaxel",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
       "sujeto": "NALIRIFOX",
       "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "IFOX",
+      "tipo_sujeto": "DRUG",
       "relacion": "TREATS",
       "objeto": "Pancreatic ductal adenocarcinoma",
       "tipo_objeto": "DISEASE",
@@ -1371,6 +1763,22 @@
       "score": 0.95
     },
     {
+      "sujeto": "PACT-19",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "PACT-19",
+      "tipo_sujeto": "REGIMEN",
+      "relacion": "CAUSES",
+      "objeto": "6-month progression-free survival",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
       "sujeto": "Oxaliplatin",
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
@@ -1391,6 +1799,14 @@
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
       "objeto": "Fluorouracil",
+      "tipo_objeto": "DRUG",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Folinic acid",
+      "tipo_sujeto": "DRUG",
+      "relacion": "COMBINES_WITH",
+      "objeto": "Leucovorin",
       "tipo_objeto": "DRUG",
       "score": 0.95
     },
@@ -1624,6 +2040,14 @@
       "relacion": "EVALUATED_IN",
       "objeto": "POLO trial",
       "tipo_objeto": "TRIAL",
+      "score": 0.95
+    },
+    {
+      "sujeto": "olaparib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CONTRAINDICATED_IN",
+      "objeto": "Pancreatic ductal adenocarcinoma",
+      "tipo_objeto": "DISEASE",
       "score": 0.95
     },
     {

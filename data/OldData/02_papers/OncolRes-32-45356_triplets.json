@@ -43,6 +43,22 @@
       "score": 0.95
     },
     {
+      "sujeto": "KRAS G12C inhibitor",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Sotorasib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS G12D",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
       "sujeto": "KRAS",
       "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
@@ -127,6 +143,22 @@
       "tipo_sujeto": "DRUG",
       "relacion": "TREATS",
       "objeto": "Solid cancers",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Sotorasib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Stable disease",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "Sotorasib",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "30% reduction",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     },
@@ -326,6 +358,22 @@
       "sujeto": "KRAS G12D mutation",
       "tipo_sujeto": "MUTATION",
       "relacion": "ASSOCIATED_WITH",
+      "objeto": "sensitivity to Afatinib combination therapy",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D mutation",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
+      "objeto": "synergy with current PDAC first-line treatments",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "KRAS G12D mutation",
+      "tipo_sujeto": "MUTATION",
+      "relacion": "ASSOCIATED_WITH",
       "objeto": "resistance to MRTX1133",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.95
@@ -422,6 +470,22 @@
       "sujeto": "MRTX1133",
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
+      "objeto": "Acquisition of the M1 phenotype in macrophages",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.9
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Increased influx of CD8+ T cell lymphocytes",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.9
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
       "objeto": "Readjustments of CAFs",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.9
@@ -439,6 +503,14 @@
       "tipo_sujeto": "DRUG",
       "relacion": "CAUSES",
       "objeto": "Elevation of suppressive myeloid cells",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.9
+    },
+    {
+      "sujeto": "MRTX1133",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Increased infiltration of CD8+ T cell lymphocytes",
       "tipo_objeto": "ADVERSE_EVENT",
       "score": 0.9
     },
@@ -483,6 +555,14 @@
       "score": 0.98
     },
     {
+      "sujeto": "TH-Z835",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Inhibition of KRAS G12D",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
       "sujeto": "RMC-6236",
       "tipo_sujeto": "DRUG",
       "relacion": "TREATS",
@@ -495,7 +575,7 @@
       "tipo_sujeto": "DRUG",
       "relacion": "COMBINES_WITH",
       "objeto": "Anti-PD-1 checkpoint antibody",
-      "tipo_objeto": "DRUG",
+      "tipo_objeto": "PROCEDURE",
       "score": 0.95
     },
     {
@@ -527,6 +607,46 @@
       "tipo_sujeto": "DRUG",
       "relacion": "TREATS",
       "objeto": "PDAC KRAS-mutant xenografts",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "RMC-6236",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "Pancreatic cancer patients",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "RMC-6236",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "PDAC cohort",
+      "tipo_objeto": "DISEASE",
+      "score": 0.95
+    },
+    {
+      "sujeto": "RMC-6236",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Tumor regressions",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "RMC-6236",
+      "tipo_sujeto": "DRUG",
+      "relacion": "CAUSES",
+      "objeto": "Low side effects",
+      "tipo_objeto": "ADVERSE_EVENT",
+      "score": 0.95
+    },
+    {
+      "sujeto": "RMC-6236",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TREATS",
+      "objeto": "46 evaluable patients",
       "tipo_objeto": "DISEASE",
       "score": 0.95
     },
@@ -607,6 +727,46 @@
       "tipo_sujeto": "DRUG",
       "relacion": "TARGETS",
       "objeto": "KRAS",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "BI-KRASdegrader1",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "NRAS",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "BI-KRASdegrader1",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "HRAS",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "9d",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "KRAS",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "9d",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "NRAS",
+      "tipo_objeto": "MUTATION",
+      "score": 0.95
+    },
+    {
+      "sujeto": "9d",
+      "tipo_sujeto": "DRUG",
+      "relacion": "TARGETS",
+      "objeto": "HRAS",
       "tipo_objeto": "MUTATION",
       "score": 0.95
     },
