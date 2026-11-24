@@ -1,3 +1,8 @@
 # Ignorar las carpetas de datos masivos locales
 data/01_raw/
 data/OldData
+.env
+
+# Reglas locales de validacion de esquema y entorno
+app/validacion.py
+app/__pycache__
