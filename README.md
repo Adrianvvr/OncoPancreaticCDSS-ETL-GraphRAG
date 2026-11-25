@@ -297,5 +297,5 @@ python app/ScriptOllama.py
 
 ## Documentación Detallada y Presentación
 
-- **Documentación técnica completa (preparada para exportación a PDF):** [`DOCUMENTACION.md`](DOCUMENTACION.pdf)
+- **Documentación técnica completa (preparada para exportación a PDF):** [`DOCUMENTACION.pdf`](DOCUMENTACION.pdf)
 - **Presentación del proyecto:** [`presentation/OncoPancreaticCDSS-presentation.pdf`](presentation/OncoPancreaticCDSS-presentation.pdf)
