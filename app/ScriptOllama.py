@@ -10,6 +10,7 @@ from pathlib import Path
 from typing import Any
 
 import requests
+from dotenv import load_dotenv
 from neo4j import GraphDatabase
 
 try:
@@ -76,9 +77,12 @@ except ImportError:
 # ==========================================
 # 1. CONFIGURACIÓN DE NEO4J, OLLAMA Y RUTAS
 # ==========================================
+BASE_DIR = Path(__file__).resolve().parent.parent
+load_dotenv(BASE_DIR / ".env")
+
 NEO4J_URI = os.getenv("NEO4J_URI", "bolt://localhost:7687")
 NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
-NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "neo4j1234")
+NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
 NEO4J_DB = os.getenv("NEO4J_DB", "oncopancreaticcdss")
 
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/api/generate")
@@ -95,7 +99,6 @@ OLLAMA_OPTIONS: dict[str, Any] = {
     "num_ctx": 4096,
 }
 
-BASE_DIR = Path(__file__).resolve().parent.parent
 INTERIM_DATA_DIR = BASE_DIR / "data" / "02_interim"
 
 NO_EVIDENCE_MSG = (
@@ -107,6 +110,15 @@ OUT_OF_DOMAIN_MSG = (
     "relacionadas con oncología pancreática, fármacos, biomarcadores, "
     "mutaciones, toxicidades, ensayos clínicos o el propio sistema."
 )
+
+
+def _neo4j_auth() -> tuple[str, str]:
+    if not NEO4J_PASSWORD:
+        raise RuntimeError(
+            "Falta NEO4J_PASSWORD. Defínela en el archivo .env o en el entorno."
+        )
+    return NEO4J_USER, NEO4J_PASSWORD
+
 
 CATEGORY_LABELS: dict[str, str] = {
     "01_guias": "Guía Clínica",
@@ -511,7 +523,7 @@ def query_neo4j_subgraph(
 
 def get_graph_stats() -> dict[str, Any]:
     """Obtiene métricas globales del grafo Neo4j para monitorización y UI."""
-    driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
+    driver = GraphDatabase.driver(NEO4J_URI, auth=_neo4j_auth())
     try:
         with driver.session(database=NEO4J_DB) as session:
             nodos = session.run("MATCH (n:Entity) RETURN count(n) AS c").single()["c"]
@@ -581,7 +593,7 @@ def ask_graphrag(
         }
 
     # 3. Recuperación de subgrafo y trazabilidad documental en Neo4j
-    driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
+    driver = GraphDatabase.driver(NEO4J_URI, auth=_neo4j_auth())
     try:
         tripletas, documentos, context = query_neo4j_subgraph(
             driver=driver,
